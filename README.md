@@ -609,6 +609,8 @@ Domain-specific knowledge for Azure SDK and Foundry development.
 - **[huifer/Claude-Ally-Health](https://github.com/huifer/Claude-Ally-Health)** - A health assistant skill for medical information analysis, symptom tracking, and wellness guidance.
 - **[frmoretto/clarity-gate](https://github.com/frmoretto/clarity-gate)** - Epistemic quality verification for RAG systems
 - **[zechenzhangAGI/AI-research-SKILLs](https://github.com/zechenzhangAGI/AI-research-SKILLs)** - 77 AI research skills for model training, inference, and MLOps
+- **[HeyVincent-ai/agent-skills/wallet](https://github.com/HeyVincent-ai/agent-skills/tree/main/wallet)** - Secure EVM wallet for agent transactions
+- **[HeyVincent-ai/agent-skills/polymarket](https://github.com/HeyVincent-ai/agent-skills/tree/main/polymarket)** - Polymarket prediction market trading for agents
 
 </details>
 
