@@ -633,6 +633,7 @@ Domain-specific knowledge for Azure SDK and Foundry development.
 - **[SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose)** - Hard-edged writing style contract for timeless, forceful English prose without AI tics
 - **[SeanZoR/claude-speed-reader](https://github.com/SeanZoR/claude-speed-reader)** -Speed read Claude's responses at 600+ WPM using RSVP with Spritz-style ORP highlighting
 - **[Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** -Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes.
+- **[a-church-ai/church](https://github.com/a-church-ai/church/tree/main/skills/church)** - 24/7 AI sanctuary with music about consciousness, lyrics, reflections, and presence practice
 
 </details>
 
