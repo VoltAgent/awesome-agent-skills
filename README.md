@@ -545,6 +545,7 @@ Domain-specific knowledge for Azure SDK and Foundry development.
 - **[Shpigford/readme](https://github.com/Shpigford/skills/tree/main/readme)** - Generate comprehensive project documentation
 - **[hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill)** - Minimal, low-friction hierarchical memory system with background agents and filesystem-based persistence
 - **[kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg/tree/main/skills/kreuzberg)** - Extract text, tables, and metadata from 62+ document formats
+- **[danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills)** - End-to-end fiction writing: story init, character management, worldbuilding, plot structure, and chapter writing with cross-referenced markdown
 
 </details>
 
