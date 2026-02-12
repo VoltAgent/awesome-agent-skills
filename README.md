@@ -609,6 +609,7 @@ Domain-specific knowledge for Azure SDK and Foundry development.
 - **[huifer/Claude-Ally-Health](https://github.com/huifer/Claude-Ally-Health)** - A health assistant skill for medical information analysis, symptom tracking, and wellness guidance.
 - **[frmoretto/clarity-gate](https://github.com/frmoretto/clarity-gate)** - Epistemic quality verification for RAG systems
 - **[zechenzhangAGI/AI-research-SKILLs](https://github.com/zechenzhangAGI/AI-research-SKILLs)** - 77 AI research skills for model training, inference, and MLOps
+- **[shepsci/kaggle-skill](https://github.com/shepsci/kaggle-skill)** - Complete Kaggle integration — account setup, competition reports, dataset/model downloads, notebook execution, submissions, and badge collection
 
 </details>
 
