@@ -528,6 +528,7 @@ Domain-specific knowledge for Azure SDK and Foundry development.
 - **[ComposioHQ/content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)** - Enhance writing with research
 - **[ComposioHQ/competitive-ads-extractor](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor)** - Analyze competitor advertising
 - **[wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** - Publish articles to X/Twitter
+- **[chadboyda/agent-gtm-skills](https://github.com/chadboyda/agent-gtm-skills)** - 18 GTM skills: pricing, outbound, SEO, retention, and ops
 
 </details>
 
