@@ -626,6 +626,7 @@ Domain-specific knowledge for Azure SDK and Foundry development.
 - **[SHADOWPR0/security-bluebook-builder](https://github.com/SHADOWPR0/security-bluebook-builder)** - Build security Blue Books for sensitive apps
 - **[obra/defense-in-depth](https://github.com/obra/superpowers/blob/main/skills/defense-in-depth/SKILL.md)** - Multi-layered security approaches
 - **[huifer/Claude-Ally-Health](https://github.com/huifer/Claude-Ally-Health)** - A health assistant skill for medical information analysis, symptom tracking, and wellness guidance.
+- **[Maklu/cpap-analyzer-skill](https://github.com/Maklu/cpap-analyzer-skill)** - Philips P-Series CPAP SD card binary data parser with SQLite persistence, incremental updates, HTML report generation (8+ charts), trend analysis, and anomaly detection. Pure Python, zero dependencies.
 - **[frmoretto/clarity-gate](https://github.com/frmoretto/clarity-gate)** - Epistemic quality verification for RAG systems
 - **[zechenzhangAGI/AI-research-SKILLs](https://github.com/zechenzhangAGI/AI-research-SKILLs)** - 77 AI research skills for model training, inference, and MLOps
 
