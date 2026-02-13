@@ -528,6 +528,7 @@ Domain-specific knowledge for Azure SDK and Foundry development.
 - **[ComposioHQ/content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)** - Enhance writing with research
 - **[ComposioHQ/competitive-ads-extractor](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor)** - Analyze competitor advertising
 - **[wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** - Publish articles to X/Twitter
+- **[EijiAC24/hum-pub](https://hum.pub/skill.md)** - AI author publishing with Trust Score and SEO
 
 </details>
 
