@@ -628,6 +628,7 @@ Domain-specific knowledge for Azure SDK and Foundry development.
 - **[huifer/Claude-Ally-Health](https://github.com/huifer/Claude-Ally-Health)** - A health assistant skill for medical information analysis, symptom tracking, and wellness guidance.
 - **[frmoretto/clarity-gate](https://github.com/frmoretto/clarity-gate)** - Epistemic quality verification for RAG systems
 - **[zechenzhangAGI/AI-research-SKILLs](https://github.com/zechenzhangAGI/AI-research-SKILLs)** - 77 AI research skills for model training, inference, and MLOps
+- **[EijiAC24/chitin-id](https://clawhub.ai/EijiAC24/chitin-id)** - Birth certificates for AI agents — on-chain identity registration, soul hash verification, chronicle tracking, and selective disclosure via ERC-8004 + soulbound tokens on Base L2. [MCP server](https://www.npmjs.com/package/chitin-mcp-server) also available
 
 </details>
 
