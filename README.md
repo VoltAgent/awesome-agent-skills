@@ -65,6 +65,7 @@ The most contributed Agent Skills repository, built and maintained together with
 - [Skills by Remotion Team](#skills-by-remotion-team)
 - [Skills by WordPress Development Team](#skills-by-wordpress-development-team)
 - [Skills by Transloadit Team](#skills-by-transloadit-team)
+- [Skills by Algorand Ecosystem](#skills-by-algorand-ecosystem)
 - [Community Skills](#community-skills)
 - [Skill Quality Standards](#skill-quality-standards)
 
@@ -515,6 +516,42 @@ Domain-specific knowledge for Azure SDK and Foundry development.
 - **[transloadit/transform-encode-hls-video](https://github.com/transloadit/skills/tree/main/skills/transform-encode-hls-video-with-transloadit)** - Encode video to HLS streaming format
 - **[transloadit/integrate-uppy-s3-uploading](https://github.com/transloadit/skills/tree/main/skills/integrate-uppy-transloadit-s3-uploading-to-nextjs)** - Add Uppy file uploads to Next.js apps
 - **[transloadit/integrate-smartcdn-delivery](https://github.com/transloadit/skills/tree/main/skills/integrate-asset-delivery-with-transloadit-smartcdn-in-nextjs)** - Smart CDN asset delivery in Next.js
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Algorand Ecosystem</h3></summary>
+
+- **[algorand-devrel/create-project](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/create-project)** - Initialize AlgoKit projects with best practices
+- **[algorand-devrel/build-smart-contracts](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/build-smart-contracts)** - Build contracts in Algorand TypeScript or Python
+- **[algorand-devrel/algorand-typescript](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/algorand-typescript)** - Syntax rules for Algorand TypeScript (PuyaTs)
+- **[algorand-devrel/algorand-ts-migration](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/algorand-ts-migration)** - Migrate from TEALScript or beta Algorand TS
+- **[algorand-devrel/test-smart-contracts](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/test-smart-contracts)** - Write and run contract tests
+- **[algorand-devrel/call-smart-contracts](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/call-smart-contracts)** - Deploy and interact with contracts
+- **[algorand-devrel/deploy-react-frontend](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/deploy-react-frontend)** - Build React frontends for dApps
+- **[algorand-devrel/use-algokit-cli](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/use-algokit-cli)** - AlgoKit CLI command reference
+- **[algorand-devrel/search-algorand-examples](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/search-algorand-examples)** - Find canonical code examples
+- **[algorand-devrel/use-algokit-utils](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/use-algokit-utils)** - AlgoKit Utils library for SDK interactions
+- **[algorand-devrel/troubleshoot-errors](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/troubleshoot-errors)** - Diagnose and fix common Algorand errors
+- **[algorand-devrel/implement-arc-standards](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/implement-arc-standards)** - Implement ARC-4, ARC-32, and ARC-56 standards
+
+- **[algorand-devrel/teach-algorand-x402](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/teach-algorand-x402)** - Teach x402 protocol, payment flow, and component architecture
+- **[algorand-devrel/explain-algorand-x402-typescript](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/explain-algorand-x402-typescript)** - Explain x402-avm TypeScript packages and patterns
+- **[algorand-devrel/explain-algorand-x402-python](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/explain-algorand-x402-python)** - Explain x402-avm Python package and patterns
+- **[algorand-devrel/create-typescript-x402-client](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/create-typescript-x402-client)** - Build x402 clients with fetch and axios (@x402-avm/fetch, @x402-avm/axios)
+- **[algorand-devrel/create-typescript-x402-server](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/create-typescript-x402-server)** - Build payment-protected servers with Express and Hono
+- **[algorand-devrel/create-typescript-x402-facilitator](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/create-typescript-x402-facilitator)** - Build facilitator services with optional Bazaar extension
+- **[algorand-devrel/create-typescript-x402-paywall](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/create-typescript-x402-paywall)** - Build browser paywall UI for manual payments
+- **[algorand-devrel/create-typescript-x402-nextjs](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/create-typescript-x402-nextjs)** - Build fullstack Next.js apps with payment middleware
+- **[algorand-devrel/use-typescript-x402-core-avm](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/use-typescript-x402-core-avm)** - Use @x402-avm/core and @x402-avm/avm directly for custom integrations
+- **[algorand-devrel/create-python-x402-client](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/create-python-x402-client)** - Build x402 clients with httpx (async) and requests (sync)
+- **[algorand-devrel/create-python-x402-server](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/create-python-x402-server)** - Build payment-protected servers with FastAPI and Flask
+- **[algorand-devrel/create-python-x402-facilitator](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/create-python-x402-facilitator)** - Build facilitator services implementing FacilitatorAvmSigner
+- **[algorand-devrel/create-python-x402-facilitator-bazaar](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/create-python-x402-facilitator-bazaar)** - Build facilitator with Bazaar discovery extension
+- **[algorand-devrel/use-python-x402-core-avm](https://github.com/algorand-devrel/algorand-agent-skills/tree/main/skills/use-python-x402-core-avm)** - Use x402-avm[avm] core and AVM mechanism directly
+- **[txnlab/nfd](https://github.com/txnlab/skills/tree/main/skills/nfd)** - Work with NFDomains, the Algorand Name Service for .algo domains
+- **[txnlab/use-wallet](https://github.com/txnlab/skills/tree/main/skills/use-wallet)** - Integrate Algorand wallet connections with @txnlab/use-wallet
+- **[txnlab/haystack-router](https://github.com/txnlab/skills/tree/main/skills/haystack-router)** - Route and execute optimal swaps on Algorand DEXes via Haystack
 
 </details>
 
