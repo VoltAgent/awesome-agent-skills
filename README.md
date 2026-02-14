@@ -22,7 +22,7 @@
 </a>
 
 [![AI Agent Papers](https://img.shields.io/badge/AI%20Agent-Research%20Papers-b31b1b)](https://github.com/VoltAgent/awesome-ai-agent-papers)
-![Skills Count](https://img.shields.io/badge/Skills-339+-blue?style=flat-square)
+![Skills Count](https://img.shields.io/badge/Skills-369+-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-agent-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-agent-skills?style=social)](https://github.com/VoltAgent/awesome-agent-skills/network/members)
@@ -66,6 +66,7 @@ The most contributed Agent Skills repository, built and maintained together with
 - [Skills by WordPress Development Team](#skills-by-wordpress-development-team)
 - [Skills by Transloadit Team](#skills-by-transloadit-team)
 - [Skills by Firecrawl Team](#skills-by-firecrawl-team)
+- [Skills by OpenAI](#skills-by-openai)
 - [Community Skills](#community-skills)
 - [Skill Quality Standards](#skill-quality-standards)
 
@@ -524,6 +525,44 @@ Domain-specific knowledge for Azure SDK and Foundry development.
 
 - **[firecrawl/firecrawl-cli](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-cli)** - Scrape, crawl, search, and map the web via CLI
 - **[firecrawl/firecrawl-claude-plugin](https://github.com/firecrawl/firecrawl-claude-plugin)** - Claude Code plugin for web scraping and search
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by OpenAI</h3></summary>
+
+Official curated skills from OpenAI's skills repository.
+
+- **[openai/cloudflare-deploy](https://github.com/openai/skills/tree/main/skills/.curated/cloudflare-deploy)** - Deploy apps to Cloudflare using Workers, Pages, and platform services
+- **[openai/develop-web-game](https://github.com/openai/skills/tree/main/skills/.curated/develop-web-game)** - Build and test web games iteratively using Playwright with time-stepping
+- **[openai/doc](https://github.com/openai/skills/tree/main/skills/.curated/doc)** - Read, create, and edit .docx documents with formatting and layout fidelity
+- **[openai/figma-implement-design](https://github.com/openai/skills/tree/main/skills/.curated/figma-implement-design)** - Translate Figma designs into production-ready code with pixel-perfect accuracy
+- **[openai/figma](https://github.com/openai/skills/tree/main/skills/.curated/figma)** - Fetch design context, screenshots, and assets from Figma for implementation
+- **[openai/gh-address-comments](https://github.com/openai/skills/tree/main/skills/.curated/gh-address-comments)** - Address review and issue comments on open GitHub PRs via CLI
+- **[openai/gh-fix-ci](https://github.com/openai/skills/tree/main/skills/.curated/gh-fix-ci)** - Debug and fix failing GitHub Actions PR checks using log inspection
+- **[openai/imagegen](https://github.com/openai/skills/tree/main/skills/.curated/imagegen)** - Generate and edit images using OpenAI's Image API for projects
+- **[openai/jupyter-notebook](https://github.com/openai/skills/tree/main/skills/.curated/jupyter-notebook)** - Create clean, reproducible Jupyter notebooks for experiments and tutorials
+- **[openai/linear](https://github.com/openai/skills/tree/main/skills/.curated/linear)** - Manage issues, projects, and team workflows in Linear
+- **[openai/netlify-deploy](https://github.com/openai/skills/tree/main/skills/.curated/netlify-deploy)** - Automate Netlify deployments with CLI auth, linking, and environment support
+- **[openai/notion-knowledge-capture](https://github.com/openai/skills/tree/main/skills/.curated/notion-knowledge-capture)** - Convert conversations into structured, searchable Notion wiki entries
+- **[openai/notion-meeting-intelligence](https://github.com/openai/skills/tree/main/skills/.curated/notion-meeting-intelligence)** - Prep meetings by pulling Notion context and tailoring agendas
+- **[openai/notion-research-documentation](https://github.com/openai/skills/tree/main/skills/.curated/notion-research-documentation)** - Research Notion content and synthesize findings into structured briefs
+- **[openai/notion-spec-to-implementation](https://github.com/openai/skills/tree/main/skills/.curated/notion-spec-to-implementation)** - Convert Notion specs into linked implementation plans and tasks
+- **[openai/openai-docs](https://github.com/openai/skills/tree/main/skills/.curated/openai-docs)** - Provide authoritative guidance from OpenAI developer documentation
+- **[openai/pdf](https://github.com/openai/skills/tree/main/skills/.curated/pdf)** - Read, create, and review PDFs with layout and visual formatting integrity
+- **[openai/playwright](https://github.com/openai/skills/tree/main/skills/.curated/playwright)** - Automate real browser interactions for navigation, forms, and scraping
+- **[openai/render-deploy](https://github.com/openai/skills/tree/main/skills/.curated/render-deploy)** - Deploy applications to Render's cloud platform using Git-backed services
+- **[openai/screenshot](https://github.com/openai/skills/tree/main/skills/.curated/screenshot)** - Capture desktop, app windows, or pixel regions across OS platforms
+- **[openai/security-best-practices](https://github.com/openai/skills/tree/main/skills/.curated/security-best-practices)** - Review code for language-specific security vulnerabilities
+- **[openai/security-ownership-map](https://github.com/openai/skills/tree/main/skills/.curated/security-ownership-map)** - Map people-to-file ownership, compute bus factor, and identify risks
+- **[openai/security-threat-model](https://github.com/openai/skills/tree/main/skills/.curated/security-threat-model)** - Generate repo-specific threat models identifying trust boundaries
+- **[openai/sentry](https://github.com/openai/skills/tree/main/skills/.curated/sentry)** - Inspect Sentry issues, summarize production errors, and pull health data
+- **[openai/sora](https://github.com/openai/skills/tree/main/skills/.curated/sora)** - Generate, remix, and manage short video clips via OpenAI's Sora API
+- **[openai/speech](https://github.com/openai/skills/tree/main/skills/.curated/speech)** - Generate spoken audio from text using OpenAI's API with built-in voices
+- **[openai/spreadsheet](https://github.com/openai/skills/tree/main/skills/.curated/spreadsheet)** - Create, edit, analyze, and visualize spreadsheets with formulas
+- **[openai/transcribe](https://github.com/openai/skills/tree/main/skills/.curated/transcribe)** - Transcribe audio files to text with optional speaker diarization
+- **[openai/vercel-deploy](https://github.com/openai/skills/tree/main/skills/.curated/vercel-deploy)** - Deploy applications and websites to Vercel with preview or production options
+- **[openai/yeet](https://github.com/openai/skills/tree/main/skills/.curated/yeet)** - Stage, commit, push code, and open a GitHub pull request via CLI
 
 </details>
 
