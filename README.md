@@ -555,6 +555,7 @@ Domain-specific knowledge for Azure SDK and Foundry development.
 - **[Shpigford/readme](https://github.com/Shpigford/skills/tree/main/readme)** - Generate comprehensive project documentation
 - **[hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill)** - Minimal, low-friction hierarchical memory system with background agents and filesystem-based persistence
 - **[kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg/tree/main/skills/kreuzberg)** - Extract text, tables, and metadata from 62+ document formats
+- **[product-on-purpose/pm-skills](https://github.com/product-on-purpose/pm-skills)** - 24 product management skills for PRDs, roadmaps, and OKRs
 
 </details>
 
