@@ -672,6 +672,8 @@ Official curated skills from OpenAI's skills repository.
 - **[komal-SkyNET/claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant)** - Supercharge and manage Home Assistant workflows
 - **[prompt-security/clawsec](https://github.com/prompt-security/clawsec)** - Security skill suite with drift detection, automated audits, and skill integrity verification
 - **[lawvable/awesome-legal-skills](https://github.com/lawvable/awesome-legal-skills)** - Curated agent skills for automating legal workflows
+- **[tasteray/elicitation](https://github.com/tasteray/skills/tree/main/elicitation)** - Psychological profiling through natural conversation
+- **[tasteray/recommendations](https://github.com/tasteray/skills/tree/main/recommendations)** - Personalized recommendations via TasteRay API
 
 </details>
 
