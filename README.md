@@ -672,6 +672,7 @@ Official curated skills from OpenAI's skills repository.
 - **[komal-SkyNET/claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant)** - Supercharge and manage Home Assistant workflows
 - **[prompt-security/clawsec](https://github.com/prompt-security/clawsec)** - Security skill suite with drift detection, automated audits, and skill integrity verification
 - **[lawvable/awesome-legal-skills](https://github.com/lawvable/awesome-legal-skills)** - Curated agent skills for automating legal workflows
+- **[echennells/sparkbtcbot-skill](https://github.com/echennells/sparkbtcbot-skill)** - L402 payment capabilities for AI agents with instant machine-to-machine transfers
 
 </details>
 
