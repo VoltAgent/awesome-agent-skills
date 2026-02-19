@@ -563,6 +563,7 @@ Official curated skills from OpenAI's skills repository.
 - **[ComposioHQ/competitive-ads-extractor](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor)** - Analyze competitor advertising
 - **[wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** - Publish articles to X/Twitter
 - **[CosmoBlk/email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible)** - 55K-word email marketing guide as an AI skill
+- **[piaoyinghuang/brand-consistency-ai-skill](https://github.com/piaoyinghuang/brand-consistency-ai-skill)** - Brand compliance auditor and content generator for any LLM
 
 </details>
 
