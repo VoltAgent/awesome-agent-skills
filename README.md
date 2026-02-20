@@ -640,6 +640,7 @@ Official curated skills from OpenAI's skills repository.
 - **[rameerez/claude-code-startup-skills](https://github.com/rameerez/claude-code-startup-skills)** - Skills for building and running software startups, apps, and SaaS
 - **[zscole/model-hierarchy-skill](https://github.com/zscole/model-hierarchy-skill)** - Cost-optimized model routing based on task complexity
 - **[CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills)** - Three.js skills for creating 3D elements and interactive experiences
+- **[EUrouter/eurouter-skill](https://github.com/EUrouter/eurouter-skill)** - Integrate EUrouter, an OpenAI-compatible AI gateway for EU/GDPR compliance with data residency controls, provider routing, and zero-data-retention
 
 </details>
 
