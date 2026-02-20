@@ -673,13 +673,13 @@ Official curated skills from OpenAI's skills repository.
 - **[prompt-security/clawsec](https://github.com/prompt-security/clawsec)** - Security skill suite with drift detection, automated audits, and skill integrity verification
 - **[lawvable/awesome-legal-skills](https://github.com/lawvable/awesome-legal-skills)** - Curated agent skills for automating legal workflows
 - **[peas/genealogy-research](https://paulo.com.br/skills/genealogy-research/SKILL.md)** - Genealogy research agent with OCR, FamilySearch, YAML data, and human-in-the-loop
-- **[imri-star/shipp-sports](https://github.com/imri-star/shipp-sports)** - Real-time sports data skill providing live scores, schedules, and play-by-play for NBA, MLB, and Soccer via Shipp.ai
-- **[imri-star/game-day-dashboard](https://github.com/imri-star/game-day-dashboard)** - Full-screen live sports scoreboard tracking every NBA, MLB, and Soccer game with real-time scores and play-by-play
-- **[imri-star/fantasy-draft-assistant](https://github.com/imri-star/fantasy-draft-assistant)** - Real-time fantasy sports draft recommendations combining live game performance with season stats for NBA and MLB
-- **[imri-star/matchup-analyzer](https://github.com/imri-star/matchup-analyzer)** - Head-to-head team and player matchup analysis with statistical breakdowns for NBA, MLB, and Soccer
-- **[imri-star/injury-report-monitor](https://github.com/imri-star/injury-report-monitor)** - Aggregated injury reports for NBA, MLB, and Soccer with player status tracking and game-day availability
-- **[imri-star/betting-odds-tracker](https://github.com/imri-star/betting-odds-tracker)** - Real-time betting odds monitoring with line movements, sharp money detection, and cross-sportsbook comparison
-- **[imri-star/soccer-match-tracker](https://github.com/imri-star/soccer-match-tracker)** - Dedicated soccer/football match tracker for Premier League, La Liga, Champions League, and MLS
+- **[buildkit-ai/shipp-sports](https://github.com/buildkit-ai/shipp-sports)** - Real-time sports data skill providing live scores, schedules, and play-by-play for NBA, MLB, and Soccer via Shipp.ai
+- **[buildkit-ai/game-day-dashboard](https://github.com/buildkit-ai/game-day-dashboard)** - Full-screen live sports scoreboard tracking every NBA, MLB, and Soccer game with real-time scores and play-by-play
+- **[buildkit-ai/fantasy-draft-assistant](https://github.com/buildkit-ai/fantasy-draft-assistant)** - Real-time fantasy sports draft recommendations combining live game performance with season stats for NBA and MLB
+- **[buildkit-ai/matchup-analyzer](https://github.com/buildkit-ai/matchup-analyzer)** - Head-to-head team and player matchup analysis with statistical breakdowns for NBA, MLB, and Soccer
+- **[buildkit-ai/injury-report-monitor](https://github.com/buildkit-ai/injury-report-monitor)** - Aggregated injury reports for NBA, MLB, and Soccer with player status tracking and game-day availability
+- **[buildkit-ai/betting-odds-tracker](https://github.com/buildkit-ai/betting-odds-tracker)** - Real-time betting odds monitoring with line movements, sharp money detection, and cross-sportsbook comparison
+- **[buildkit-ai/soccer-match-tracker](https://github.com/buildkit-ai/soccer-match-tracker)** - Dedicated soccer/football match tracker for Premier League, La Liga, Champions League, and MLS
 
 </details>
 
