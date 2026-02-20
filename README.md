@@ -706,11 +706,7 @@ Official curated skills from OpenAI's skills repository.
 
 As the ecosystem grows, consistent quality helps agents discover and use skills reliably. The following references and criteria keep the bar high.
 
-### Canonical References
 
-- **[AgentSkills.io Spec](https://agentskills.io)** -- The open standard for skill metadata, structure, and interoperability across tools.
-- **[Anthropic Best Practices](https://platform.claude.com)** -- Official guidance on writing effective skills for Claude Code.
-- **[anthropics/skills](https://github.com/anthropics/skills)** -- Anthropic's official skills repository, useful as a reference implementation.
 
 ### Quality Criteria
 
