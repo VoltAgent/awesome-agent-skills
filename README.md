@@ -591,6 +591,7 @@ Official curated skills from OpenAI's skills repository.
 - **[hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill)** - Minimal, low-friction hierarchical memory system with background agents and filesystem-based persistence
 - **[kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg/tree/main/skills/kreuzberg)** - Extract text, tables, and metadata from 62+ document formats
 - **[Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills)** - 20 specialized skills for resume optimization, ATS analysis, interview prep, and career transitions
+- **[nextauralabs/shelter-skill](https://github.com/nextauralabs/shelter-skill)** - Connect agents to real bank data for spending, forecasting, and coaching
 
 </details>
 
