@@ -674,6 +674,7 @@ Official curated skills from OpenAI's skills repository.
 - **[prompt-security/clawsec](https://github.com/prompt-security/clawsec)** - Security skill suite with drift detection, automated audits, and skill integrity verification
 - **[lawvable/awesome-legal-skills](https://github.com/lawvable/awesome-legal-skills)** - Curated agent skills for automating legal workflows
 - **[peas/genealogy-research](https://paulo.com.br/skills/genealogy-research/SKILL.md)** - Genealogy research agent with OCR, FamilySearch, YAML data, and human-in-the-loop
+- **[jcoulaud/ship-my-token](https://github.com/jcoulaud/shipmytoken-skill)** - Launch Solana tokens on Pump.fun via chat
 
 </details>
 
