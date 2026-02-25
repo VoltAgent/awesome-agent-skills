@@ -566,7 +566,7 @@ Official curated skills from OpenAI's skills repository.
 <details>
 <summary><h3 style="display:inline">Operations & Supply Chain</h3></summary>
 
-- **[ai-evos/agent-skills](https://github.com/ai-evos/agent-skills)** - 8 eval-verified operational domain skills codifying 15+ years of industry expertise: logistics exception management, carrier relationships, customs compliance, inventory planning, returns processing, production scheduling, quality non-conformance, and energy procurement
+- **[ai-evos/agent-skills](https://github.com/ai-evos/agent-skills)** - 8 eval-verified logistics, manufacturing, retail, and energy skills
 
 </details>
 
