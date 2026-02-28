@@ -695,6 +695,7 @@ Official curated skills from OpenAI's skills repository.
 - **[prompt-security/clawsec](https://github.com/prompt-security/clawsec)** - Security skill suite with drift detection, automated audits, and skill integrity verification
 - **[lawvable/awesome-legal-skills](https://github.com/lawvable/awesome-legal-skills)** - Curated agent skills for automating legal workflows
 - **[peas/genealogy-research](https://paulo.com.br/skills/genealogy-research/SKILL.md)** - Genealogy research agent with OCR, FamilySearch, YAML data, and human-in-the-loop
+- **[zkoranges/philidor](https://github.com/zkoranges/philidor-io/tree/main/packages/openclaw-skill)** - DeFi vault risk scores, yield comparison, and portfolio analysis
 
 </details>
 
