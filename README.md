@@ -833,6 +833,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[hamelsmu/validate-evaluator](https://github.com/hamelsmu/prompts/tree/main/evals-skills/skills/validate-evaluator)** - Calibrate LLM judges against human labels
 - **[hamelsmu/evaluate-rag](https://github.com/hamelsmu/prompts/tree/main/evals-skills/skills/evaluate-rag)** - Evaluate RAG retrieval and generation quality
 - **[hamelsmu/build-review-interface](https://github.com/hamelsmu/prompts/tree/main/evals-skills/skills/build-review-interface)** - Build annotation interfaces for reviewing LLM traces
+- **[nagisanzenin/production-grade](https://github.com/nagisanzenin/claude-code-production-grade-plugin)** - 14-agent autonomous pipeline from idea to production-ready SaaS. Orchestrates PM, Architect, Backend, Frontend, QA, Security, Code Review, DevOps, SRE, Data Scientist, Technical Writer, Skill Maker, and Polymath co-pilot with two-wave parallel execution.
 
 </details>
 
