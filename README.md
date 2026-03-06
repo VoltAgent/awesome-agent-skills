@@ -794,6 +794,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[hamelsmu/build-review-interface](https://github.com/hamelsmu/prompts/tree/main/evals-skills/skills/build-review-interface)** - Build annotation interfaces for reviewing LLM traces
 - **[wrsmith108/varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill)** - Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits
 - **[Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** - Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes
+- **[altmbr/research-orchestrator](https://github.com/altmbr/claude-research-skill)** - Multi-agent research with parallel workstreams and cited synthesis
 
 </details>
 
