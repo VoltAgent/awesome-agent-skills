@@ -172,6 +172,7 @@ Official AI agent skills from the Expo team for building, deploying, and debuggi
 
 ### Skills by Remotion 
 - **[remotion-dev/remotion](https://github.com/remotion-dev/skills/tree/main/skills/remotion)** - Programmatic video creation with React
+- **[abu-ShotAI/ai-video-remix](https://github.com/abu-ShotAI/ai-video-remix)** - AI video remix using Remotion and ShotAI MCP automatically
 
 ### Skills by Replicate 
 - **[replicate/replicate](https://github.com/replicate/skills/tree/main/skills/replicate)** - Discover, compare, and run AI models using Replicate's API
