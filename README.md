@@ -827,6 +827,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[NeoLabHQ/write-concisely](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/docs/skills/write-concisely)** - Applies the famous *The Elements of Style* book principles to make documentation and writing clearer and more professional by eliminating wordiness and improving structure.
 - **[ReScienceLab/opc-skills](https://github.com/ReScienceLab/opc-skills)** - Agent skills for solopreneurs with SEO, geo, and LLM tools
 - **[SeanZoR/claude-speed-reader](https://github.com/SeanZoR/claude-speed-reader)** - Speed read Claude's responses at 600+ WPM using RSVP with Spritz-style ORP highlighting
+- **[jshph/enzyme-skill](https://github.com/jshph/enzyme-skill)** - Semantic search for Obsidian vaults — surfaces connections between notes by concept using AI-generated catalyst questions anchored to tags, wikilinks, and folders. Self-contained with bundled binary and embedding model.
 
 </details>
 
