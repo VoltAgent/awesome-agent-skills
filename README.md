@@ -794,6 +794,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper)** - X/Twitter data platform: extractions, monitoring, draws, MCP server
 - **[SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose)** - Hard-edged writing style contract for timeless, forceful English prose without AI tics
 - **[blader/humanizer](https://github.com/blader/humanizer)** - Remove signs of AI-generated writing from text, making it sound more natural and human
+- **[cuongducle/community-demand-prospecting-skill](https://github.com/cuongducle/community-demand-prospecting-skill)** - Audit repos, research markets, choose positioning, and plan community outreach
 
 </details>
 
