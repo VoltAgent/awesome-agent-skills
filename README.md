@@ -794,6 +794,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper)** - X/Twitter data platform: extractions, monitoring, draws, MCP server
 - **[SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose)** - Hard-edged writing style contract for timeless, forceful English prose without AI tics
 - **[blader/humanizer](https://github.com/blader/humanizer)** - Remove signs of AI-generated writing from text, making it sound more natural and human
+- **[tungnk123/mobile-best-practices](https://github.com/tungnk123/mobile-best-practices)** - Searchable database of 2,461 mobile development best practices for Android, iOS, Flutter, and React Native covering architecture, security, performance, UI patterns, and anti-patterns. Compatible with Claude Code, Gemini CLI, Cursor, and more.
 
 </details>
 
