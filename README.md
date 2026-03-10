@@ -784,6 +784,13 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 ### Community Skills
 
 <details>
+<summary><h3 style="display:inline">Media & Creative</h3></summary>
+
+- **[twoshotapp/agent-skills](https://github.com/twoshotapp/agent-skills)** - The most powerful agent skill for complex audio-visual media creation — search and download media, generate music/video/images, separate stems, clone voices, create podcasts, lyric videos, UGC content, and more via MCP
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Marketing</h3></summary>
 
 - **[BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills)** - 17 marketing frameworks for cold outreach, homepage audit, social cards, and more
