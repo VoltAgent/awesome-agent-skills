@@ -935,6 +935,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[zw008/VMware-AIops](https://github.com/zw008/VMware-AIops)** - AI-powered VMware vCenter/ESXi monitoring and operations: inventory queries, health/alarms, VM lifecycle (create, delete, snapshot, clone, migrate), vSAN management, Aria Operations analytics, and scheduled log scanning. Supports Claude Code, Gemini CLI, Codex, Aider, Trae, Kimi, and MCP.
 - **[video-db/skills](https://github.com/video-db/skills)** - Realtime and batch video workflows: capture screen/audio, ingest URLs/YouTube/RTSP, transcribe, index, search, generate subtitles, edit timelines, and stream HLS output
 - **[materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills)** - Agent skills for computational materials science: numerical stability, time-stepping, linear solvers, mesh generation, simulation validation, parameter optimization, and post-processing
+- **[translateimage/translate-image-skills](https://github.com/translateimage/translate-image-skills)** - AI-powered image translation, OCR, and text removal: translate text in images across 130+ languages while preserving layout, extract text with bounding boxes and confidence scores, remove text overlays with AI inpainting, and Gemini-powered extraction with multi-language translation
 
 </details>
 
