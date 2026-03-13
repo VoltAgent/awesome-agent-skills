@@ -938,6 +938,8 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[materials-simulation-skills](https://github.com/HeshamFS/materials-simulation-skills)** - Agent skills for computational materials science: numerical stability, time-stepping, linear solvers, mesh generation, simulation validation, parameter optimization, and post-processing
 - **[takechanman1228/claude-ecom](https://github.com/takechanman1228/claude-ecom)** - Ecommerce CSV to business review with KPI decomposition
 
+- **[esokullu/lobsterdomains](https://clawhub.ai/esokullu/lobsterdomains)** - Register domain names via crypto payments (USDC, USDT, ETH, BTC) across 1000+ TLDs
+
 </details>
 
 <details>
