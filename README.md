@@ -68,8 +68,8 @@ Agent skills can include prompt injections, tool poisoning, hidden malware paylo
 | [Skills by Hugging Face](#skills-by-hugging-face-team) | [Skills by Trail of Bits](#security-skills-by-trail-of-bits-team) | [Skills by Sentry](#skills-by-sentry-team-for-their-dev-team) |
 | [Skills by Microsoft](#skills-by-microsoft) | [Skills by fal.ai](#skills-by-falai-team) | [Skills by WordPress](#skills-by-wordpress-development-team) |
 | [Skills by Transloadit](#skills-by-transloadit-team) | [Skills by OpenAI](#skills-by-openai) | [Marketing Skills by Corey Haines](#marketing-skills-by-corey-haines) |
-| [Skills by Binance](#skills-by-binance) | [Product Manager Skills by Dean Peters](#product-manager-skills-by-dean-peters) | [Product Management Skills by Paweł Huryn](#product-management-skills-by-pawel-huryn) |
-| [Community Skills](#community-skills) | [Skill Quality Standards](#skill-quality-standards) | |
+| [Skills by Binance](#skills-by-binance) | [Skills by Helius](#skills-by-helius) | [Product Manager Skills by Dean Peters](#product-manager-skills-by-dean-peters) |
+| [Product Management Skills by Paweł Huryn](#product-management-skills-by-pawel-huryn) | [Community Skills](#community-skills) | [Skill Quality Standards](#skill-quality-standards) |
 
 
 
@@ -619,6 +619,18 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[binance/query-token-info](https://github.com/binance/binance-skills-hub/tree/main/skills/binance-web3/query-token-info)** - Search tokens and fetch metadata, real-time market data, and K-Line candlestick charts by keyword or contract address
 - **[binance/trading-signal](https://github.com/binance/binance-skills-hub/tree/main/skills/binance-web3/trading-signal)** - Monitor on-chain Smart Money buy/sell signals with price, max gain, and exit rate data on Solana and BSC
 - **[binance/spot](https://github.com/binance/binance-skills-hub/tree/main/skills/binance/spot)** - Place and manage spot trading orders on Binance via API key authentication, supporting mainnet and testnet
+
+</details>
+
+<details open>
+<summary><h3 style="display:inline">Skills by Helius</h3></summary>
+
+Official Solana development skills from [Helius](https://www.helius.dev/). Build Solana applications with Helius infrastructure, DFlow trading APIs, Phantom wallet integration, and deep protocol knowledge.
+
+- **[helius-labs/helius](https://github.com/helius-labs/core-ai/tree/main/helius-skills/helius)** - Build Solana apps with Helius Sender, DAS API, streaming, and webhooks
+- **[helius-labs/helius-dflow](https://github.com/helius-labs/core-ai/tree/main/helius-skills/helius-dflow)** - Trading apps combining DFlow swaps and predictions with Helius infrastructure
+- **[helius-labs/helius-phantom](https://github.com/helius-labs/core-ai/tree/main/helius-skills/helius-phantom)** - Frontend Solana apps with Phantom Connect SDK and Helius APIs
+- **[helius-labs/svm](https://github.com/helius-labs/core-ai/tree/main/helius-skills/svm)** - Explore Solana's SVM architecture, consensus, and protocol internals
 
 </details>
 
