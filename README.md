@@ -782,6 +782,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 </details>
 
 ### Community Skills
+- [**MUSE**](https://github.com/myths-labs/muse) by [Myths Labs](https://github.com/myths-labs) - Pure-Markdown operating system for AI pair programming with cross-conversation memory, 48 reusable skills, 8 specialized roles, and workflow commands. Works with Claude Code, Cursor, Windsurf, OpenClaw, Gemini CLI, Codex CLI. Zero dependencies, MIT licensed.
 
 <details>
 <summary><h3 style="display:inline">Marketing</h3></summary>
