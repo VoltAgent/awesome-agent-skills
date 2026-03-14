@@ -893,6 +893,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[wrsmith108/varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill)** - Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits
 - **[Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** - Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes
 - **[NoizAI/skills](https://github.com/NoizAI/skills)** - Human-like TTS workflows with local/cloud APIs and app delivery
+- **[realwigu/mcp-doctor](https://github.com/realwigu/mcp-doctor)** - MCP server diagnostics CLI and MCP server: scan connections, audit configs for hardcoded secrets, and benchmark latency across Claude Code, Cursor, VS Code, Windsurf, and Claude Desktop
 
 </details>
 
