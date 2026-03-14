@@ -49,6 +49,7 @@ Before installing or using any Agent Skill, review potential security risks and 
 Recommended tools:
 
 - [Synk Skill Security Scanner](https://github.com/snyk/agent-scan)
+- [AgentShield](https://github.com/elliotllliu/agent-shield) — Free, offline alternative with 31 rules, prompt injection detection in 8 languages, and MCP runtime proxy (`npx @elliotllliu/agent-shield scan ./skill/`)
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
 
 Agent skills can include prompt injections, tool poisoning, hidden malware payloads, or unsafe data handling patterns. Always review the code and use skills at your own discretion.
