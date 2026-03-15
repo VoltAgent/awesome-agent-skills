@@ -893,6 +893,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[wrsmith108/varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill)** - Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits
 - **[Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** - Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes
 - **[NoizAI/skills](https://github.com/NoizAI/skills)** - Human-like TTS workflows with local/cloud APIs and app delivery
+- **[k1r3zz/business-tracker](https://github.com/k1r3zz/kira-claude-code/tree/main/skills/business-tracker)** - Auto-extract business logic from any codebase into living documentation. Supports Flutter, Node.js, Go, Python, Java, .NET, Rust, Ruby, PHP, iOS
 
 </details>
 
