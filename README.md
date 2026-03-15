@@ -893,6 +893,7 @@ Official Web3 and trading skills from the Binance team. Includes crypto market d
 - **[wrsmith108/varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill)** - Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits
 - **[Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** - Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes
 - **[NoizAI/skills](https://github.com/NoizAI/skills)** - Human-like TTS workflows with local/cloud APIs and app delivery
+- **[choppawave-beep/web-architect](https://github.com/choppawave-beep/web-architect)** - 4-agent orchestrator for full design-to-code pipelines with Constrained Generation for unique design systems, 8 project profiles, and 5-dimension quality scoring
 
 </details>
 
