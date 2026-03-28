@@ -1018,6 +1018,7 @@ Official GSAP animation skills covering the full GreenSock ecosystem — core AP
 - **[obra/verification-before-completion](https://github.com/obra/superpowers/blob/main/skills/verification-before-completion/SKILL.md)** - Validate work before finalizing
 - **[obra/condition-based-waiting](https://github.com/obra/superpowers/blob/main/skills/condition-based-waiting/SKILL.md)** - Manage conditional pauses or delays
 - **[obra/commands](https://github.com/obra/superpowers/tree/main/skills/commands)** - Create and manage command structures
+- **[cwklurks/ship-score](https://github.com/cwklurks/ship-score)** - Production readiness audit with 48 checks across SEO, legal, monitoring, infrastructure, UX, performance, and security — generates an HTML dashboard with letter grades
 - **[obra/writing-skills](https://github.com/obra/superpowers/blob/main/skills/writing-skills/SKILL.md)** - Develop and document capabilities
 - **[fvadicamo/dev-agent-skills](https://github.com/fvadicamo/dev-agent-skills)** - Git and GitHub workflow skills for commits, PRs, and code reviews
 - **[omkamal/pypict-skill](https://github.com/omkamal/pypict-claude-skill/blob/main/SKILL.md)** - Pairwise test generation
