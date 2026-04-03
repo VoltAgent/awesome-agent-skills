@@ -959,6 +959,7 @@ Official skills from Notion's repositories — workspace-aware skills for captur
 - **[SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose)** - Hard-edged writing style contract for timeless, forceful English prose without AI tics
 - **[blader/humanizer](https://github.com/blader/humanizer)** - Remove signs of AI-generated writing from text, making it sound more natural and human
 - **[Eronred/aso-skills](https://github.com/Eronred/aso-skills)** - 30+ App Store Optimization skills for keyword research, metadata optimization, competitor analysis, creative optimization, and mobile growth strategies via Appeeky API
+- **[ndesv21/socialclaw](https://github.com/ndesv21/socialclaw/tree/main/skill)** - Social media scheduling and publishing for AI agents
 
 </details>
 
