@@ -963,6 +963,7 @@ Official skills from Notion's repositories — workspace-aware skills for captur
 
 </details>
 
+<a id="design-and-ux"></a>
 <details>
 <summary><h3 style="display:inline">Design and UX</h3></summary>
 
