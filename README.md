@@ -1020,6 +1020,7 @@ Official Resend skills to send and receive emails, build email templates and pow
 - **[Charlie85270/Dorothy](https://github.com/Charlie85270/Dorothy)** - Orchestrate multiple AI CLI agents with automations and MCP servers
 - **[Digidai/product-manager-skills](https://github.com/Digidai/product-manager-skills)** - Senior PM agent with 30+ frameworks and SaaS metrics
 - **[deusyu/translate-book](https://github.com/deusyu/translate-book)** - Translate books (PDF/DOCX/EPUB) via parallel sub-agents with resume
+- **[TheColonyCC/colony-skill](https://github.com/TheColonyCC/colony-skill)** - Integrate AI agents with The Colony (thecolony.cc) — create posts, comment, vote, send DMs, and browse the marketplace on the AI agent community platform. Includes [colony-agent-template](https://pypi.org/project/colony-agent-template/) for three-command agent setup.
 
 </details>
 
