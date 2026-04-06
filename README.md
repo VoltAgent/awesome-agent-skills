@@ -1101,6 +1101,7 @@ Official Resend skills to send and receive emails, build email templates and pow
 <details>
 <summary><h3 style="display:inline">Context Engineering</h3></summary>
 
+- **[milkomida77/guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts)** - 57 production-tested agent system prompts for multi-agent orchestration, task routing with anti-duplication, quality gates, and specialized agents for coding, security, trading, and business automation. Battle-tested across 10,000+ tasks.
 - **[muratcankoylan/context-fundamentals](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-fundamentals)** - Understand what context is, why it matters, and the anatomy of context in agent systems
 - **[muratcankoylan/context-degradation](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-degradation)** - Recognize patterns of context failure: lost-in-middle, poisoning, distraction, and clash
 - **[muratcankoylan/context-compression](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression)** - Design and evaluate compression strategies for long-running sessions
@@ -1177,7 +1178,6 @@ Agent skills can include prompt injections, tool poisoning, hidden malware paylo
 
 
 ## Skills Paths for Other AI Coding Assistants
-- **[milkomida77/guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts)** - 57 production-tested agent system prompts for multi-agent orchestration, task routing with anti-duplication, quality gates, and specialized agents for coding, security, trading, and business automation. Battle-tested across 10,000+ tasks.
 
 | Tool | Project Path | Global Path | Official Docs |
 |------|-------------|-------------|---------------|
