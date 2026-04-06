@@ -1020,6 +1020,7 @@ Official Resend skills to send and receive emails, build email templates and pow
 - **[Charlie85270/Dorothy](https://github.com/Charlie85270/Dorothy)** - Orchestrate multiple AI CLI agents with automations and MCP servers
 - **[Digidai/product-manager-skills](https://github.com/Digidai/product-manager-skills)** - Senior PM agent with 30+ frameworks and SaaS metrics
 - **[deusyu/translate-book](https://github.com/deusyu/translate-book)** - Translate books (PDF/DOCX/EPUB) via parallel sub-agents with resume
+- **[emotion-machine-org/imessage-sms-agent](https://github.com/emotion-machine-org/imessage-sms-agent)** - Give any AI agent iMessage, RCS & SMS capabilities. No Mac required. Works with Claude Code, Codex, Cursor, Gemini CLI. Powered by Claw Messenger ($5/mo)
 
 </details>
 
