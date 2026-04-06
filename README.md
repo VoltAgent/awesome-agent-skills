@@ -968,6 +968,7 @@ Official Resend skills to send and receive emails, build email templates and pow
 <details>
 <summary><h3 style="display:inline">Vector Databases</h3></summary>
 
+- **[milkomida77/guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts)** - 57 production-tested agent system prompts for multi-agent orchestration, task routing with anti-duplication, quality gates, and specialized agents for coding, security, trading, and business automation. Battle-tested across 10,000+ tasks.
 - **[qdrant/skills](https://github.com/qdrant/skills)** - Agent skills for Qdrant vector search, covering scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, .NET, and Java
 
 </details>
