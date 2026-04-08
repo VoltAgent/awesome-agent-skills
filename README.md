@@ -76,7 +76,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Product Manager Skills by Dean Peters](#product-manager-skills-by-dean-peters) | [Product Management Skills by Paweł Huryn](#product-management-skills-by-pawel-huryn) | [Skills by MiniMax](#skills-by-minimax-team) |
 | [Skills by DuckDB](#skills-by-duckdb) | [Skills by GSAP](#skills-by-gsap-greensock) | [Skills by Garry Tan (gstack)](#skills-by-garry-tan-gstack) |
 | [Skills by Monte Carlo Data](#skills-by-monte-carlo-data) | [Skills by Notion](#skills-by-notion) | [Skills by Resend](#skills-by-resend) |
-| [Community Skills](#community-skills) |
+| [Community Skills](#community-skills) | | |
 | [Skill Quality Standards](#skill-quality-standards) | | |
 
 
