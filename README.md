@@ -142,10 +142,10 @@ Official skills by VoltAgent for building AI agents with the VoltAgent TypeScrip
 - **[trycourier/courier-skills](https://github.com/trycourier/courier-skills)** - Multi-channel notifications via email, SMS, push, and chat
 
 ### Skills by Monte Carlo Data
-- **[monte-carlo-data/mc-agent-toolkit](https://github.com/monte-carlo-data/mc-agent-toolkit/tree/main/skills/prevent)** - Change impact assessment with lineage and blast radius
-- **[monte-carlo-data/mc-agent-toolkit](https://github.com/monte-carlo-data/mc-agent-toolkit/tree/main/skills/monitor-creation)** - Create monitors-as-code YAML via MCP tools
-- **[monte-carlo-data/mc-agent-toolkit](https://github.com/monte-carlo-data/mc-agent-toolkit/tree/main/skills/push-ingestion)** - Push metadata and lineage to Monte Carlo
-- **[monte-carlo-data/mc-agent-toolkit](https://github.com/monte-carlo-data/mc-agent-toolkit/tree/main/skills/generate-validation-notebook)** - Generate SQL validation notebooks for dbt PRs
+- **[monte-carlo-data/prevent](https://github.com/monte-carlo-data/mc-agent-toolkit/tree/main/skills/prevent)** - Change impact assessment with lineage and blast radius
+- **[monte-carlo-data/monitor-creation](https://github.com/monte-carlo-data/mc-agent-toolkit/tree/main/skills/monitor-creation)** - Create monitors-as-code YAML via MCP tools
+- **[monte-carlo-data/push-ingestion](https://github.com/monte-carlo-data/mc-agent-toolkit/tree/main/skills/push-ingestion)** - Push metadata and lineage to Monte Carlo
+- **[monte-carlo-data/generate-validation-notebook](https://github.com/monte-carlo-data/mc-agent-toolkit/tree/main/skills/generate-validation-notebook)** - Generate SQL validation notebooks for dbt PRs
 
 ### Skills by CallStack
 - **[callstackincubator/react-native-best-practices](https://officialskills.sh/callstackincubator/skills/react-native-best-practices)** - Performance optimization for React Native apps from Callstack
