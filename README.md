@@ -1095,6 +1095,7 @@ Official Resend skills to send and receive emails, build email templates and pow
 - **[ethos-link/rails-conventions](https://github.com/ethos-link/rails-conventions)** - Rails 8 conventions for consistent production code changes
 - **[ShunsukeHayashi/agent-skill-bus](https://github.com/ShunsukeHayashi/agent-skill-bus)** - Self-improving task orchestration for AI agent systems
 - **[mcollina/skills](https://github.com/mcollina/skills/tree/main/skills)** - 11 skills by Matteo Collina: Node.js, Fastify, TypeScript, OAuth, Git/GitHub, ESLint neostandard, documentation (Diataxis), Node.js core internals, skill optimizer, and more
+- **[Renol1/skill-creator-pro](https://github.com/Renol1/skill-creator-pro)** - Production-grade skill creator with 21 patterns, self-learning training loop, and cross-platform support. Tested with 7 skills. v10.0.0
 
 </details>
 
