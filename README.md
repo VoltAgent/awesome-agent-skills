@@ -75,7 +75,8 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Skills by Figma](#skills-by-figma) | [Marketing Skills by Corey Haines](#marketing-skills-by-corey-haines) | [Skills by Binance](#skills-by-binance) |
 | [Product Manager Skills by Dean Peters](#product-manager-skills-by-dean-peters) | [Product Management Skills by Paweł Huryn](#product-management-skills-by-pawel-huryn) | [Skills by MiniMax](#skills-by-minimax-team) |
 | [Skills by DuckDB](#skills-by-duckdb) | [Skills by GSAP](#skills-by-gsap-greensock) | [Skills by Garry Tan (gstack)](#skills-by-garry-tan-gstack) |
-| [Skills by Notion](#skills-by-notion) | [Skills by Resend](#skills-by-resend) | [Community Skills](#community-skills) |
+| [Skills by Monte Carlo Data](#skills-by-monte-carlo-data) | [Skills by Notion](#skills-by-notion) | [Skills by Resend](#skills-by-resend) |
+| [Community Skills](#community-skills) |
 | [Skill Quality Standards](#skill-quality-standards) | | |
 
 
@@ -139,6 +140,12 @@ Official skills by VoltAgent for building AI agents with the VoltAgent TypeScrip
 
 ### Skills by Courier
 - **[trycourier/courier-skills](https://github.com/trycourier/courier-skills)** - Multi-channel notifications via email, SMS, push, and chat
+
+### Skills by Monte Carlo Data
+- **[monte-carlo-data/mc-agent-toolkit](https://github.com/monte-carlo-data/mc-agent-toolkit/tree/main/skills/prevent)** - Change impact assessment with lineage and blast radius
+- **[monte-carlo-data/mc-agent-toolkit](https://github.com/monte-carlo-data/mc-agent-toolkit/tree/main/skills/monitor-creation)** - Create monitors-as-code YAML via MCP tools
+- **[monte-carlo-data/mc-agent-toolkit](https://github.com/monte-carlo-data/mc-agent-toolkit/tree/main/skills/push-ingestion)** - Push metadata and lineage to Monte Carlo
+- **[monte-carlo-data/mc-agent-toolkit](https://github.com/monte-carlo-data/mc-agent-toolkit/tree/main/skills/generate-validation-notebook)** - Generate SQL validation notebooks for dbt PRs
 
 ### Skills by CallStack
 - **[callstackincubator/react-native-best-practices](https://officialskills.sh/callstackincubator/skills/react-native-best-practices)** - Performance optimization for React Native apps from Callstack
