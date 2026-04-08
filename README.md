@@ -1160,6 +1160,13 @@ Official Resend skills to send and receive emails, build email templates and pow
 
 </details>
 
+<details>
+<summary><h3 style="display:inline">Development Tools</h3></summary>
+
+- **[johnnichev/nv-context](https://github.com/johnnichev/nv-context)** - Context engineering automation for AI agents
+
+</details>
+
 
 ## 🔒 Security Notice
 
