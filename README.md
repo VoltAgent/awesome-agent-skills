@@ -1144,7 +1144,7 @@ Official Resend skills to send and receive emails, build email templates and pow
 - **[helius-labs/helius-skills](https://github.com/helius-labs/core-ai/tree/main/helius-skills)** - Ship Solana apps end-to-end; transaction sending, asset queries, real-time streaming, token swaps, prediction markets, browser wallets, and deep research into protocol internals all powered by Helius APIs, DFlow trading, and Phantom wallet integrations
 - **[meodai/skill.color-expert](https://github.com/meodai/skill.color-expert)** - Color science expert skill with 286K words of reference material covering OKLCH/OKLAB, palette generation, accessibility/contrast, color naming, pigment mixing, and historical color theory
 - **[bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills)** - Full-lifecycle AI music album production
-- **[Ashutos1997/claude-design-auditor-skill](https://github.com/Ashutos1997/claude-design-auditor-skill)** - Audits designs against 18 rules including ethics and accessibility
+- **[Ashutos1997/claude-design-auditor-skill](https://github.com/Ashutos1997/claude-design-auditor-skill)** - Design audit skill for Figma and code covering 18 categories: accessibility (WCAG AA), ethical design (20 dark patterns across 5 groups), contrast, spacing, tokens, responsive, forms, navigation. Supports HTML/CSS/React/Vue/Tailwind with Figma MCP Code Connect integration
 
 </details>
 
