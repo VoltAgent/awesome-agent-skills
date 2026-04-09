@@ -1095,6 +1095,11 @@ Official Resend skills to send and receive emails, build email templates and pow
 - **[ethos-link/rails-conventions](https://github.com/ethos-link/rails-conventions)** - Rails 8 conventions for consistent production code changes
 - **[ShunsukeHayashi/agent-skill-bus](https://github.com/ShunsukeHayashi/agent-skill-bus)** - Self-improving task orchestration for AI agent systems
 - **[mcollina/skills](https://github.com/mcollina/skills/tree/main/skills)** - 11 skills by Matteo Collina: Node.js, Fastify, TypeScript, OAuth, Git/GitHub, ESLint neostandard, documentation (Diataxis), Node.js core internals, skill optimizer, and more
+- **[2389-research/claude-plugins](https://github.com/2389-research/claude-plugins)** - 30 open-source Claude Code plugins and MCP servers
+- **[2389-research/simmer](https://github.com/2389-research/simmer)** - Iterative refinement with investigation-first judge panels
+- **[2389-research/test-kitchen](https://github.com/2389-research/test-kitchen)** - Parallel exploration with test-driven selection
+- **[2389-research/fresh-eyes-review](https://github.com/2389-research/fresh-eyes-review)** - Pre-commit sanity check catching bugs before merge
+- **[2389-research/review-squad](https://github.com/2389-research/review-squad)** - Multi-perspective review via specialized subagents
 
 </details>
 
