@@ -1012,6 +1012,13 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 ### Community Skills
 
 <details>
+<summary><h3 style="display:inline">Science & Research</h3></summary>
+
+- **[paperzilla-ai/paperzilla-skills](https://github.com/paperzilla-ai/paperzilla-skills)** - Conversational literature monitoring and paper chat for biology and medical research. Supports project-based bioRxiv and medRxiv feeds today, fetches paper markdown for summarization and relevance checks, and has PubMed support planned. OpenClaw distribution is also available on [ClawHub](https://clawhub.ai/pors/paperzilla).
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Vector Databases</h3></summary>
 
 - **[qdrant/skills](https://github.com/qdrant/skills)** - Agent skills for Qdrant vector search, covering scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, .NET, and Java
