@@ -1008,6 +1008,7 @@ Official Resend skills to send and receive emails, build email templates and pow
 - **[op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill)** - YouTube clip generation and editing with automated workflows
 - **[ognjengt/founder-skills](https://github.com/ognjengt/founder-skills)** - Claude skills for founders with packaged startup workflows
 - **[EveryInc/charlie-cfo-skill](https://github.com/EveryInc/charlie-cfo-skill)** - Bootstrapped CFO financial management inspired by Charlie Munger
+- **[ego-protocol/tbd-vote-cli](https://github.com/ego-protocol/tbd-vote-cli)** - Trade on [TBD](https://www.tbd.vote), a Solana prediction market for human opinions, via the `@tbd-vote/cli` package; agents authenticate, list campaigns, and place bets with JSON output. Defers to an [AGENTS.md](https://www.tbd.vote/agents/AGENTS.md) spec for autonomous-loop instructions and HTTP fallback
 - **[wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill)** - Manage Linear issues, projects, and teams
 - **[Shpigford/readme](https://github.com/Shpigford/skills/tree/main/readme)** - Generate comprehensive project documentation
 - **[hanfang/claude-memory-skill](https://github.com/hanfang/claude-memory-skill)** - Minimal, low-friction hierarchical memory system with background agents and filesystem-based persistence
