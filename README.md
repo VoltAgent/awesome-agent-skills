@@ -1019,6 +1019,13 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 </details>
 
 <details>
+<summary><h3 style="display:inline">Entertainment</h3></summary>
+
+- **[lincyang720/character-ai-bots](https://github.com/lincyang720/character-ai-bots)** - Discover and navigate AI roleplay character bots across 104+ characters, 8 personality types (yandere, tsundere, vampire, fantasy, romance, action, sci-fi, creative), and multiple platforms (Character.AI, JanitorAI, SpicyChat). Compatible with Claude, Cursor, Copilot, and Codex.
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Marketing</h3></summary>
 
 - **[BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills)** - 17 marketing frameworks for cold outreach, homepage audit, social cards, and more
