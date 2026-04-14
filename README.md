@@ -1382,6 +1382,13 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 
 </details>
 
+<details>
+<summary><h3 style="display:inline">AI Workflow Orchestration</h3></summary>
+
+- **[Agentled/mcp-server](https://github.com/Agentled/mcp-server)** - Build, run, and manage intelligent workflows from Claude Code, Cursor, or any MCP client. 100+ integrations (LinkedIn, email, web scraping, CRM, AI models) through a single credit system. Knowledge Graph stores insights across executions so agents compound learning over time. 40+ tools covering workflow lifecycle, execution, knowledge management, persistent memory, and proactive agents.
+
+</details>
+
 <br/>
 
 <a href="https://github.com/VoltAgent/voltagent">
