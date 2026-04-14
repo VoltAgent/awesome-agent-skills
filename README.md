@@ -1382,6 +1382,13 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 
 </details>
 
+<details>
+<summary><h3 style="display:inline">Detection and Media Safety</h3></summary>
+
+- **[resemble-ai/detect-skill](https://github.com/resemble-ai/detect-skill)** - Deepfake detection for audio, image, video, and text
+
+</details>
+
 <br/>
 
 <a href="https://github.com/VoltAgent/voltagent">
