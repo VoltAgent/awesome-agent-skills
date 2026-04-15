@@ -1192,6 +1192,13 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 </details>
 
 <details>
+<summary><h3 style="display:inline">Geopolitics and Intelligence</h3></summary>
+
+- **[Future3lab/iran-skill](https://github.com/Future3lab/iran-skill)** - Geopolitical analysis OS for the 2026 Iran crisis: 119 files, 21 distilled analysts (Carnegie/CFR/ICG/SAIS), 12 decision-maker models, 7 Persian empire mental models (2500 years), multi-agent adversarial debate, probability audit trails, Red Team protocol. Built with Nuwa Skill methodology.
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Marketing</h3></summary>
 
 - **[BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills)** - 17 marketing frameworks for cold outreach, homepage audit, social cards, and more
