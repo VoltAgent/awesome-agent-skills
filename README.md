@@ -1086,6 +1086,7 @@ Official skills from Notion's repositories — workspace-aware skills for captur
 - **[muratcankoylan/evaluation](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/evaluation)** - Build evaluation frameworks for agent systems
 - **[k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol)** - Graph-based long-term memory skill for AI (LLM) coding agents — faster context, fewer tokens, safer refactors
 - **[NeoLabHQ/prompt-engineering](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/prompt-engineering)** - Widely used prompt engineering techniques and patterns, including Anthropic best practices and agent persuasion principles.
+- **[deployhq/deployhq-cli](https://github.com/deployhq/deployhq-cli/tree/main/skills/deployhq)** - Deploy, rollback, and manage servers via DeployHQ CLI
 
 </details>
 
