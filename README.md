@@ -1210,6 +1210,13 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 ### Community Skills
 
 <details>
+<summary><h3 style="display:inline">Developer Tools</h3></summary>
+
+- **[phlx0/living-docs](https://github.com/phlx0/living-docs)** - Claude Code plugin that auto-detects stale documentation after code changes and applies surgical fixes. Catches renamed functions, env vars, CLI flags, config keys, and API endpoints across Markdown, JSDoc, OpenAPI, Python docstrings, and Go doc comments. Runs as a PostToolUse hook that warns on edits; /living-docs applies fixes surgically.
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Vector Databases</h3></summary>
 
 - **[qdrant/skills](https://github.com/qdrant/skills)** - Agent skills for Qdrant vector search, covering scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, .NET, and Java
