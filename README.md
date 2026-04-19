@@ -1321,6 +1321,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[hqhq1025/skill-optimizer](https://github.com/hqhq1025/skill-optimizer)** - Diagnose and optimize Agent Skills (SKILL.md) with real session data and research-backed static analysis. Works with Claude Code, Codex, and any Agent Skills-compatible agent
 - **[LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills)** - TestMu AI (Formerly LambdaTest) Skills is a curated collection of Agent Skills that teach AI coding assistants how to write production-grade test automation.
 
+- **[spirizeon/agentic-aeo-skills](https://github.com/spirizeon/agentic-aeo-skills)** - An LLM-first for Agentic Engine Optimization analysis skillset for Antigravity, Codex, Claude, Gemini, OpenCode, etc. with 6 specialized sub-skills, 6 specialist agents, and 5 optional utility scripts used as evidence collectors
 </details>
 
 <details>
