@@ -1272,6 +1272,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[Digidai/product-manager-skills](https://github.com/Digidai/product-manager-skills)** - Senior PM agent with 30+ frameworks and SaaS metrics
 - **[deusyu/translate-book](https://github.com/deusyu/translate-book)** - Translate books (PDF/DOCX/EPUB) via parallel sub-agents with resume
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** - Research any topic across Reddit, X, YouTube, HN, Polymarket, and the web, ranked by upvotes, likes, and real money instead of editors
+- **[theihtisham/omni-skills-forge](https://github.com/theihtisham/omni-skills-forge)** - Universal skill and slash-command manager for AI coding assistants. Create, share, and manage reusable skills across tools with a simple CLI
 
 </details>
 
@@ -1348,6 +1349,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[ShunsukeHayashi/agent-skill-bus](https://github.com/ShunsukeHayashi/agent-skill-bus)** - Self-improving task orchestration for AI agent systems
 - **[mcollina/skills](https://github.com/mcollina/skills/tree/main/skills)** - 11 skills by Matteo Collina: Node.js, Fastify, TypeScript, OAuth, Git/GitHub, ESLint neostandard, documentation (Diataxis), Node.js core internals, skill optimizer, and more
 - **[Lum1104/understand-anything](https://github.com/Lum1104/Understand-Anything)** - Interactive codebase knowledge graphs via multi-agent LLM analysis
+- **[theihtisham/agent-shadow-brain](https://github.com/theihtisham/agent-shadow-brain)** - AI-powered background code analysis agent for Claude Code that continuously monitors your codebase and provides intelligent suggestions
 - **[hqhq1025/skill-optimizer](https://github.com/hqhq1025/skill-optimizer)** - Diagnose and optimize Agent Skills (SKILL.md) with real session data and research-backed static analysis. Works with Claude Code, Codex, and any Agent Skills-compatible agent
 - **[LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills)** - TestMu AI (Formerly LambdaTest) Skills is a curated collection of Agent Skills that teach AI coding assistants how to write production-grade test automation.
 
