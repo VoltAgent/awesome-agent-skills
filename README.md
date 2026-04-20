@@ -1361,6 +1361,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[muratcankoylan/evaluation](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/evaluation)** - Build evaluation frameworks for agent systems
 - **[k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol)** - Graph-based long-term memory skill for AI (LLM) coding agents — faster context, fewer tokens, safer refactors
 - **[NeoLabHQ/prompt-engineering](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/prompt-engineering)** - Widely used prompt engineering techniques and patterns, including Anthropic best practices and agent persuasion principles.
+- **[audiojak/manifest-generator](https://github.com/audiojak/manifest-generator)** - Turns a free-form project description into PROJECT_MANIFEST.md and SOFTWARE_FACTORY_MANIFEST.md for a 6-agent software factory pipeline. Agent-agnostic: works in Claude Code, Codex CLI, Gemini CLI.
 
 </details>
 
