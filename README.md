@@ -1238,6 +1238,13 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 </details>
 
 <details>
+<summary><h3 style="display:inline">Design and UX</h3></summary>
+
+- **[uxuiprinciples/agent-skills](https://github.com/uxuiprinciples/agent-skills)** - 5 skills for evaluating interfaces against 168 research-backed UX/UI principles, detecting antipatterns, and injecting UX context into AI coding sessions
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Productivity and Collaboration</h3></summary>
 
 - **[PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill)** - Document processing with Nutrient DWS API: convert (PDF/DOCX/XLSX/PPTX/HTML/images), extract text/tables, OCR (20+ languages), redact PII (pattern + AI), watermark, digital signatures, form filling. [MCP server](https://www.npmjs.com/package/@nutrient-sdk/dws-mcp-server) also available.
