@@ -1351,6 +1351,12 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[hqhq1025/skill-optimizer](https://github.com/hqhq1025/skill-optimizer)** - Diagnose and optimize Agent Skills (SKILL.md) with real session data and research-backed static analysis. Works with Claude Code, Codex, and any Agent Skills-compatible agent
 - **[LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills)** - TestMu AI (Formerly LambdaTest) Skills is a curated collection of Agent Skills that teach AI coding assistants how to write production-grade test automation.
 
+- **[aptratcn/evr-framework](https://github.com/aptratcn/evr-framework)** - Execute-Verify-Report pattern: every claimed result must include execution evidence, verification steps, and a summary. No fake completions.
+- **[aptratcn/systematic-debugging](https://github.com/aptratcn/systematic-debugging)** - 4-phase root cause analysis: Reproduce → Isolate → Hypothesize → Verify. Structured debugging, no guessing.
+- **[aptratcn/token-budget-guard](https://github.com/aptratcn/token-budget-guard)** - 99% token savings through progressive disclosure, conversation compression, and budget monitoring.
+- **[aptratcn/prompt-guard](https://github.com/aptratcn/prompt-guard)** - Detect and resist prompt injection attacks. Pattern matching, defense layers, and security-first AI interactions.
+- **[aptratcn/trend-harvester](https://github.com/aptratcn/trend-harvester)** - Research any topic across Reddit, HN, X, YouTube in minutes. Multi-platform trend reports with signal extraction.
+
 </details>
 
 <details>
