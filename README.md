@@ -1234,6 +1234,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[Eronred/aso-skills](https://github.com/Eronred/aso-skills)** - 30+ App Store Optimization skills for keyword research, metadata optimization, competitor analysis, creative optimization, and mobile growth strategies via Appeeky API
 - **[degausai/wonda](https://github.com/degausai/wonda)** - AI content creation: images, video, music, audio, editing, publishing
 - **[gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent)** - Schedule social media posts across 28+ platforms programmatically
+- **[takechanman1228/claude-persona](https://github.com/takechanman1228/claude-persona)** - Build AI persona panels for virtual customer research: generate diverse personas, run agent-separated interviews and concept tests, and deliver executive reports with themes, cross-tabs, and charts
 
 </details>
 
