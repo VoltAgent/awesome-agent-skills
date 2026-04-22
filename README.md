@@ -79,7 +79,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Notion](#skills-by-notion) | [Resend](#skills-by-resend) | [Addy Osmani (Web Quality)](#skills-by-addy-osmani-web-quality) | [MongoDB](#skills-by-mongodb) |
 | [Kim Barrett (Advertising)](#advertising-skills-by-kim-barrett) | [Apollo GraphQL](#skills-by-apollo-graphql) | [Auth0](#skills-by-auth0) | [Brave](#skills-by-brave) |
 | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) | [Datadog Labs](#skills-by-datadog-labs) |
-| [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Community](#community-skills) | [Quality Standards](#skill-quality-standards) |
+| [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Gear Foundation](#skills-by-gear-foundation) | [Community](#community-skills) | [Quality Standards](#skill-quality-standards) |
 
 
 
@@ -836,6 +836,24 @@ Official wallet, payments, and trading skills from the Coinbase team. Covers USD
 - **[coinbase/send-usdc](https://officialskills.sh/coinbase/skills/send-usdc)** - Send USDC to any Ethereum address or ENS name on Base
 - **[coinbase/trade](https://officialskills.sh/coinbase/skills/trade)** - Swap and trade tokens on Base using the CDP Swap API
 - **[coinbase/x402](https://officialskills.sh/coinbase/skills/x402)** - Discover and call paid API endpoints using the x402 payment protocol
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Gear Foundation</h3></summary>
+
+Official skills from the Gear Foundation team for building Rust smart contracts on Vara Network with the Gear/Sails framework. 21 skills covering the full pipeline from spec to on-chain deployment. Cross-harness (Claude Code, Codex, OpenClaw).
+
+- **[gear-foundation/ship-sails-app](https://github.com/gear-foundation/vara-skills/tree/main/skills/ship-sails-app)** - Top-level router for the full Sails build pipeline
+- **[gear-foundation/vara-wallet](https://github.com/gear-foundation/vara-skills/tree/main/skills/vara-wallet)** - Agent deploys programs, calls Sails methods, transfers tokens, monitors events on-chain
+- **[gear-foundation/sails-rust-implementer](https://github.com/gear-foundation/vara-skills/tree/main/skills/sails-rust-implementer)** - Rust/Sails code changes in real workspaces
+- **[gear-foundation/gtest-tdd-loop](https://github.com/gear-foundation/vara-skills/tree/main/skills/gtest-tdd-loop)** - Deterministic local TDD loop for every behavior change
+- **[gear-foundation/sails-idl-client](https://github.com/gear-foundation/vara-skills/tree/main/skills/sails-idl-client)** - IDL-driven codegen across app, client, and test crates
+- **[gear-foundation/sails-frontend](https://github.com/gear-foundation/vara-skills/tree/main/skills/sails-frontend)** - React/TypeScript frontends with generated Sails-JS clients
+- **[gear-foundation/sails-indexer](https://github.com/gear-foundation/vara-skills/tree/main/skills/sails-indexer)** - Event-driven read-side indexer and query API
+- **[gear-foundation/sails-program-evolution](https://github.com/gear-foundation/vara-skills/tree/main/skills/sails-program-evolution)** - Safe cutover and state migration for released contracts
+
+See [the full 21-skill catalog](https://github.com/gear-foundation/vara-skills#skill-catalog) for planning (idea-to-spec, gear-architecture-planner, task-decomposer), framework internals (gear-gstd-api-map, gear-message-execution), tokens (awesome-sails-vft), and more.
 
 </details>
 
