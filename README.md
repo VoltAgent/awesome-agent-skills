@@ -840,6 +840,19 @@ Official wallet, payments, and trading skills from the Coinbase team. Covers USD
 </details>
 
 <details>
+<summary><h3 style="display:inline">Skills by InsumerAPI</h3></summary>
+
+Wallet auth (condition-based access) skills for verifying wallet state across 33 chains. ES256-signed, JWKS-verifiable boolean responses; never raw balances.
+
+- **[insumer/insumer-auth](https://github.com/douglasborthwick-crypto/insumer-agent-skills/tree/main/skills/insumer/insumer-auth)** - Free key creation, env vars, crypto top-up
+- **[insumer/insumer-attest](https://github.com/douglasborthwick-crypto/insumer-agent-skills/tree/main/skills/insumer/insumer-attest)** - Wallet condition attestation across 33 chains
+- **[insumer/insumer-trust](https://github.com/douglasborthwick-crypto/insumer-agent-skills/tree/main/skills/insumer/insumer-trust)** - Multi-dimensional wallet trust profile, 36 base checks
+- **[insumer/insumer-trust-batch](https://github.com/douglasborthwick-crypto/insumer-agent-skills/tree/main/skills/insumer/insumer-trust-batch)** - Trust profiles for up to 10 wallets in one call
+- **[insumer/insumer-jwks-verify](https://github.com/douglasborthwick-crypto/insumer-agent-skills/tree/main/skills/insumer/insumer-jwks-verify)** - Offline ES256 verification against public JWKS
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Skills by Datadog Labs</h3></summary>
 
 Observability skills from Datadog Labs for APM, logs, monitors, and LLM observability workflows powered by the pup CLI.
