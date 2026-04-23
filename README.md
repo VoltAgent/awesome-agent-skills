@@ -1234,6 +1234,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[Eronred/aso-skills](https://github.com/Eronred/aso-skills)** - 30+ App Store Optimization skills for keyword research, metadata optimization, competitor analysis, creative optimization, and mobile growth strategies via Appeeky API
 - **[degausai/wonda](https://github.com/degausai/wonda)** - AI content creation: images, video, music, audio, editing, publishing
 - **[gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent)** - Schedule social media posts across 28+ platforms programmatically
+- **[shensi8312/blogburst-claude-skill](https://github.com/shensi8312/blogburst-claude-skill)** - Autonomous social media manager: writes, posts, replies, and learns on Twitter, Bluesky, Telegram, Discord. Replaces a $500-1,500/mo freelance SMM for $29-99/mo. Public API endpoints demo content before signup
 
 </details>
 
