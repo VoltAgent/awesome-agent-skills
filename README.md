@@ -1214,6 +1214,13 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 ### Community Skills
 
 <details>
+<summary><h3 style="display:inline">Proxies & Networking</h3></summary>
+
+- **[Iploop/proxyclaw-hermes-skill](https://github.com/Iploop/proxyclaw-hermes-skill)** - Residential proxy routing for AI agent web tools. Routes web_search, web_extract, web_crawl, and browser automation through real device IPs in 100+ countries. Beats Cloudflare and datacenter IP blocks. Works with Hermes, OpenClaw, Gemini CLI, OpenHands, OpenCode, and any agentskills.io-compatible agent. Free 500MB tier at [proxyclaw.ai](https://proxyclaw.ai)
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Vector Databases</h3></summary>
 
 - **[qdrant/skills](https://github.com/qdrant/skills)** - Agent skills for Qdrant vector search, covering scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, .NET, and Java
