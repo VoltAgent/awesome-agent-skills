@@ -1444,6 +1444,7 @@ Agent skills can include prompt injections, tool poisoning, hidden malware paylo
 ### Marketplaces & Skill Directories
 
 - **[Skills宝 (skilery.com)](https://skilery.com)** - Chinese AI Skills marketplace, one-stop search & install
+- **[ai-skill](https://github.com/anomalyco/ai-skill)** - AI skill discovery and management system
 
 
 ## Skill Quality Standards
