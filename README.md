@@ -1441,6 +1441,10 @@ Agent skills can include prompt injections, tool poisoning, hidden malware paylo
 | OpenCode | `.opencode/skills/` | `~/.config/opencode/skills/` | [OpenCode Skills](https://opencode.ai/docs/skills) |
 | Windsurf | `.windsurf/skills/` | `~/.codeium/windsurf/skills/` | [Windsurf Cascade Skills](https://docs.windsurf.com/windsurf/cascade/skills) |
 
+### Marketplaces & Skill Directories
+
+- **[Skills宝 (skilery.com)](https://skilery.com)** - Chinese AI Skills marketplace, one-stop search & install
+
 
 ## Skill Quality Standards
 
