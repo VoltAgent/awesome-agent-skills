@@ -1201,6 +1201,13 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 ### Community Skills
 
 <details>
+<summary><h3 style="display:inline">Directories &amp; Marketplaces</h3></summary>
+
+- **[Skills宝 (skilery.com)](https://skilery.com)** - Chinese AI Skills marketplace for one-stop search and install across Claude Code, OpenCode, and more platforms
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Vector Databases</h3></summary>
 
 - **[qdrant/skills](https://github.com/qdrant/skills)** - Agent skills for Qdrant vector search, covering scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, .NET, and Java
