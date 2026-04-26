@@ -67,7 +67,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Kim Barrett (Advertising)](#advertising-skills-by-kim-barrett) | [Apollo GraphQL](#skills-by-apollo-graphql) | [Auth0](#skills-by-auth0) | [Brave](#skills-by-brave) |
 | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) | [Datadog Labs](#skills-by-datadog-labs) |
 | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) | [Community](#community-skills) |
-| [Quality Standards](#skill-quality-standards) |  |  |  |
+| [Quality Standards](#skill-quality-standards) | [Neo4j](#skills-by-neo4j) |  |  |
 
 
 
@@ -176,6 +176,17 @@ Official skills by VoltAgent for building AI agents with the VoltAgent TypeScrip
 - **[firecrawl/firecrawl-build-onboarding](https://officialskills.sh/firecrawl/skills/firecrawl-build-onboarding)** - Set up Firecrawl credentials and SDK in a project for the first integration
 - **[firecrawl/firecrawl-build-scrape](https://officialskills.sh/firecrawl/skills/firecrawl-build-scrape)** - Integrate Firecrawl `/scrape` for single-page extraction from product code
 - **[firecrawl/firecrawl-build-search](https://officialskills.sh/firecrawl/skills/firecrawl-build-search)** - Integrate Firecrawl `/search` for query-first discovery with optional content hydration
+
+### Skills by Neo4j
+
+Official Neo4j Agent Skills for agentic workflows — Cypher query generation, app development, cli-usage, migration
+<!-- https://github.com/neo4j-contrib/neo4j-skills/<skill> -->
+
+- **[neo4j/neo4j-cli-tools-skill](https://officialskills.sh/neo4j/skills/neo4j-cli-tools-skill)** - Demonstrates how to use Neo4j CLI tools - aura-cli, cypher-shell, neo4j-admin
+- **[neo4j/neo4j-cypher-skill](https://officialskills.sh/neo4j/skills/neo4j-cypher-skill)** - Generates Neo4j Cypher Queries
+- **[neo4j/neo4j-getting-started-skill](https://officialskills.sh/neo4j/skills/neo4j-getting-started-skill)** - App development skill, with provisioning, schema design, import, driver, agentic GraphRAG, usage
+- **[neo4j/neo4j-migration-skill](https://officialskills.sh/neo4j/skills/neo4j-migration-skill)** - Migration Skill to update drivers and Cypher from older versions
+
 
 ### Skills by Neon
 - **[neondatabase/neon-postgres](https://officialskills.sh/neondatabase/skills/neon-postgres)** - Best practices for Neon Serverless Postgres
