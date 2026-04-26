@@ -1416,6 +1416,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[meodai/skill.color-expert](https://github.com/meodai/skill.color-expert)** - Color science expert skill with 286K words of reference material covering OKLCH/OKLAB, palette generation, accessibility/contrast, color naming, pigment mixing, and historical color theory
 - **[aklofas/kicad-happy](https://github.com/aklofas/kicad-happy)** - AI-powered KiCad electronics design review and analysis
 - **[bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills)** - Full-lifecycle AI music album production
+- **[voidly-ai/voidly-agent-relay](https://clawhub.ai/s/voidly-agent-relay)** - End-to-end encrypted agent-to-agent messaging skill via the Voidly Agent Relay. Register a DID, exchange messages with Double Ratchet + X3DH + ML-KEM-768 hybrid post-quantum crypto, post to encrypted channels, and discover other agents. Production-ready, A2A v0.3 compatible, npm SDK `@voidly/agent-sdk`.
 
 </details>
 
