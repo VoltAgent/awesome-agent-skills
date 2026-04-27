@@ -1398,6 +1398,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[obra/defense-in-depth](https://github.com/obra/superpowers/blob/main/skills/defense-in-depth/SKILL.md)** - Multi-layered security approaches
 - **[huifer/Claude-Ally-Health](https://github.com/huifer/Claude-Ally-Health)** - A health assistant skill for medical information analysis, symptom tracking, and wellness guidance.
 - **[frmoretto/clarity-gate](https://github.com/frmoretto/clarity-gate)** - Epistemic quality verification for RAG systems
+- **[goodnight77/rag-skills](https://github.com/goodnight77/rag-skills)** - Best-practice RAG guides and skill definitions
 - **[wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)** - Autonomous ML research with cross-model review loops and GPU deployment
 - **[zechenzhangAGI/AI-research-SKILLs](https://github.com/zechenzhangAGI/AI-research-SKILLs)** - 77 AI research skills for model training, inference, and MLOps
 - **[Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs)** - 20-module AI research skill library for model architecture, training, and ML paper writing
