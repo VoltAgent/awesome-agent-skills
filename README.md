@@ -1236,6 +1236,13 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 </details>
 
 <details>
+<summary><h3 style="display:inline">Software Engineering</h3></summary>
+
+- **[swell-agents/coding-skills](https://github.com/swell-agents/coding-skills)** - Ten harness-agnostic Agent Skills for software engineering, portable across Claude Code, SkillNet, Cursor 2.0 (via MDC frontmatter), OpenAI Codex Skills, and Microsoft Agent Framework. Covers running-tdd-cycles, reviewing-changes, designing-architecture, managing-github-issues, committing-changes, plus per-language conventions for Python, Go, Solidity, shell, and engineering-philosophy
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Marketing</h3></summary>
 
 - **[BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills)** - 17 marketing frameworks for cold outreach, homepage audit, social cards, and more
