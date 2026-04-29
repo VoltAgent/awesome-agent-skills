@@ -67,7 +67,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Kim Barrett (Advertising)](#advertising-skills-by-kim-barrett) | [Apollo GraphQL](#skills-by-apollo-graphql) | [Auth0](#skills-by-auth0) | [Brave](#skills-by-brave) |
 | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) | [Datadog Labs](#skills-by-datadog-labs) |
 | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) | [Community](#community-skills) |
-| [Quality Standards](#skill-quality-standards) |  |  |  |
+| [Createya](#skills-by-createya) | [Quality Standards](#skill-quality-standards) |  |  |
 
 
 
@@ -590,6 +590,9 @@ Domain-specific knowledge for Azure SDK and Microsoft AI Foundry development. 13
 - **[fal-ai-community/fal-workflow](https://officialskills.sh/fal-ai-community/skills/fal-workflow)** - Generate workflow JSON files for chaining AI models
 
 </details>
+
+### Skills by Createya
+- **[Createya-ai/createya-mcp](https://github.com/Createya-ai/createya-mcp)** — Generate images and videos through MCP/REST API. FLUX, Sora, Veo, Kling, Runway, Suno via single key. No VPN, ruble billing.
 
 <details>
 <summary><h3 style="display:inline">Skills by WordPress Development Team</h3></summary>
