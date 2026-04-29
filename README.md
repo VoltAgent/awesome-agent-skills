@@ -1229,6 +1229,13 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 ### Community Skills
 
 <details>
+<summary><h3 style="display:inline">Security and Authorization</h3></summary>
+
+- **[SarthiAI/kavach-skill](https://github.com/SarthiAI/kavach-skill)** - Default-deny execution gate for AI agents and APIs (post-quantum signed permits, drift detection, audit chain), Python SDK on PyPI
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Vector Databases</h3></summary>
 
 - **[qdrant/skills](https://github.com/qdrant/skills)** - Agent skills for Qdrant vector search, covering scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, .NET, and Java
