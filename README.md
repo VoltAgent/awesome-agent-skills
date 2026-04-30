@@ -1365,7 +1365,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[Lum1104/understand-anything](https://github.com/Lum1104/Understand-Anything)** - Interactive codebase knowledge graphs via multi-agent LLM analysis
 - **[hqhq1025/skill-optimizer](https://github.com/hqhq1025/skill-optimizer)** - Diagnose and optimize Agent Skills (SKILL.md) with real session data and research-backed static analysis. Works with Claude Code, Codex, and any Agent Skills-compatible agent
 - **[LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills)** - TestMu AI (Formerly LambdaTest) Skills is a curated collection of Agent Skills that teach AI coding assistants how to write production-grade test automation.
-- **[nottelabs/agent-skill-notte](https://github.com/nottelabs/agent-skill-notte)** - Browser automation skill for AI agents: real-browser navigation, structured Pydantic scraping, and hybrid scripted/agent workflows via the Notte Python SDK and MCP server.
+- **[nottelabs/agent-skill-notte](https://github.com/nottelabs/agent-skill-notte)** - Agent-native browser automation: real Chromium, stealth + captcha solving, vault-backed auth, and Pydantic-typed scraping. Ships as both a Python SDK skill and an MCP server. Complements Playwright skills with reasoning-driven (rather than deterministic) flows.
 
 </details>
 
