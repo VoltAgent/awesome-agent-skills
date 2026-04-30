@@ -1249,6 +1249,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[Eronred/aso-skills](https://github.com/Eronred/aso-skills)** - 30+ App Store Optimization skills for keyword research, metadata optimization, competitor analysis, creative optimization, and mobile growth strategies via Appeeky API
 - **[degausai/wonda](https://github.com/degausai/wonda)** - AI content creation: images, video, music, audio, editing, publishing
 - **[gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent)** - Schedule social media posts across 28+ platforms programmatically
+- **[Branding5/social-media-image-sizes](https://github.com/Branding5/social-media-image-sizes)** - Check and resize images for 9 social media platforms, 60+ specs
 
 </details>
 
