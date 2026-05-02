@@ -48,6 +48,7 @@ The most contributed Agent Skills repository, built and maintained together with
 
 
 ## Table of Contents
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - Real-time AI monitoring dashboard for AI agents and LLMs, built with Vue3 and Node.js.
 
 ### Official Skills by
 
