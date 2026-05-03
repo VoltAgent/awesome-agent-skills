@@ -1427,6 +1427,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[meodai/skill.color-expert](https://github.com/meodai/skill.color-expert)** - Color science expert skill with 286K words of reference material covering OKLCH/OKLAB, palette generation, accessibility/contrast, color naming, pigment mixing, and historical color theory
 - **[aklofas/kicad-happy](https://github.com/aklofas/kicad-happy)** - AI-powered KiCad electronics design review and analysis
 - **[bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills)** - Full-lifecycle AI music album production
+- **[ToolOracle/oraclenet-mesh-skill](https://github.com/ToolOracle/oraclenet-mesh-skill)** - Capability mesh router across 98 MCP oracles, x402 payments
 
 </details>
 
