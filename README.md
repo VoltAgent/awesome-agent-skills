@@ -1365,6 +1365,11 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[Lum1104/understand-anything](https://github.com/Lum1104/Understand-Anything)** - Interactive codebase knowledge graphs via multi-agent LLM analysis
 - **[hqhq1025/skill-optimizer](https://github.com/hqhq1025/skill-optimizer)** - Diagnose and optimize Agent Skills (SKILL.md) with real session data and research-backed static analysis. Works with Claude Code, Codex, and any Agent Skills-compatible agent
 - **[LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills)** - TestMu AI (Formerly LambdaTest) Skills is a curated collection of Agent Skills that teach AI coding assistants how to write production-grade test automation.
+- **[aozyildirim/cross-source-correlation](https://github.com/aozyildirim/Agena/blob/main/skills/agena/cross-source-correlation/SKILL.md)** - Correlate PR merges, deploys, Sentry, and Jira events into clusters
+- **[aozyildirim/stale-ticket-triage](https://github.com/aozyildirim/Agena/blob/main/skills/agena/stale-ticket-triage/SKILL.md)** - AI close/snooze/keep verdicts on idle Jira and Azure tickets
+- **[aozyildirim/review-backlog-killer](https://github.com/aozyildirim/Agena/blob/main/skills/agena/review-backlog-killer/SKILL.md)** - Auto-nudge stuck PRs via Slack, email, or PR comment
+- **[aozyildirim/owasp-reviewer-prompt](https://github.com/aozyildirim/Agena/blob/main/skills/agena/owasp-reviewer-prompt/SKILL.md)** - Paranoid OWASP Top 10 system prompt for AI review
+- **[aozyildirim/integration-rule-engine](https://github.com/aozyildirim/Agena/blob/main/skills/agena/integration-rule-engine/SKILL.md)** - Declarative routing engine: ticket attributes to tag and agent
 
 </details>
 
