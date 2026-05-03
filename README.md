@@ -1205,6 +1205,8 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[Eronred/aso-skills](https://github.com/Eronred/aso-skills)** - 30+ App Store Optimization skills for keyword research, metadata optimization, competitor analysis, creative optimization, and mobile growth strategies via Appeeky API
 - **[degausai/wonda](https://github.com/degausai/wonda)** - AI content creation: images, video, music, audio, editing, publishing
 
+- **[dm-skills/directmail-coach](https://github.com/dm-skills/skills)** - Direct mail operations system for AI planning, execution, and measurement
+
 </details>
 
 <details>
