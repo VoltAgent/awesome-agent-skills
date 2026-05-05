@@ -67,7 +67,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Kim Barrett (Advertising)](#advertising-skills-by-kim-barrett) | [Apollo GraphQL](#skills-by-apollo-graphql) | [Auth0](#skills-by-auth0) | [Brave](#skills-by-brave) |
 | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) | [Datadog Labs](#skills-by-datadog-labs) |
 | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) | [Community](#community-skills) |
-| [Redis](#skills-by-redis) | [Quality Standards](#skill-quality-standards) |  |  |
+| [Redis](#skills-by-redis) | [DocuSeal](#skills-by-docuseal) | [Quality Standards](#skill-quality-standards) |  |
 
 
 
@@ -1231,6 +1231,14 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 <summary><h3 style="display:inline">Skills by Redis</h3></summary>
 
 - **[redis/redis-development](https://github.com/redis/agent-skills/tree/main/skills/redis-development)** - Redis development best practices — data structures, query engine, vector search, caching, and performance optimization.
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by DocuSeal</h3></summary>
+
+- **[docusealco/docuseal-cli](https://github.com/docusealco/docuseal-agent-skills/tree/master/skills/docuseal-cli)** - Manage e-signature templates, submissions, and submitters with the CLI or AI agent
+- **[docusealco/docuseal-code](https://github.com/docusealco/docuseal-agent-skills/tree/master/skills/docuseal-code)** - Add document signing to your app with embed components, REST API, SDKs, and webhooks
 
 </details>
 
