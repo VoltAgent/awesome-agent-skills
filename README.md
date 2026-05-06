@@ -1481,12 +1481,13 @@ Agent skills can include prompt injections, tool poisoning, hidden malware paylo
 | OpenCode | `.opencode/skills/` | `~/.config/opencode/skills/` | [OpenCode Skills](https://opencode.ai/docs/skills) |
 | Windsurf | `.windsurf/skills/` | `~/.codeium/windsurf/skills/` | [Windsurf Cascade Skills](https://docs.windsurf.com/windsurf/cascade/skills) |
 
+## Unified Config Management
+
+Managing skills across multiple AI coding assistants can be challenging. [AgentsMesh](https://github.com/sampleXbro/agentsmesh#readme) lets you define agent skills, rules, and commands once in a single `.agentsmesh/` directory and generate native configs for all the tools listed above.
 
 ## Skill Quality Standards
 
 As the ecosystem grows, consistent quality helps agents discover and use skills reliably. The following references and criteria keep the bar high.
-
-
 
 ### Quality Criteria
 
