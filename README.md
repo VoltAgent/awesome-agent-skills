@@ -1377,6 +1377,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills)** - TestMu AI (Formerly LambdaTest) Skills is a curated collection of Agent Skills that teach AI coding assistants how to write production-grade test automation.
 - **[foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills)** - A skills governed plug-and-play harness for staged, test-driven skill orchestration
 - **[metalbear-co/skills](https://github.com/metalbear-co/skills)** - Skills that let agents code and test against your Kubernetes cluster using mirrord
+- **[cjcsecurity/claude-code-dual-build](https://github.com/cjcsecurity/claude-code-dual-build)** - Symmetric multi-agent build with mandatory bidirectional cross-review for Claude Code + Codex. Splits coding tasks ~50/50, runs both in parallel in isolated git worktrees, then has the opposite model review each diff before consolidation. Lightweight skill + four agents.
 
 </details>
 
