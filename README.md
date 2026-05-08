@@ -201,6 +201,16 @@ Official skills by VoltAgent for building AI agents with the VoltAgent TypeScrip
 ### Skills by Typefully 
 - **[typefully/typefully](https://officialskills.sh/typefully/skills/typefully)** - Create, schedule, and publish social media content across X, LinkedIn, Threads, Bluesky, and Mastodon
 
+### Skills by Ejentum
+
+Cognitive harness skills for Claude Code that route to the [ejentum-mcp](https://github.com/ejentum/ejentum-mcp) MCP server natively, with HTTP/curl as fallback. Five SKILL.md files: one router and four per-mode files covering reasoning, code, anti-deception, and memory failure modes in agentic workflows.
+
+- **[ejentum/ejentum-skill-unified](https://github.com/ejentum/ejentum-mcp/blob/main/skills/ejentum_skill_unified.md)** - Router skill: classifies the task and picks the right harness mode, documents stacking patterns when two modes apply
+- **[ejentum/ejentum-skill-reasoning](https://github.com/ejentum/ejentum-mcp/blob/main/skills/ejentum_skill_reasoning.md)** - Reasoning Harness for analytical depth across causal, temporal, spatial, simulation, abstraction, and metacognition dimensions
+- **[ejentum/ejentum-skill-code](https://github.com/ejentum/ejentum-mcp/blob/main/skills/ejentum_skill_code.md)** - Code Harness for engineering discipline: hallucinated APIs, lost edge cases, premature algorithm commitment, silent contract violations
+- **[ejentum/ejentum-skill-anti-deception](https://github.com/ejentum/ejentum-mcp/blob/main/skills/ejentum_skill_anti_deception.md)** - Anti-Deception Harness: honesty under pressure, sycophancy and authority-appeal blocking
+- **[ejentum/ejentum-skill-memory](https://github.com/ejentum/ejentum-mcp/blob/main/skills/ejentum_skill_memory.md)** - Memory Harness for cross-turn perception sharpening and signal-vs-projection verification
+
 <details open>
 <summary><h3 style="display:inline">Skills by Venice.ai</h3></summary>
 
