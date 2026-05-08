@@ -1453,6 +1453,13 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 <br/>
 
 
+<details>
+<summary><h3 style="display:inline">Security & Privacy</h3></summary>
+
+- **[teodorofodocrispin-cmyk/TrustBoost-PII-Sanitizer](https://github.com/teodorofodocrispin-cmyk/TrustBoost-PII-Sanitizer)** - Blockchain-verified PII sanitization layer for autonomous AI agent pipelines. Redacts names, emails, phone numbers, national IDs, private keys, and financial data before text reaches LLM providers. Solana-native, no SDK required, single POST request. Supports EN, ES (LATAM), PT (BR/PT), DE, JA. Try instantly: `POST https://api.trustboost.dev/sanitize/preview` — no wallet, no setup.
+
+</details>
+
 ## 🔒 Security Notice
 
 Skills in this list are curated, not audited. They may be updated, modified, or replaced by their original maintainers at any time after being added here.
