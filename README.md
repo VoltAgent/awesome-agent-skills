@@ -1377,7 +1377,8 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[hqhq1025/skill-optimizer](https://github.com/hqhq1025/skill-optimizer)** - Diagnose and optimize Agent Skills (SKILL.md) with real session data and research-backed static analysis. Works with Claude Code, Codex, and any Agent Skills-compatible agent
 - **[LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills)** - TestMu AI (Formerly LambdaTest) Skills is a curated collection of Agent Skills that teach AI coding assistants how to write production-grade test automation.
 - **[foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills)** - A skills governed plug-and-play harness for staged, test-driven skill orchestration
-- **[metalbear-co/skills](https://github.com/metalbear-co/skills)** - Skills that let agents code and test against your Kubernetes cluster using mirrord
+- **[metalbear-co/skills](https://github.com/metalbear-co/skills)** - Skills that let agents code and test against your Kubernetes cluster using
+- - **[petrkindlmann/qa-skills](https://github.com/petrkindlmann/qa-skills)** — 42 QA and test-automation skills for Claude Code, Codex, Cursor, and other Agent Skills Standard runtimes. Covers Playwright, Cypress, API/unit/mobile testing, AI test generation, bug triage, accessibility, performance, CI/CD.mirrord
 
 </details>
 
