@@ -1264,12 +1264,6 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 </details>
 
 <details>
-<summary><h3 style="display:inline">Finance & Investment</h3></summary>
-
-- **[tellmefrankie/news-engine](https://github.com/tellmefrankie/news-engine)** - 7 Claude Code skills for investment analysis: options flow scanner, P/C ratio anomaly detection, sector ETF analysis (XLI/XLF/XLK), weekly AI briefing generator. Built with Node.js + Claude API + SQLite. MIT
-
-</details>
-<details>
 <summary><h3 style="display:inline">Productivity and Collaboration</h3></summary>
 
 - **[PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill)** - Document processing with Nutrient DWS API: convert (PDF/DOCX/XLSX/PPTX/HTML/images), extract text/tables, OCR (20+ languages), redact PII (pattern + AI), watermark, digital signatures, form filling. [MCP server](https://www.npmjs.com/package/@nutrient-sdk/dws-mcp-server) also available.
