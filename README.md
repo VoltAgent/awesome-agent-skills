@@ -1454,6 +1454,13 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 
 </details>
 
+<details>
+<summary><h3 style="display:inline">Finance & Market Intelligence</h3></summary>
+
+- **[tellmefrankie/ai-investment-skills](https://github.com/tellmefrankie/ai-investment-skills)** - Investment analysis agent skills: News Sentiment Analyzer (processes 200+ articles, scores sentiment per ticker/sector), EV Calculator (personalized break-even analysis with subsidy calculation), and Options Flow Analyzer (caught XLI P/C 5.32 anomaly live). TypeScript + Claude API. No setup required.
+
+</details>
+
 <br/>
 
 <a href="https://github.com/VoltAgent/voltagent">
