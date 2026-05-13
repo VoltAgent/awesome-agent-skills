@@ -1284,6 +1284,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[op7418/Youtube-clipper-skill](https://github.com/op7418/Youtube-clipper-skill)** - YouTube clip generation and editing with automated workflows
 - **[ognjengt/founder-skills](https://github.com/ognjengt/founder-skills)** - Claude skills for founders with packaged startup workflows
 - **[EveryInc/charlie-cfo-skill](https://github.com/EveryInc/charlie-cfo-skill)** - Bootstrapped CFO financial management inspired by Charlie Munger
+- **[tellmefrankie/ai-investment-skills](https://github.com/tellmefrankie/ai-investment-skills)** - Options flow scanner with volume quality filtering, stop-loss/take-profit price monitor with Telegram alerts, and daily AI briefing for investment analysis. Detects sector ETF P/C ratio anomalies (e.g., XLI P/C at 5.32 vs. normal 0.5–1.2).
 - **[openaccountants/openaccountants](https://github.com/openaccountants/openaccountants)** - 371 tax classification skills across 134 countries
 - **[wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill)** - Manage Linear issues, projects, and teams
 - **[Shpigford/readme](https://github.com/Shpigford/skills/tree/main/readme)** - Generate comprehensive project documentation
