@@ -1264,6 +1264,12 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 </details>
 
 <details>
+<summary><h3 style="display:inline">Finance & Investment</h3></summary>
+
+- **[tellmefrankie/news-engine](https://github.com/tellmefrankie/news-engine)** - 7 Claude Code skills for investment analysis: options flow scanner, P/C ratio anomaly detection, sector ETF analysis (XLI/XLF/XLK), weekly AI briefing generator. Built with Node.js + Claude API + SQLite. MIT
+
+</details>
+<details>
 <summary><h3 style="display:inline">Productivity and Collaboration</h3></summary>
 
 - **[PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill)** - Document processing with Nutrient DWS API: convert (PDF/DOCX/XLSX/PPTX/HTML/images), extract text/tables, OCR (20+ languages), redact PII (pattern + AI), watermark, digital signatures, form filling. [MCP server](https://www.npmjs.com/package/@nutrient-sdk/dws-mcp-server) also available.
@@ -1298,6 +1304,14 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[Digidai/product-manager-skills](https://github.com/Digidai/product-manager-skills)** - Senior PM agent with 30+ frameworks and SaaS metrics
 - **[deusyu/translate-book](https://github.com/deusyu/translate-book)** - Translate books (PDF/DOCX/EPUB) via parallel sub-agents with resume
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** - Research any topic across Reddit, X, YouTube, HN, Polymarket, and the web, ranked by upvotes, likes, and real money instead of editors
+
+</details>
+
+
+<details>
+<summary><h3 style="display:inline">Finance and Trading</h3></summary>
+
+- **[tellmefrankie/ai-investment-skills](https://github.com/tellmefrankie/ai-investment-skills)** - 6 Claude Code skills for real-money portfolio management: options flow analyzer (caught XLI P/C 5.32 outlier live), stop-loss automation, daily 9-wave briefing, news sentiment engine, price monitor alerts, and EV cost calculator
 
 </details>
 
