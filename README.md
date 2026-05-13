@@ -203,13 +203,13 @@ Official skills by VoltAgent for building AI agents with the VoltAgent TypeScrip
 
 ### Skills by Ejentum
 
-Cognitive harness skills for Claude Code that route to the [ejentum-mcp](https://github.com/ejentum/ejentum-mcp) MCP server natively, with HTTP/curl as fallback. Five SKILL.md files: one router and four per-mode files covering reasoning, code, anti-deception, and memory failure modes in agentic workflows.
+Five SKILL.md files for Claude Code that route to the [ejentum-mcp](https://github.com/ejentum/ejentum-mcp) MCP server (HTTP fallback supported). One router plus four per-mode skills.
 
-- **[ejentum/ejentum-skill-unified](https://github.com/ejentum/ejentum-mcp/blob/main/skills/ejentum_skill_unified.md)** - Router skill: classifies the task and picks the right harness mode, documents stacking patterns when two modes apply
-- **[ejentum/ejentum-skill-reasoning](https://github.com/ejentum/ejentum-mcp/blob/main/skills/ejentum_skill_reasoning.md)** - Reasoning Harness for analytical depth across causal, temporal, spatial, simulation, abstraction, and metacognition dimensions
-- **[ejentum/ejentum-skill-code](https://github.com/ejentum/ejentum-mcp/blob/main/skills/ejentum_skill_code.md)** - Code Harness for engineering discipline: hallucinated APIs, lost edge cases, premature algorithm commitment, silent contract violations
-- **[ejentum/ejentum-skill-anti-deception](https://github.com/ejentum/ejentum-mcp/blob/main/skills/ejentum_skill_anti_deception.md)** - Anti-Deception Harness: honesty under pressure, sycophancy and authority-appeal blocking
-- **[ejentum/ejentum-skill-memory](https://github.com/ejentum/ejentum-mcp/blob/main/skills/ejentum_skill_memory.md)** - Memory Harness for cross-turn perception sharpening and signal-vs-projection verification
+- **[ejentum/ejentum-skill-unified](https://github.com/ejentum/ejentum-mcp/blob/main/skills/ejentum_skill_unified.md)** - Router: classifies the task and selects which mode to invoke
+- **[ejentum/ejentum-skill-reasoning](https://github.com/ejentum/ejentum-mcp/blob/main/skills/ejentum_skill_reasoning.md)** - For analytical, diagnostic, and planning tasks
+- **[ejentum/ejentum-skill-code](https://github.com/ejentum/ejentum-mcp/blob/main/skills/ejentum_skill_code.md)** - For code generation, review, and refactoring
+- **[ejentum/ejentum-skill-anti-deception](https://github.com/ejentum/ejentum-mcp/blob/main/skills/ejentum_skill_anti_deception.md)** - For honesty-pressured tasks
+- **[ejentum/ejentum-skill-memory](https://github.com/ejentum/ejentum-mcp/blob/main/skills/ejentum_skill_memory.md)** - For cross-turn perception
 
 <details open>
 <summary><h3 style="display:inline">Skills by Venice.ai</h3></summary>
