@@ -1259,7 +1259,8 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop)** - Removes named AI writing tells (tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocab like "delve"/"crucial"). Split lint/rewrite modes for auditing your own text without auto-rewriting. Five intensity levels, MIT
 - **[Eronred/aso-skills](https://github.com/Eronred/aso-skills)** - 30+ App Store Optimization skills for keyword research, metadata optimization, competitor analysis, creative optimization, and mobile growth strategies via Appeeky API
 - **[degausai/wonda](https://github.com/degausai/wonda)** - AI content creation: images, video, music, audio, editing, publishing
-- **[gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent)** - Schedule social media posts across 28+ platforms programmatically
+- **[gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent)**
+- **[demo112/yunqu-ai-skills](https://github.com/demo112/yunqu-ai-skills)** - Chinese market AI skills collection: Xiaohongshu content strategy, WeChat Official Account optimization, multi-platform Chinese content engineering, and MCP tool development - Schedule social media posts across 28+ platforms programmatically
 
 </details>
 
