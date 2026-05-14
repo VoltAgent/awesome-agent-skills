@@ -1332,6 +1332,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[obra/requesting-code-review](https://github.com/obra/superpowers/blob/main/skills/requesting-code-review/SKILL.md)** - Initiate code review processes
 - **[obra/receiving-code-review](https://github.com/obra/superpowers/blob/main/skills/receiving-code-review/SKILL.md)** - Process and incorporate code feedback
 - **[obra/using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/SKILL.md)** - Manage multiple Git working trees
+- **[blackwell-systems/polywave](https://github.com/blackwell-systems/polywave)** - Parallel agent coordination with structural merge safety
 - **[obra/verification-before-completion](https://github.com/obra/superpowers/blob/main/skills/verification-before-completion/SKILL.md)** - Validate work before finalizing
 - **[obra/condition-based-waiting](https://github.com/obra/superpowers/blob/main/skills/condition-based-waiting/SKILL.md)** - Manage conditional pauses or delays
 - **[obra/commands](https://github.com/obra/superpowers/tree/main/skills/commands)** - Create and manage command structures
