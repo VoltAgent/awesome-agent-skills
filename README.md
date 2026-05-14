@@ -1244,6 +1244,13 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 </details>
 
 <details>
+<summary><h3 style="display:inline">Cloud Storage</h3></summary>
+
+- **[backblaze-labs/b2-cloud-storage](https://github.com/backblaze-labs/claude-skill-b2-cloud-storage)** - Manage Backblaze B2 cloud storage from the terminal: list buckets and objects, audit usage, clean up stale data, run security reviews, configure lifecycle rules. S3-compatible; works with rclone, the B2 CLI, and any S3 client.
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Marketing</h3></summary>
 
 - **[BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills)** - 17 marketing frameworks for cold outreach, homepage audit, social cards, and more
