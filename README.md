@@ -1260,6 +1260,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[Eronred/aso-skills](https://github.com/Eronred/aso-skills)** - 30+ App Store Optimization skills for keyword research, metadata optimization, competitor analysis, creative optimization, and mobile growth strategies via Appeeky API
 - **[degausai/wonda](https://github.com/degausai/wonda)** - AI content creation: images, video, music, audio, editing, publishing
 - **[gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent)** - Schedule social media posts across 28+ platforms programmatically
+- **[tastekim/claude-indie-toolkit](https://github.com/tastekim/claude-indie-toolkit)** - Indie hacker / solo founder workflow. 5 agents (idea-validator with kill criteria, pricing-strategist using Van Westendorp, landing-page-architect using AIDA+PAS, cold-outreach-writer with 4-line reply-optimized framework, launch-day-orchestrator with 22-day playbook), 3 skills (mvp-spec-writer with hard ≤4-week/≤5-screen/≤7-action constraints, competitor-deep-dive, revenue-modeler), 2 commands, 1 PreToolUse hook (scope-creep-guard blocks Claude from writing files outside MVP-SPEC.md). Korean adaptation included.
 
 </details>
 
