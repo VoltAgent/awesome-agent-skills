@@ -1260,6 +1260,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[Eronred/aso-skills](https://github.com/Eronred/aso-skills)** - 30+ App Store Optimization skills for keyword research, metadata optimization, competitor analysis, creative optimization, and mobile growth strategies via Appeeky API
 - **[degausai/wonda](https://github.com/degausai/wonda)** - AI content creation: images, video, music, audio, editing, publishing
 - **[gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent)** - Schedule social media posts across 28+ platforms programmatically
+- **[Aura-huang/agency-agents-cn](https://github.com/Aura-huang/agency-agents-cn)** - 一人公司技能库中国版。针对中国市场（微信、小红书、抖音、B站、知乎等）深度优化的 15+ 原创 Agent 角色，一人创业者专属。
 
 </details>
 
