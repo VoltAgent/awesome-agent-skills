@@ -1430,6 +1430,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[meodai/skill.color-expert](https://github.com/meodai/skill.color-expert)** - Color science expert skill with 286K words of reference material covering OKLCH/OKLAB, palette generation, accessibility/contrast, color naming, pigment mixing, and historical color theory
 - **[aklofas/kicad-happy](https://github.com/aklofas/kicad-happy)** - AI-powered KiCad electronics design review and analysis
 - **[bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills)** - Full-lifecycle AI music album production
+- **[GeniusTrader-Harry/equity-research](https://github.com/GeniusTrader-Harry/equity-research)** - Thesis-first equity research workflow: 13 phases from raw filings to a defensible 5–8 page investment memo on a single stock. Direction commits before the model is built; bull/bear are the payoff envelope around the committed base case, not parallel theses.
 
 </details>
 
