@@ -1250,6 +1250,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)** - Universal SEO skill for comprehensive website analysis and optimization
 - **[wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** - Publish articles to X/Twitter
 - **[CosmoBlk/email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible)** - 55K-word email marketing guide as an AI skill
+- **[polnikale/sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing)** - Agent skill for operating Sequenzy email marketing and transactional email workflows, including authentication, subscribers, campaigns, sequences, and templates.
 - **[smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)** - AI creative director with recursive self-assessment: 20+ methodologies (SIT, TRIZ, Bisociation, SCAMPER, Synectics), 3-axis evaluation calibrated against Cannes/D&AD/HumanKind, 5-phase process from brief to presentation
 - **[Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper)** - Tweet search, profile tweets, follower export, media, posting, replies, MCP
 - **[Xquik-dev/tweetclaw](https://github.com/Xquik-dev/tweetclaw)** - Post tweets, replies, DMs; search, monitor, run giveaways
