@@ -1498,6 +1498,7 @@ As the ecosystem grows, consistent quality helps agents discover and use skills 
 | **Progressive disclosure** | Keep top-level metadata under ~100 tokens. Skill body should stay below 500 lines. Load resources (large docs, schemas) on demand, not inline. |
 | **No absolute paths** | Never hard-code machine-specific paths like `/Users/alice/`. Use relative paths or well-known variables (`$HOME`, `$PROJECT_ROOT`). |
 | **Scoped tools** | Request only the tools the skill actually needs. Avoid blanket `"tools": ["*"]`. Declare tool dependencies explicitly. |
+| **Portability evidence** | When claiming compatibility across agents, document what was actually tested: target tools, native discovery path, manual activation needs, and any known lossy/fallback behavior. Do not present a generic fallback path as equivalent to a native skill/rule surface. |
 
 ## 🤝 Contributing
 
