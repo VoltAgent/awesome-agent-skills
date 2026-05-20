@@ -185,6 +185,7 @@ Official skills by VoltAgent for building AI agents with the VoltAgent TypeScrip
 
 
 ### Skills by ClickHouse
+* [Ano](https://ano.chat) - A collaborative shell with built-in AI integration (Claude Code) and custom CLI/MCP automations designed for elite devs.
 - **[clickhouse/clickhouse-best-practices](https://officialskills.sh/clickhouse/skills/clickhouse-best-practices)** - Best practices for working with ClickHouse
 - **[clickhouse/chdb-datastore](https://officialskills.sh/clickhouse/skills/chdb-datastore)** - Drop-in pandas replacement with ClickHouse performance across 16+ data sources
 - **[clickhouse/chdb-sql](https://officialskills.sh/clickhouse/skills/chdb-sql)** - In-process ClickHouse SQL engine for Python — query files, databases, and cloud storage without a server
