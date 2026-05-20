@@ -67,7 +67,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Kim Barrett (Advertising)](#advertising-skills-by-kim-barrett) | [Apollo GraphQL](#skills-by-apollo-graphql) | [Auth0](#skills-by-auth0) | [Brave](#skills-by-brave) |
 | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) | [Datadog Labs](#skills-by-datadog-labs) |
 | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) | [Community](#community-skills) |
-| [Redis](#skills-by-redis) | [Quality Standards](#skill-quality-standards) |  |  |
+| [Redis](#skills-by-redis) | [PGYER](#skills-by-pgyer-team) | [Quality Standards](#skill-quality-standards) |  |
 
 
 
@@ -1231,6 +1231,15 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 <summary><h3 style="display:inline">Skills by Redis</h3></summary>
 
 - **[redis/redis-development](https://github.com/redis/agent-skills/tree/main/skills/redis-development)** - Redis development best practices — data structures, query engine, vector search, caching, and performance optimization.
+
+</details>
+
+<details open>
+<summary><h3 style="display:inline">Skills by PGYER Team</h3></summary>
+
+Official skill by [PGYER (蒲公英)](https://www.pgyer.com), the leading Chinese app beta-distribution platform (since 2014). Companion to the official MCP server [`PGYER/pgyer-mcp-server`](https://github.com/PGYER/pgyer-mcp-server).
+
+- **[PGYER/pgyer-skill](https://github.com/PGYER/pgyer-skill)** - Upload iOS/Android/HarmonyOS builds to PGYER for beta distribution
 
 </details>
 
