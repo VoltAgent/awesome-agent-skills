@@ -66,6 +66,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Notion](#skills-by-notion) | [Resend](#skills-by-resend) | [Addy Osmani (Web Quality)](#skills-by-addy-osmani-web-quality) | [MongoDB](#skills-by-mongodb) |
 | [Kim Barrett (Advertising)](#advertising-skills-by-kim-barrett) | [Apollo GraphQL](#skills-by-apollo-graphql) | [Auth0](#skills-by-auth0) | [Brave](#skills-by-brave) |
 | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) | [Datadog Labs](#skills-by-datadog-labs) |
+[pencil20388-eng/adspower-skill](https://github.com/pencil20388-eng/adspower-skill) - Manage AdsPower antidetect browser profiles through the Local API: batch create profiles, bind proxies, export cookies, check fingerprints, and connect Selenium/Playwright — all through natural language.
 | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) | [Community](#community-skills) |
 | [Redis](#skills-by-redis) | [Quality Standards](#skill-quality-standards) |  |  |
 
