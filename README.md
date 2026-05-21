@@ -74,6 +74,11 @@ The most contributed Agent Skills repository, built and maintained together with
 
 
 
+## Local Agent Demos
+
+- **[`dropship-agent`](dropship-agent/README.md)** - Generates a static dropshipping storefront in `dropship-agent/dist/`.
+- **[`plan-agent`](plan-agent/README.md)** - Generates a structured 5-step plan from a task description.
+
 ## Sponsors ❤️
 
 [Become a Sponsor](https://github.com/sponsors/VoltAgent/sponsorships?tier_id=605663) to feature your logo here and on [officialskills.sh](https://officialskills.sh/) website — 300k+ monthly views.
