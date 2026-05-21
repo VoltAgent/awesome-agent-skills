@@ -1298,6 +1298,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[Digidai/product-manager-skills](https://github.com/Digidai/product-manager-skills)** - Senior PM agent with 30+ frameworks and SaaS metrics
 - **[deusyu/translate-book](https://github.com/deusyu/translate-book)** - Translate books (PDF/DOCX/EPUB) via parallel sub-agents with resume
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** - Research any topic across Reddit, X, YouTube, HN, Polymarket, and the web, ranked by upvotes, likes, and real money instead of editors
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** - 14-skill collection for AI-powered job search: JD evaluation with A-F scoring, ATS-optimized PDF generation, portal scanners (Greenhouse/Ashby/Lever), interview prep with STAR+R, batch processing, and a Go dashboard TUI
 
 </details>
 
