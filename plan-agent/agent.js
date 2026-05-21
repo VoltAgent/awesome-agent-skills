@@ -14,13 +14,14 @@ function createPlan(task) {
   const goal = task.replace(/\.$/, '');
 
   return [
-    formatStep(1, 'Clarify the objective', `Define the core outcome for: ${goal}`),
-    formatStep(2, 'Break into phases', 'Split the work into research, design, execution, review, and follow-up tasks'),
-    formatStep(3, 'Assign priorities', 'Identify the most important actions and map them to deadlines or milestones'),
-    formatStep(4, 'Gather resources', 'List tools, stakeholders, and materials needed to complete each phase'),
-    formatStep(5, 'Review and refine', 'Validate the plan against the objective and update it for risks or missing steps'),
+    formatStep(1, 'Clarify the objective', `Define the core outcome, target users, and success metrics for: ${goal}`),
+    formatStep(2, 'Break into phases', 'Organize the work into research, design, execution, launch, and review phases'),
+    formatStep(3, 'Assign priorities', 'Rank tasks and features by impact, effort, and deadline sensitivity'),
+    formatStep(4, 'Gather resources', 'List required tools, stakeholders, team roles, and launch assets'),
+    formatStep(5, 'Review and refine', 'Validate the plan, identify risks, and prepare follow-up metrics'),
   ].join('\n\n');
 }
 
-console.log(`Planning agent output for: ${prompt}\n`);
+console.log('=== Plan Agent ===\n');
+console.log(`Task: ${prompt}\n`);
 console.log(createPlan(prompt));

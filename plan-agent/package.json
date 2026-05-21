@@ -1,0 +1,14 @@
+{
+  "name": "plan-agent",
+  "version": "1.0.0",
+  "description": "A lightweight local planning agent demo.",
+  "type": "commonjs",
+  "bin": {
+    "plan-agent": "agent.js"
+  },
+  "scripts": {
+    "plan": "node agent.js"
+  },
+  "author": "VoltAgent demo",
+  "license": "MIT"
+}
