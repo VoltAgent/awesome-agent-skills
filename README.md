@@ -1434,6 +1434,13 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 </details>
 
 <details>
+<summary><h3 style="display:inline">Finance</h3></summary>
+
+- **[longbridge/skills](https://github.com/longbridge/skills/tree/main/skills/longbridge)** - Live financial market data, trading, and portfolio analysis for US, HK, A-share, and Singapore markets via Longbridge Securities CLI.
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">n8n Automation</h3></summary>
 
 - **[czlonkowski/n8n-code-javascript](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-javascript)** - JavaScript in n8n Code nodes with data access patterns
