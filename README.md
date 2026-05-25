@@ -192,6 +192,10 @@ Official skills by VoltAgent for building AI agents with the VoltAgent TypeScrip
 - **[clickhouse/clickhousectl-cloud-deploy](https://officialskills.sh/clickhouse/skills/clickhousectl-cloud-deploy)** - Deploy to ClickHouse Cloud and migrate from local setups with clickhousectl
 - **[clickhouse/clickhousectl-local-dev](https://officialskills.sh/clickhouse/skills/clickhousectl-local-dev)** - Spin up a local ClickHouse development environment from zero with clickhousectl
 
+### Skills by Longbridge Securities
+Official skills by Longbridge Securities for financial market analysis across HK, US, A-share, and Singapore markets.
+- **[longbridge/skills](https://github.com/longbridge/skills)** - 125+ agent skills for real-time quotes, charts, fundamentals, portfolio analysis, valuation, news, options, and more. Trilingual (Simplified Chinese / Traditional Chinese / English). Install: `/plugin marketplace add longbridge/skills`
+
 ### Skills by Remotion 
 - **[remotion-dev/remotion](https://officialskills.sh/remotion-dev/skills/remotion)** - Programmatic video creation with React
 
