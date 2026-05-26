@@ -1485,6 +1485,13 @@ Official Google Cloud skills covering Firebase, BigQuery, Cloud Run, GKE, AlloyD
 </details>
 
 <details>
+<summary><h3 style="display:inline">LLM Infrastructure</h3></summary>
+
+- **[artvandelay/api-vs-selfhost-skill](https://github.com/artvandelay/api-vs-selfhost-skill)** - Decide API-vs-self-host LLM economics and fine-tune ROI from any agent context. Live GPU+API prices, deterministic local math.
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Marketing</h3></summary>
 
 - **[BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills)** - 17 marketing frameworks for cold outreach, homepage audit, social cards, and more
