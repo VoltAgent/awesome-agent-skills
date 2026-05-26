@@ -1622,6 +1622,7 @@ Official Google Cloud skills covering Firebase, BigQuery, Cloud Run, GKE, AlloyD
 - **[foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills)** - A skills governed plug-and-play harness for staged, test-driven skill orchestration
 - **[metalbear-co/skills](https://github.com/metalbear-co/skills)** - Skills that let agents code and test against your Kubernetes cluster using mirrord
 - **[dembrandt/dembrandt-skills](https://github.com/dembrandt/dembrandt-skills)** - UX and design system skills: hierarchy, typography, accessibility, interactions
+- **[morsechimwai/lemmaly](https://github.com/morsechimwai/lemmaly)** - Four composable skills (`lemmaly`, `mathguard`, `invariant-guard`, `complexity-cuts`) that force AI coding agents to state Big-O, name the data structure, prove termination, and pick the right algorithm — before writing the loop. Ships a deterministic CI scanner with 59 rules across 11 languages (no LLM, no API key, no network).
 
 </details>
 
