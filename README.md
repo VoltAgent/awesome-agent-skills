@@ -1516,6 +1516,7 @@ Official Google Cloud skills covering Firebase, BigQuery, Cloud Run, GKE, AlloyD
 - **[gokapso/automate-whatsapp](https://github.com/gokapso/agent-skills/tree/master/skills/automate-whatsapp)** - Build WhatsApp automations with workflows and agents
 - **[gokapso/observe-whatsapp](https://github.com/gokapso/agent-skills/tree/master/skills/observe-whatsapp)** - Debug WhatsApp delivery issues and run health checks
 - **[PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)** - Interact with NotebookLM for document-based conversations
+- **[yumyumtum/yumnb](https://github.com/yumyumtum/yumnb)** - Local-first notebook skill with Markdown, MP3, and PPT
 - **[obra/superpowers-lab](https://github.com/obra/superpowers-lab)** - Lab environment for Claude superpowers
 - **[obra/brainstorming](https://github.com/obra/superpowers/blob/main/skills/brainstorming/SKILL.md)** - Generate and explore ideas
 - **[obra/writing-plans](https://github.com/obra/superpowers/blob/main/skills/writing-plans/SKILL.md)** - Create strategic documentation
