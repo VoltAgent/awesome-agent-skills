@@ -1502,6 +1502,7 @@ Official Google Cloud skills covering Firebase, BigQuery, Cloud Run, GKE, AlloyD
 - **[degausai/wonda](https://github.com/degausai/wonda)** - AI content creation: images, video, music, audio, editing, publishing
 - **[gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent)** - Schedule social media posts across 28+ platforms programmatically
 - **[indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro)** - 150-skill engagement methodology — 12-Part Strategy Flow, 25 specialist agents, EU AI Act Article 50 ready (C2PA signing), 6-platform AEO/GEO incl. Google AI Mode
+- **[ur-grue/autopunk-media-skills](https://github.com/ur-grue/autopunk-media-skills)** - 354 media production skills: TV documentary, journalism, YouTube, podcast, radio, newsletter, PR, screenwriting, data journalism, image prompting, translation. Quality-tested with G-Eval framework.
 
 </details>
 
