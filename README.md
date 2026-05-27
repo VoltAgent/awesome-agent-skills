@@ -1495,6 +1495,26 @@ Official Google Cloud skills covering Firebase, BigQuery, Cloud Run, GKE, AlloyD
 
 </details>
 
+<details>
+<summary><h3 style="display:inline">Skills by Walter Writes</h3></summary>
+
+Walter Writes skills for Claude projects covering SEO content writing, AI humanization, AI detection, keyword preservation, agency QC, local SEO, programmatic SEO, content repurposing, and brand voice. 12 skills.
+
+- **[walterwritesai/walter-skills/seo-writer](https://github.com/walterwritesai/walter-skills/tree/main/skills/seo-writer)** - Drafts SEO content, humanizes through Walter Writes, runs AI detection, and preserves target keywords.
+- **[walterwritesai/walter-skills/agency-qc](https://github.com/walterwritesai/walter-skills/tree/main/skills/agency-qc)** - Quality controls agency content drafts with detection, humanization, keyword preservation, and ready-to-publish recommendation.
+- **[walterwritesai/walter-skills/local-seo](https://github.com/walterwritesai/walter-skills/tree/main/skills/local-seo)** - Generates unique humanized location-specific pages at scale and flags overly similar pages.
+- **[walterwritesai/walter-skills/repurposer](https://github.com/walterwritesai/walter-skills/tree/main/skills/repurposer)** - Turns long-form content into platform-native LinkedIn posts, X threads, newsletters, and Instagram captions.
+- **[walterwritesai/walter-skills/ecommerce](https://github.com/walterwritesai/walter-skills/tree/main/skills/ecommerce)** - Writes humanized e-commerce product descriptions, marketplace listings, and category pages.
+- **[walterwritesai/walter-skills/newsletter-writer](https://github.com/walterwritesai/walter-skills/tree/main/skills/newsletter-writer)** - Drafts weekly newsletters with hook, deep dive, quick reads, and CTA, all humanized.
+- **[walterwritesai/walter-skills/programmatic-seo](https://github.com/walterwritesai/walter-skills/tree/main/skills/programmatic-seo)** - Generates city + service or category + modifier pages at scale from CSVs.
+- **[walterwritesai/walter-skills/brand-voice-adapter](https://github.com/walterwritesai/walter-skills/tree/main/skills/brand-voice-adapter)** - Locks Claude to a specific brand voice across all content output.
+- **[walterwritesai/walter-skills/content-refresh](https://github.com/walterwritesai/walter-skills/tree/main/skills/content-refresh)** - Refreshes old blog posts for current SEO standards with before/after detection scores.
+- **[walterwritesai/walter-skills/lead-magnet-writer](https://github.com/walterwritesai/walter-skills/tree/main/skills/lead-magnet-writer)** - Writes long-form gated lead magnets page by page with humanization.
+- **[walterwritesai/walter-skills/social-media](https://github.com/walterwritesai/walter-skills/tree/main/skills/social-media)** - Repurposes content into platform-native posts for X, LinkedIn, Instagram, and Facebook.
+- **[walterwritesai/walter-skills/docs-writer](https://github.com/walterwritesai/walter-skills/tree/main/skills/docs-writer)** - Writes technical documentation with prose-only humanization, preserving code and schemas.
+
+</details>
+
 ### Community Skills
 
 <details>
