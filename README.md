@@ -1576,6 +1576,11 @@ Official Google Cloud skills covering Firebase, BigQuery, Cloud Run, GKE, AlloyD
 - **[ramzesenok/iOS-Accessibility-Audit-Skill](https://github.com/ramzesenok/iOS-Accessibility-Audit-Skill)** - Audit iOS App against Accessibility norms
 - **[truongduy2611/app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills)** - Scan iOS/macOS projects to catch common mistakes that lead to App Store rejection before submission
 - **[coderabbitai/skills](https://github.com/coderabbitai/skills)** - Code review and PR autofix workflows for coding agents
+- **[cemini23/vet](https://github.com/cemini23/vet)** - Static veto-gate auditor for agent SKILL.md, briefs, and prompts — stdlib-only CI
+- **[cemini23/phase0](https://github.com/cemini23/phase0)** - Phase-0 source audits for MCP servers and skill libraries before adoption
+- **[cemini23/wikilint](https://github.com/cemini23/wikilint)** - Lint LLM-maintained markdown wikis: orphans, bidirectional gaps, dangling @paths
+- **[cemini23/agent-toolkit-demo](https://github.com/cemini23/agent-toolkit-demo)** - Forkable GitHub Actions wiring vet + phase0 + wikilint with green CI badges
+- **[cemini23/ara-schema](https://github.com/cemini23/ara-schema)** - Wiki page format spec (frontmatter + relations) for agent knowledge bases
 - **[sanjay3290/postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres)** - Execute safe read-only SQL queries against PostgreSQL databases
 - **[sanjay3290/deep-research](https://github.com/sanjay3290/ai-skills/tree/main/skills/deep-research)** - Autonomous multi-step research using Gemini Deep Research Agent
 - **[jthack/ffuf-claude-skill](https://github.com/jthack/ffuf_claude_skill)** - Web fuzzing with ffuf
