@@ -1695,6 +1695,7 @@ Official Google Cloud skills covering Firebase, BigQuery, Cloud Run, GKE, AlloyD
 - **[aklofas/kicad-happy](https://github.com/aklofas/kicad-happy)** - AI-powered KiCad electronics design review and analysis
 - **[bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills)** - Full-lifecycle AI music album production
 
+- **[thebrierfox/yield-intelligence-skill](https://github.com/thebrierfox/yield-intelligence-skill)** - Claude Code skill for passive income analysis: live US Treasury rates, dividend ETFs, REITs, and portfolio yield optimization
 </details>
 
 <details>
