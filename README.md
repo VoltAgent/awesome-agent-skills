@@ -1679,6 +1679,7 @@ Official Google Cloud skills covering Firebase, BigQuery, Cloud Run, GKE, AlloyD
 - **[wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)** - Autonomous ML research with cross-model review loops and GPU deployment
 - **[zechenzhangAGI/AI-research-SKILLs](https://github.com/zechenzhangAGI/AI-research-SKILLs)** - 77 AI research skills for model training, inference, and MLOps
 - **[Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs)** - 20-module AI research skill library for model architecture, training, and ML paper writing
+- **[jin-s13/ai-research-writing-skill](https://github.com/jin-s13/ai-research-writing-skill)** - Evidence-backed AI research paper drafting
 - **[komal-SkyNET/claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant)** - Supercharge and manage Home Assistant workflows
 - **[more-io/apple-bridges](https://github.com/more-io/claude-apple-bridges)** - Native macOS app access — manage Apple Reminders, Calendar, Contacts, Notes, Mail, and tmux sessions via Swift CLI bridges
 - **[prompt-security/clawsec](https://github.com/prompt-security/clawsec)** - Security skill suite with drift detection, automated audits, and skill integrity verification
