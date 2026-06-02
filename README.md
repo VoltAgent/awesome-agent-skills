@@ -75,6 +75,9 @@ The most contributed Agent Skills repository, built and maintained together with
 
 Tools, platforms, and services for building 
 
+* [BuilderStudio Skills](https://github.com/wundercorp/builderstudio-skills) - WunderCorp's public BuilderStudio skillset catalog with reusable agent skills for repeatable AI development workflows that pair with Pathways, MCP integrations, Hermes-powered contained execution, and Agentic Swarms.
+
+
  - If you're building AI agents in TypeScript, VoltAgent gives you tool use, memory, and multi-agent coordination out of the box.
 
     <a href="https://github.com/VoltAgent/voltagent">
