@@ -1568,6 +1568,7 @@ Official Google Cloud skills covering Firebase, BigQuery, Cloud Run, GKE, AlloyD
 <summary><h3 style="display:inline">Development and Testing</h3></summary>
 
 - **[robzolkos/skill-rails-upgrade](https://github.com/robzolkos/skill-rails-upgrade)** - Analyze Rails apps and provide upgrade assessments
+- **[tuning-engines](https://github.com/cerebrixos-org/tuningengines/tree/main/claude-skill/tuning-engines)** - Create and inspect Tuning Engines fine-tuning jobs for code, docs, and data workflows
 - **[Shpigford/screenshots](https://github.com/Shpigford/skills/tree/main/screenshots)** - Generate marketing screenshots with Playwright
 - **[antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill)** - Terraform and OpenTofu patterns: testing, modules, state, CI/CD.
 - **[zxkane/aws-skills](https://github.com/zxkane/aws-skills)** - AWS development with infrastructure automation and cloud architecture patterns
