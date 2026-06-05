@@ -1718,6 +1718,17 @@ Official Google Cloud skills covering Firebase, BigQuery, Cloud Run, GKE, AlloyD
 
 <br/>
 
+<details>
+<summary><h3 style="display:inline">Education</h3></summary>
+
+- **[MaxLiu1979/estelle-headteacher-66days](https://github.com/MaxLiu1979/estelle-headteacher-66days)** - 66-day homeroom teacher training and classroom management
+- **[MaxLiu1979/jessie-asian-class](https://github.com/MaxLiu1979/jessie-asian-class)** - Asian study pathway curriculum (Singapore/Korea/Japan/Malaysia)
+- **[MaxLiu1979/adcote-kede-introduction](https://github.com/MaxLiu1979/adcote-kede-introduction)** - International department school introduction and consultation
+
+</details>
+
+<br/>
+
 
 ## 🔒 Security Notice
 
