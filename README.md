@@ -1593,6 +1593,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill)** - Terraform and OpenTofu patterns: testing, modules, state, CI/CD.
 - **[zxkane/aws-skills](https://github.com/zxkane/aws-skills)** - AWS development with infrastructure automation and cloud architecture patterns
 - **[Rootly-AI-Labs/rootly-incident-responder](https://github.com/Rootly-AI-Labs/Rootly-MCP-server/blob/main/examples/skills/rootly-incident-responder.md)** - AI-powered incident response with ML similarity matching, solution suggestions, and on-call coordination. Requires [Rootly MCP Server](https://github.com/Rootly-AI-Labs/Rootly-MCP-server)
+- **[sirmarkz/staff-engineer-mode](https://github.com/sirmarkz/staff-engineer-mode)** - Major-outage lessons across engineering design and operations
 - **[conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill)** - Control iOS Simulator
 - **[ramzesenok/iOS-Accessibility-Audit-Skill](https://github.com/ramzesenok/iOS-Accessibility-Audit-Skill)** - Audit iOS App against Accessibility norms
 - **[truongduy2611/app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills)** - Scan iOS/macOS projects to catch common mistakes that lead to App Store rejection before submission
