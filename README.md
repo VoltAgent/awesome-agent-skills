@@ -1659,6 +1659,7 @@ Official Google Cloud skills covering Firebase, BigQuery, Cloud Run, GKE, AlloyD
 - **[k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol)** - Graph-based long-term memory skill for AI (LLM) coding agents — faster context, fewer tokens, safer refactors
 - **[awrshift/claude-memory-kit](https://github.com/awrshift/claude-memory-kit)** - Persistent memory with hooks, wiki, and daily synthesis for multi-project workflows
 - **[NeoLabHQ/prompt-engineering](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/prompt-engineering)** - Widely used prompt engineering techniques and patterns, including Anthropic best practices and agent persuasion principles.
+- **[Chase-Key/aurelion-skills](https://github.com/Chase-Key/aurelion-skills)** - AURELION 5-floor cognitive architecture skill suite: structured knowledge templates (Foundation → Vision), persistent session context, and agentic reasoning scaffolds. Compatible with Claude Code, Cursor, Codex, Copilot, Windsurf, Gemini CLI, and all Open Plugins-compatible agents.
 
 </details>
 
