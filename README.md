@@ -1659,6 +1659,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills)** - A skills governed plug-and-play harness for staged, test-driven skill orchestration
 - **[metalbear-co/skills](https://github.com/metalbear-co/skills)** - Skills that let agents code and test against your Kubernetes cluster using mirrord
 - **[dembrandt/dembrandt-skills](https://github.com/dembrandt/dembrandt-skills)** - UX and design system skills: hierarchy, typography, accessibility, interactions
+- **[daman8271/the-perfect-orchestrator](https://github.com/daman8271/the-perfect-orchestrator)** - Orchestrate tmux Claude worker fleets with adversarial result verification
 
 </details>
 
