@@ -1539,6 +1539,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[degausai/wonda](https://github.com/degausai/wonda)** - AI content creation: images, video, music, audio, editing, publishing
 - **[gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent)** - Schedule social media posts across 28+ platforms programmatically
 - **[indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro)** - 150-skill engagement methodology — 12-Part Strategy Flow, 25 specialist agents, EU AI Act Article 50 ready (C2PA signing), 6-platform AEO/GEO incl. Google AI Mode
+- **[LeadMagic/gtm-skills](https://github.com/LeadMagic/gtm-skills/)** - 189+ open-source GTM playbooks for AI agents. Production-grade skills covering the full go-to-market stack: marketing, sales, customer success, revenue operations. 26 categories. Compatible with Claude Code, Codex, Cursor, and 12+ platforms.
 
 </details>
 
