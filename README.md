@@ -1768,8 +1768,7 @@ Agent skills can include prompt injections, tool poisoning, hidden malware paylo
 ## Skill Quality Standards
 
 As the ecosystem grows, consistent quality helps agents discover and use skills reliably. The following references and criteria keep the bar high.
-
-
+ - **[liuyunnb666/hermes-skills](https://github.com/liuyunnb666/hermes-skills)** - 7 curated agent skills: debugging, parallel dev, TDD, UI
 
 ### Quality Criteria
 
