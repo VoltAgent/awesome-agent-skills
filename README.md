@@ -1538,7 +1538,9 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Eronred/aso-skills](https://github.com/Eronred/aso-skills)** - 30+ App Store Optimization skills for keyword research, metadata optimization, competitor analysis, creative optimization, and mobile growth strategies via Appeeky API
 - **[degausai/wonda](https://github.com/degausai/wonda)** - AI content creation: images, video, music, audio, editing, publishing
 - **[gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent)** - Schedule social media posts across 28+ platforms programmatically
-- **[indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro)** - 150-skill engagement methodology — 12-Part Strategy Flow, 25 specialist agents, EU AI Act Article 50 ready (C2PA signing), 6-platform AEO/GEO incl. Google AI Mode
+- **[indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro)** - 158-skill engagement methodology — 12-Part Strategy Flow, 25 specialist agents, EU AI Act Article 50 ready (C2PA signing), 6-platform AEO/GEO incl. Google AI Mode. Native on 8 platforms incl. Hermes Agent + OpenClaw
+- **[indranilbanerjee/contentforge](https://github.com/indranilbanerjee/contentforge)** - 11-phase enterprise content pipeline — 21 skills, 13 agents, 29-pattern AI humanizer, fact-checker subagent, real .docx output with C2PA signing for EU AI Act Article 50
+- **[indranilbanerjee/socialforge](https://github.com/indranilbanerjee/socialforge)** - Asset-first social media production — 16 skills, 25 commands, AI image (Vertex AI Nano Banana Pro) + AI video (Kling v3.0 Pro), 7-platform copy adaptation, C2PA signing
 
 </details>
 
