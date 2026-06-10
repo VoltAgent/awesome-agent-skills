@@ -1727,6 +1727,13 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 </details>
 
+<details>
+<summary><h3 style="display:inline">Game Development</h3></summary>
+
+- **[0xheycat/isometric-game-skills](https://github.com/0xheycat/isometric-game-skills)** - 20 agent skills for isometric game development: ComfyUI art pipeline, terrain generation, grid math, Canvas2D renderer, depth sorting, pathfinding, autotiling, and asset automation
+
+</details>
+
 <br/>
 
 <a href="https://github.com/VoltAgent/voltagent">
