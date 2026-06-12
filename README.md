@@ -1737,6 +1737,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 </a>
 
 <br/>
+- **[liuyunnb666/hermes-skills](https://github.com/liuyunnb666/hermes-skills)** - 7 curated agent skills: debugging, parallel dev, TDD, UI
 
 
 ## 🔒 Security Notice
