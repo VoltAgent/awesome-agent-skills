@@ -1678,6 +1678,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol)** - Graph-based long-term memory skill for AI (LLM) coding agents — faster context, fewer tokens, safer refactors
 - **[awrshift/claude-memory-kit](https://github.com/awrshift/claude-memory-kit)** - Persistent memory with hooks, wiki, and daily synthesis for multi-project workflows
 - **[NeoLabHQ/prompt-engineering](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/prompt-engineering)** - Widely used prompt engineering techniques and patterns, including Anthropic best practices and agent persuasion principles.
+- **[stretchvancouver/stretch-ai-yoga](https://github.com/stretchvancouver/stretch-ai-yoga)** - Self-applied cognitive training practices for AI agents
 
 </details>
 
