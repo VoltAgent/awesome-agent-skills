@@ -444,6 +444,8 @@ Domain-specific knowledge for Azure SDK and Microsoft AI Foundry development. 13
 - **[microsoft/podcast-generation](https://officialskills.sh/microsoft/skills/podcast-generation)** - AI podcast audio with Azure OpenAI Realtime API
 - **[microsoft/skill-creator](https://officialskills.sh/microsoft/skills/skill-creator)** - Guide for creating effective skills for AI coding agents
 
+- **[agent-self-audit](https://github.com/Xxt-XN/agent-self-audit)** - Self-evolving agent health check skill: 13 check items, 3 self-evolution loops (error→hard rule, skills→market comparison, config→health prescription). Zero-config bootstrap from new machine. Cross-platform: Claude Code, Codex CLI, Cursor, Windsurf, Gemini CLI. 15K+ token saved per audit.
+
 ### .NET Skills
 
 - **[microsoft/azure-ai-document-intelligence-dotnet](https://officialskills.sh/microsoft/skills/azure-ai-document-intelligence-dotnet)** - Document text, table, and data extraction
