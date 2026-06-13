@@ -1661,6 +1661,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[metalbear-co/skills](https://github.com/metalbear-co/skills)** - Skills that let agents code and test against your Kubernetes cluster using mirrord
 - **[dembrandt/dembrandt-skills](https://github.com/dembrandt/dembrandt-skills)** - UX and design system skills: hierarchy, typography, accessibility, interactions
 - **[GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis)** - Evidence-driven method pack for AI coding agents
+- **[Alex0nder/mailagent](https://github.com/Alex0nder/MailAgent/tree/main/skills/mailagent)** - Disposable inboxes for signup OTP and magic links
 
 </details>
 
