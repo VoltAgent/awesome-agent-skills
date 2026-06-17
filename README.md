@@ -1694,6 +1694,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 <details>
 <summary><h3 style="display:inline">Specialized Domains</h3></summary>
 
+- **[wai-kwan/enterprise-risk-management](https://github.com/wai-kwan/enterprise-risk-management)** - Structured Enterprise Risk Management (ERM) workflow from risks identification, cause/effect analysis, risk rating, risk scoring, risk criticality assessment, to generating prevention & reduction risk treatment control measures, and saving to a standalone risk register CSV file.
 - **[transloadit/skills](https://github.com/transloadit/skills/tree/main/skills)** - Transloadit skill collection (6)
 - **[honeydew-ai/honeydew-ai-coding-agents-plugins](https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins)** - 11 skills for the Honeydew semantic layer over Snowflake, Databricks, and BigQuery: model exploration, entity/relation/attribute/metric/context/domain creation, validation, query, filtering, and workspace branching
 - **[raintree-technology/apple-hig-skills](https://github.com/raintree-technology/apple-hig-skills)** - Apple Human Interface Guidelines as 14 agent skills covering platforms, foundations, components, patterns, inputs, and technologies for iOS, macOS, visionOS, watchOS, and tvOS
