@@ -1749,6 +1749,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 <br/>
 
 
+- [OpenRuna skills directory](https://www.openruna.com/best/ai-skills-packs) — Graph catalog of SKILL.md packs with agent enrichment network and MCP read API.
+
 ## 🔒 Security Notice
 
 Skills in this list are curated, not audited. They may be updated, modified, or replaced by their original maintainers at any time after being added here.
