@@ -72,7 +72,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Notion](#skills-by-notion) | [Resend](#skills-by-resend) | [Addy Osmani (Web Quality)](#skills-by-addy-osmani-web-quality) | [MongoDB](#skills-by-mongodb) |
 | [Kim Barrett (Advertising)](#advertising-skills-by-kim-barrett) | [Apollo GraphQL](#skills-by-apollo-graphql) | [Auth0](#skills-by-auth0) | [Brave](#skills-by-brave) |
 | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) | [Datadog Labs](#skills-by-datadog-labs) |
-| [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) | [Red Hat](#skills-by-redhat) | [Community](#community-skills) |  | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) | [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |
+| [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) | [Red Hat](#skills-by-redhat) | [Community](#community-skills) |  | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) | [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) | [Mailtrap](#skills-by-mailtrap) |
 
 
 ## Ecosystem Tools
@@ -1219,6 +1219,15 @@ Official Resend skills to send and receive emails, build email templates and pow
 - **[resend/email-best-practices](https://github.com/resend/resend-skills/tree/main/skills/email-best-practices)** - Email deliverability and design best practices
 - **[resend/agent-email-inbox](https://github.com/resend/resend-skills/tree/main/skills/agent-email-inbox)** - AI agent email inbox management
 - **[resend/resend-cli](https://github.com/resend/resend-skills/tree/main/skills/resend-cli)** - Resend CLI commands and workflows
+
+</details>
+
+<summary><h3 style="display:inline">Skills by Mailtrap</h3></summary>
+
+- **[mailtrap/sending-emails](https://github.com/mailtrap/mailtrap-skills/tree/main/skills/sending-emails)** - Live email sending via API and SMTP
+- **[mailtrap/testing-with-sandbox](https://github.com/mailtrap/mailtrap-skills/tree/main/skills/testing-with-sandbox)** - Safe email capture for dev and staging
+- **[mailtrap/setting-up-sending-domain](https://github.com/mailtrap/mailtrap-skills/tree/main/skills/setting-up-sending-domain)** - DNS, SPF, DKIM, DMARC verification
+- **[mailtrap/managing-contacts](https://github.com/mailtrap/mailtrap-skills/tree/main/skills/managing-contacts)** - Contacts API, lists, and segments
 
 </details>
 
