@@ -1671,6 +1671,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[metalbear-co/skills](https://github.com/metalbear-co/skills)** - Skills that let agents code and test against your Kubernetes cluster using mirrord
 - **[dembrandt/dembrandt-skills](https://github.com/dembrandt/dembrandt-skills)** - UX and design system skills: hierarchy, typography, accessibility, interactions
 - **[GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis)** - Evidence-driven method pack for AI coding agents
+- **[tunlite/ssh-tunnel](https://github.com/yuanyuanzijin/tunlite/tree/master/skill/ssh-tunnel)** — Create and keep SSH tunnels (local, remote, SOCKS) alive via the zero-dependency tunlite CLI, with auto-reconnect and login autostart.
 
 </details>
 
