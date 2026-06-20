@@ -1687,6 +1687,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[muratcankoylan/evaluation](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/evaluation)** - Build evaluation frameworks for agent systems
 - **[k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol)** - Graph-based long-term memory skill for AI (LLM) coding agents — faster context, fewer tokens, safer refactors
 - **[awrshift/claude-memory-kit](https://github.com/awrshift/claude-memory-kit)** - Persistent memory with hooks, wiki, and daily synthesis for multi-project workflows
+- **[Necmttn/ax-extract-workflow](https://github.com/Necmttn/ax/tree/main/skills/ax-extract-workflow)** - Reconstruct shipped workflow from local ax sessions
 - **[NeoLabHQ/prompt-engineering](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/prompt-engineering)** - Widely used prompt engineering techniques and patterns, including Anthropic best practices and agent persuasion principles.
 
 </details>
