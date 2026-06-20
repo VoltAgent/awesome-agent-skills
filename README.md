@@ -1551,6 +1551,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro)** - 150-skill engagement methodology — 12-Part Strategy Flow, 25 specialist agents, EU AI Act Article 50 ready (C2PA signing), 6-platform AEO/GEO incl. Google AI Mode
 - **[infrasity-labs/dev-gtm-claude-skills](https://github.com/infrasity-labs/dev-gtm-claude-skills)**: GTM-focused skill collection for developer go-to-market workflows including launch planning, positioning, and outbound sequences.
 
+- **[outreachmagic/outreachmagic](https://github.com/outreachmagic/outreachmagic)** - Syncs Smartlead, Instantly, HeyReach, PlusVibe, EmailBison, Prosp, Calendly into SQLite
 </details>
 
 <details>
