@@ -1670,6 +1670,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[metalbear-co/skills](https://github.com/metalbear-co/skills)** - Skills that let agents code and test against your Kubernetes cluster using mirrord
 - **[dembrandt/dembrandt-skills](https://github.com/dembrandt/dembrandt-skills)** - UX and design system skills: hierarchy, typography, accessibility, interactions
 - **[GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis)** - Evidence-driven method pack for AI coding agents
+- **[AKSoftCode/aicrew](https://github.com/AKSoftCode/aicrew)** - TDD-first /dev, /fix, /quick pipeline across AI coding tools
 
 </details>
 
