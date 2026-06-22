@@ -1549,6 +1549,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent)** - Schedule social media posts across 28+ platforms programmatically
 - **[indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro)** - 150-skill engagement methodology — 12-Part Strategy Flow, 25 specialist agents, EU AI Act Article 50 ready (C2PA signing), 6-platform AEO/GEO incl. Google AI Mode
 - **[infrasity-labs/dev-gtm-claude-skills](https://github.com/infrasity-labs/dev-gtm-claude-skills)**: GTM-focused skill collection for developer go-to-market workflows including launch planning, positioning, and outbound sequences.
+- **[Baxter-Inc/seoagent-npm](https://github.com/Baxter-Inc/seoagent-npm)** - Persistent SEO agent: audits, keyword strategy, briefs, articles
 
 </details>
 
