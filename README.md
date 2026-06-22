@@ -1726,6 +1726,7 @@ Production-grade Agent Skills for every major test automation framework, maintai
 - **[awrshift/claude-memory-kit](https://github.com/awrshift/claude-memory-kit)** - Persistent memory with hooks, wiki, and daily synthesis for multi-project workflows
 - **[NeoLabHQ/prompt-engineering](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/prompt-engineering)** - Widely used prompt engineering techniques and patterns, including Anthropic best practices and agent persuasion principles.
 - **[sametbrr/llm-wiki-manager](https://github.com/sametbrr/llm-wiki-manager)** - Persistent LLM-managed personal wiki — the model writes, cross-references, and maintains the knowledge base while you curate sources. Implements Karpathy's LLM Wiki pattern with 8 operating modes.
+- **[gpitrella/memxus-remote-mcp](https://github.com/gpitrella/memxus-remote-mcp)** - Universal persistent memory MCP server. Save context once across Claude Code, Cursor, Gemini CLI and any AI tool — recall it automatically in every session.
 
 </details>
 
