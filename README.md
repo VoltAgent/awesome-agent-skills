@@ -205,6 +205,13 @@ Official skills by VoltAgent for building AI agents with the VoltAgent TypeScrip
 - **[firecrawl/firecrawl-build-scrape](https://officialskills.sh/firecrawl/skills/firecrawl-build-scrape)** - Integrate Firecrawl `/scrape` for single-page extraction from product code
 - **[firecrawl/firecrawl-build-search](https://officialskills.sh/firecrawl/skills/firecrawl-build-search)** - Integrate Firecrawl `/search` for query-first discovery with optional content hydration
 
+### Skills by Crawlora
+- **[crawlora/crawlora](https://github.com/Crawlora-org/crawlora-skills/tree/main/skills/crawlora)** - Umbrella skill for structured public web data across 300+ Crawlora endpoints (SERP, marketplaces, social, finance, app stores, media) as clean JSON
+- **[crawlora/product-price-research](https://github.com/Crawlora-org/crawlora-skills/tree/main/skills/product-price-research)** - Compare product prices and listings across marketplaces via the Crawlora API
+- **[crawlora/serp-keyword-research](https://github.com/Crawlora-org/crawlora-skills/tree/main/skills/serp-keyword-research)** - Pull SERP results and keyword data from Google, Bing, and Brave as JSON
+- **[crawlora/youtube-research](https://github.com/Crawlora-org/crawlora-skills/tree/main/skills/youtube-research)** - Collect YouTube video, channel, transcript, and comment data as JSON
+- **[crawlora/app-review-mining](https://github.com/Crawlora-org/crawlora-skills/tree/main/skills/app-review-mining)** - Mine App Store and Google Play reviews and ratings for product insight
+
 ### Skills by Neon
 - **[neondatabase/neon-postgres](https://officialskills.sh/neondatabase/skills/neon-postgres)** - Best practices for Neon Serverless Postgres
 - **[neondatabase/claimable-postgres](https://officialskills.sh/neondatabase/skills/claimable-postgres)** - Claimable Postgres database provisioning with Neon
