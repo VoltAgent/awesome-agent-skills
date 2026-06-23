@@ -36,6 +36,16 @@
 
 # Awesome Agent Skills
 
+<div align="center">
+  <a href="https://www.atlascloud.ai/?utm_source=github&utm_medium=link&utm_campaign=awesome-agent-skills">
+    <img src="assets/atlas-cloud-logo.png" alt="Atlas Cloud" width="140" />
+  </a>
+  <br />
+  <sub><strong>Atlas Cloud</strong> provides OpenAI-compatible LLM APIs and async image/video generation APIs for agent skills, tool workflows, and multimodal automation.</sub>
+</div>
+
+<br />
+
 Unlike many bulk-generated skill repositories, this collection focuses on real-world Agent Skills created and used by actual engineering teams, not mass AI‑generated stuff.
 
 This collection features official skills published by leading development teams, including Anthropic, Google Labs, Vercel, Stripe, Cloudflare, Netlify, Trail of Bits, Sentry, Expo, Hugging Face, Figma, and more, alongside community-built skills.
