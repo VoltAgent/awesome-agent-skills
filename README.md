@@ -1562,6 +1562,13 @@ Production-grade Agent Skills for every major test automation framework, maintai
 ### Community Skills
 
 <details>
+<summary><h3 style="display:inline">Insurance</h3></summary>
+
+- **[quotor/home-auto-insurance-quotes](https://github.com/quotor/home-auto-insurance-quotes)** - Real, bindable home & auto insurance quotes (US/Texas, expanding) via the Quotor MCP at mcp.quotor.ai — carrier-masked options, human-completed bind
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Vector Databases</h3></summary>
 
 - **[qdrant/skills](https://github.com/qdrant/skills)** - Agent skills for Qdrant vector search, covering scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, .NET, and Java
