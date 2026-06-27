@@ -180,6 +180,13 @@ Official skills by VoltAgent for building AI agents with the VoltAgent TypeScrip
 - **[sanity-io/seo-aeo-best-practices](https://officialskills.sh/sanity-io/skills/seo-aeo-best-practices)** - SEO and answer engine optimization patterns for content sites
 - **[sanity-io/content-experimentation-best-practices](https://officialskills.sh/sanity-io/skills/content-experimentation-best-practices)** - Content A/B testing and experimentation workflows
 
+### Marketing & AEO Resources
+
+Curated reference lists for engineers building answer engine optimisation and marketing agent skills.
+
+- **[awesome-aeo-seo-agents](https://github.com/discoveredlabs/awesome-aeo-seo-agents)** - Agentic GEO/AEO frameworks, MCP servers for SEO data, agent skill packages, and autonomous content optimisation pipelines - the companion reference for building AEO agent skills.
+- **[awesome-aeo-seo](https://github.com/discoveredlabs/awesome-aeo-seo)** - Research, architecture, and measurement guides for answer engine optimisation - foundational reading for engineers building AEO skills.
+
 ### Skills by Firecrawl Team
 - **[firecrawl/firecrawl-build](https://officialskills.sh/firecrawl/skills/firecrawl-build)** - Integrate Firecrawl into application code for web search, scraping, extraction, and browser interaction
 - **[firecrawl/firecrawl-build-interact](https://officialskills.sh/firecrawl/skills/firecrawl-build-interact)** - Multi-step Firecrawl browser flows: clicks, form fills, pagination, and auth-aware navigation
