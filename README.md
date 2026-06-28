@@ -76,7 +76,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Notion](#skills-by-notion) | [Resend](#skills-by-resend) | [Addy Osmani (Web Quality)](#skills-by-addy-osmani-web-quality) | [MongoDB](#skills-by-mongodb) |
 | [Kim Barrett (Advertising)](#advertising-skills-by-kim-barrett) | [Apollo GraphQL](#skills-by-apollo-graphql) | [Auth0](#skills-by-auth0) | [Brave](#skills-by-brave) |
 | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) | [Datadog Labs](#skills-by-datadog-labs) |
-| [TestMu AI](#skills-by-testmu-ai) | | | |
+| [TestMu AI](#skills-by-testmu-ai) | [Bria AI](#skills-by-bria-ai) | | |
 | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) | [Red Hat](#skills-by-redhat) | [Community](#community-skills) |  | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) | [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |
 
 
@@ -206,6 +206,13 @@ Official skills by VoltAgent for building AI agents with the VoltAgent TypeScrip
 
 ### Skills by Replicate 
 - **[replicate/replicate](https://officialskills.sh/replicate/skills/replicate)** - Discover, compare, and run AI models using Replicate's API
+
+### Skills by Bria AI
+- **[Bria-AI/bria-ai](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai)** - AI image generation, editing, and background removal API
+- **[Bria-AI/remove-background](https://github.com/Bria-AI/bria-skill/tree/main/skills/remove-background)** - Remove image backgrounds for transparent PNGs and cutouts
+- **[Bria-AI/video-remove-background](https://github.com/Bria-AI/bria-skill/tree/main/skills/video-remove-background)** - Remove video backgrounds for transparent, alpha-channel clips
+- **[Bria-AI/vgl](https://github.com/Bria-AI/bria-skill/tree/main/skills/vgl)** - Structured JSON control over AI image generation
+- **[Bria-AI/image-utils](https://github.com/Bria-AI/bria-skill/tree/main/skills/image-utils)** - Resize, crop, composite, and convert images with Pillow
 
 ### Skills by Typefully 
 - **[typefully/typefully](https://officialskills.sh/typefully/skills/typefully)** - Create, schedule, and publish social media content across X, LinkedIn, Threads, Bluesky, and Mastodon
