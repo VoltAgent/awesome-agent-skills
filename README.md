@@ -1380,6 +1380,16 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 </details>
 
 <details>
+<summary><h3 style="display:inline">Skills by Outlit</h3></summary>
+
+Official Outlit skills for customer intelligence and SDK instrumentation.
+
+- **[outlit/outlit](https://github.com/OutlitAI/outlit-agent-skills/tree/main/skills/outlit)** - Query Outlit customer intelligence, timelines, revenue, and SQL
+- **[outlit/outlit-sdk](https://github.com/OutlitAI/outlit-agent-skills/tree/main/skills/outlit-sdk)** - Integrate Outlit tracking across web, server, and native apps
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Skills by NVIDIA</h3></summary>
 
 Official skills published by NVIDIA across AI/ML infrastructure projects — Megatron, NeMo, TensorRT-LLM, CUDA-Q, cuOpt, DALI, DeepStream, and more. 155 skills across 17 products.
