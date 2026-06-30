@@ -1841,6 +1841,11 @@ As the ecosystem grows, consistent quality helps agents discover and use skills 
 | **Scoped tools** | Request only the tools the skill actually needs. Avoid blanket `"tools": ["*"]`. Declare tool dependencies explicitly. |
 
 
+## 🧭 Skill Directories & Discovery
+
+- **[Skill Hub](https://github.com/rdone4425/skill)** — AI Agent Skills 导航站，4,100+ skills from 22 categories. 多平台兼容（OpenAI Codex, Claude, Hermes, OpenCode, OpenClaw），按功能分类浏览、搜索、筛选。Live: [skill.442595.xyz](https://skill.442595.xyz/)
+
+
 ## 🤝 Contributing
 
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
