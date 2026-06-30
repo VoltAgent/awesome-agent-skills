@@ -1649,6 +1649,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 ### Community Skills
 
+- [skill-doctor](https://github.com/ssamba1/skill-doctor) - Audits your installed Claude Code skill library: per-turn context cost, never-fired skills (from transcripts), trigger collisions, duplicates, unused MCP servers, and reversible disable-model-invocation fixes.
+
 <details>
 <summary><h3 style="display:inline">Vector Databases</h3></summary>
 
