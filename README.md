@@ -1657,6 +1657,13 @@ Official skills published by Cypress to help create, maintain, understand, and f
 </details>
 
 <details>
+<summary><h3 style="display:inline">Research &amp; Science</h3></summary>
+
+- **[Awesome Bio Agent Skills](https://github.com/BioTender-max/awesome-bio-agent-skills)** - 1,676 deduplicated SKILL.md skills for biomedical research (genomics, proteomics, single-cell, clinical AI, protein design) aggregated from 20 open-source repositories.
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Marketing</h3></summary>
 
 - **[BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills)** - 17 marketing frameworks for cold outreach, homepage audit, social cards, and more
