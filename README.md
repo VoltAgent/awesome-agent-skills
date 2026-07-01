@@ -1798,6 +1798,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[dembrandt/dembrandt-skills](https://github.com/dembrandt/dembrandt-skills)** - UX and design system skills: hierarchy, typography, accessibility, interactions
 - **[GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis)** - Evidence-driven method pack for AI coding agents
 - **[baskduf/codex-fable5](https://github.com/baskduf/FableCodex/tree/main/plugins/codex-fable5/skills/codex-fable5)** - Evidence-based workflow gates for Codex
+- **[BESSER-PEARL/besser-skills](https://github.com/BESSER-PEARL/besser-skills)** - Model-driven engineering skills for BESSER: B-UML modeling and code generation
+- **[BESSER-PEARL/uml-drawing](https://github.com/BESSER-PEARL/uml-drawing)** - Generate correct UML class diagrams as embeddable SVG/PNG images
 
 </details>
 
