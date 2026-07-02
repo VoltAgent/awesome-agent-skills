@@ -1798,6 +1798,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[dembrandt/dembrandt-skills](https://github.com/dembrandt/dembrandt-skills)** - UX and design system skills: hierarchy, typography, accessibility, interactions
 - **[GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis)** - Evidence-driven method pack for AI coding agents
 - **[baskduf/codex-fable5](https://github.com/baskduf/FableCodex/tree/main/plugins/codex-fable5/skills/codex-fable5)** - Evidence-based workflow gates for Codex
+- **[abhinaykrupa/cowork-to-code-bridge](https://github.com/abhinaykrupa/cowork-to-code-bridge/blob/main/skill/cowork-to-code-bridge/SKILL.md)** - Let a sandboxed agent run work on your real macOS/Linux machine: local-first async file-based bridge for git push, docker, running the actual test suite, and machine health — no inbound ports or HTTPS tunnel
 
 </details>
 
