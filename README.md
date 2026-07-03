@@ -1798,6 +1798,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[dembrandt/dembrandt-skills](https://github.com/dembrandt/dembrandt-skills)** - UX and design system skills: hierarchy, typography, accessibility, interactions
 - **[GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis)** - Evidence-driven method pack for AI coding agents
 - **[baskduf/codex-fable5](https://github.com/baskduf/FableCodex/tree/main/plugins/codex-fable5/skills/codex-fable5)** - Evidence-based workflow gates for Codex
+- **[liberzon/cc-usage](https://github.com/liberzon/cc-usage)** - Analyzes local Claude Code token usage and pay-as-you-go API-equivalent cost across all projects — all-time totals, daily/weekly breakdowns, per-model repricing, and top days/weeks. Read-only, Python stdlib only.
 
 </details>
 
