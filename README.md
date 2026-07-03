@@ -37,7 +37,7 @@ Unlike many bulk-generated skill repositories, this collection focuses on real-w
 
 This collection features official skills published by leading development teams, including Anthropic, Google Labs, Vercel, Stripe, Cloudflare, Netlify, Trail of Bits, Sentry, Expo, Hugging Face, Figma, and more, alongside community-built skills.
 
-Compatible with Claude Code, Codex, Antigravity, Gemini CLI, Cursor, GitHub Copilot, OpenCode, Windsurf, and more. See the table below for paths and documentation.
+Compatible with Claude Code, Codex, Autohand Code, Antigravity, Gemini CLI, Cursor, GitHub Copilot, OpenCode, Windsurf, and more. See the table below for paths and documentation.
 
 The most contributed Agent Skills repository, built and maintained together with the community.
 
@@ -1892,6 +1892,7 @@ Agent skills can include prompt injections, tool poisoning, hidden malware paylo
 | Tool | Project Path | Global Path | Official Docs |
 |------|-------------|-------------|---------------|
 | Antigravity | `.agent/skills/` | `~/.gemini/antigravity/skills/` | [Antigravity Skills](https://antigravity.google/docs/skills) |
+| Autohand Code | `.autohand/skills/` | `~/.autohand/skills/` | [Autohand Community Skills](https://skilled.autohand.ai) |
 | Claude Code | `.claude/skills/` | `~/.claude/skills/` | [Claude Code Skills](https://docs.anthropic.com/en/docs/claude-code/skills) |
 | Codex | `.agents/skills/` | `~/.agents/skills/` | [Codex Skills](https://developers.openai.com/codex/skills) |
 | Cursor | `.cursor/skills/` | `~/.cursor/skills/` | [Cursor Skills](https://cursor.com/docs/context/skills) |
