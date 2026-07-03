@@ -1646,6 +1646,14 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 </details>
 
+<details>
+     <summary><h3 style="display:inline">Skills by SeldonFrame</h3></summary>
+
+Official skill published by SeldonFrame for the full agent-business loop from your IDE. 1 skill.
+
+- **[seldonframe/seldonframe-agent-business](https://github.com/seldonframe/seldonframe/tree/main/skills/seldonframe-agent-business)** - Build, eval-gate, deploy, and sell AI agents for real businesses from your IDE via the SeldonFrame MCP (build → test → deploy → sell → get paid)
+
+</details>
 
 ### Community Skills
 
