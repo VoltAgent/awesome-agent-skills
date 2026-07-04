@@ -501,6 +501,7 @@ Official AI agent skills from the Hugging Face team for ML workflows.
 
 - **[trailofbits/ask-questions-if-underspecified](https://officialskills.sh/trailofbits/skills/ask-questions-if-underspecified)** - Prompt for clarification on ambiguous requirements
 - **[trailofbits/audit-context-building](https://officialskills.sh/trailofbits/skills/audit-context-building)** - Deep architectural context via ultra-granular code analysis
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — 4 Markdown templates (wiki, mental-models, voice, protocols) + 5 Claude Code skills. Solves context amnesia: every AI session starts loaded with who you are, how you decide, and what constraints apply. MIT, one-command install.
 - **[trailofbits/building-secure-contracts](https://officialskills.sh/trailofbits/skills/building-secure-contracts)** - Smart contract security toolkit with vulnerability scanners for 6 blockchains
 - **[trailofbits/burpsuite-project-parser](https://officialskills.sh/trailofbits/skills/burpsuite-project-parser)** - Search and extract data from Burp Suite project files
 - **[trailofbits/claude-in-chrome-troubleshooting](https://officialskills.sh/trailofbits/skills/claude-in-chrome-troubleshooting)** - Diagnose and fix Claude in Chrome MCP extension connectivity issues
