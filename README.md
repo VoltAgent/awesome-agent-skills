@@ -1783,6 +1783,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[hamelsmu/build-review-interface](https://github.com/hamelsmu/prompts/tree/main/evals-skills/skills/build-review-interface)** - Build annotation interfaces for reviewing LLM traces
 - **[mattpocock/skills](https://github.com/mattpocock/skills)** - 17 dev workflow skills: PRD writing, TDD, codebase architecture, git guardrails, issue triage, refactoring plans, and more
 - **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** - 753 cybersecurity skills across 38 domains: cloud security, pentesting, red teaming, DFIR, malware analysis, threat intel, and more (MITRE ATT&CK mapped)
+- **[meltedinhex/analyst-ai-pack](https://github.com/meltedinhex/analyst-ai-pack)** - 118 depth-first malware analysis, reverse engineering, and threat hunting skills; each ships a tested, static-only (never-executes) analysis script mapped to MITRE ATT&CK, D3FEND, and CAR
 - **[wrsmith108/varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill)** - Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits
 - **[Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** - Automatically convert documentation websites, GitHub repositories, and PDFs into Claude AI skills in minutes
 - **[NoizAI/skills](https://github.com/NoizAI/skills)** - Human-like TTS workflows with local/cloud APIs and app delivery
