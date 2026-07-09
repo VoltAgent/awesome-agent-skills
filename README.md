@@ -1720,6 +1720,12 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Linked-API/linkedin](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin)** - Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf.
 - **[pattern-ai-labs/agentcall](https://github.com/pattern-ai-labs/agentcall)** - Let your AI agents join Google Meet, Zoom, Teams calls and collaborate like a real team-mate.
 - **[Sendmux/skills](https://github.com/Sendmux/skills)** - Sendmux email and mailbox workflows for agents
+- **[sanjay3290/atlassian](https://github.com/sanjay3290/ai-skills/tree/main/skills/atlassian)** - Manage Jira issues and Confluence pages in Atlassian Cloud
+- **[sanjay3290/google-workspace](https://github.com/sanjay3290/ai-skills/tree/main/skills)** - Gmail, Calendar, Docs, Sheets, Slides, and Drive integrations
+- **[sanjay3290/manus](https://github.com/sanjay3290/ai-skills/tree/main/skills/manus)** - Delegate research and report tasks to Manus AI agent
+- **[sanjay3290/notebooklm](https://github.com/sanjay3290/ai-skills/tree/main/skills/notebooklm)** - Query Google NotebookLM notebooks with batch queries and exports
+- **[sanjay3290/outline](https://github.com/sanjay3290/ai-skills/tree/main/skills/outline)** - Search, create, and manage Outline wiki documents
+- **[sanjay3290/telegram](https://github.com/sanjay3290/ai-skills/tree/main/skills/telegram)** - Telegram bot messaging, alerts, and approve-from-phone questions
 
 </details>
 
@@ -1804,6 +1810,11 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis)** - Evidence-driven method pack for AI coding agents
 - **[baskduf/codex-fable5](https://github.com/baskduf/FableCodex/tree/main/plugins/codex-fable5/skills/codex-fable5)** - Evidence-based workflow gates for Codex
 - **[csthink/dashmotion](https://github.com/csthink/dashmotion/tree/main/skills/dashmotion)** - Animated technical diagrams from plain English or Mermaid, self-contained HTML/SVG
+- **[sanjay3290/azure-devops](https://github.com/sanjay3290/ai-skills/tree/main/skills/azure-devops)** - Azure DevOps work items, repos, PRs, and pipelines
+- **[sanjay3290/jules](https://github.com/sanjay3290/ai-skills/tree/main/skills/jules)** - Delegate coding tasks to Google Jules for async fixes
+- **[sanjay3290/mysql](https://github.com/sanjay3290/ai-skills/tree/main/skills/mysql)** - Safe read-only MySQL queries with write protection
+- **[sanjay3290/mssql](https://github.com/sanjay3290/ai-skills/tree/main/skills/mssql)** - Safe read-only SQL queries against Microsoft SQL Server
+- **[sanjay3290/apple-container](https://github.com/sanjay3290/ai-skills/tree/main/skills/apple-container)** - Run OCI containers on Apple-silicon macOS without Docker
 
 </details>
 
@@ -1863,6 +1874,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[aklofas/kicad-happy](https://github.com/aklofas/kicad-happy)** - AI-powered KiCad electronics design review and analysis
 - **[bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills)** - Full-lifecycle AI music album production
 - **[Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill)** - Rewrites a rough idea or shot script into text-to-video prompts
+- **[sanjay3290/elevenlabs](https://github.com/sanjay3290/ai-skills/tree/main/skills/elevenlabs)** - Text-to-speech narration and podcast generation via ElevenLabs
+- **[sanjay3290/google-tts](https://github.com/sanjay3290/ai-skills/tree/main/skills/google-tts)** - Narration and podcasts using Google Cloud TTS voices
 
 </details>
 
