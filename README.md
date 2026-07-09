@@ -1875,6 +1875,11 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 ## 🔒 Security Notice
 
+## 🛡️ Offensive Security & Red Team Agent Skills
+
+- [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing). (Hermes agent profile for autonomous pentesting)
+
+
 Skills in this list are curated, not audited. They may be updated, modified, or replaced by their original maintainers at any time after being added here.
 
 Before installing or using any Agent Skill, review potential security risks and validate the source yourself.
