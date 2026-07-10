@@ -1882,6 +1882,13 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 
 
+<details>
+<summary><h3 style="display:inline">Token &amp; Context Optimization</h3></summary>
+
+- **[mocasus/paleo](https://github.com/mocasus/paleo)** - A collection of 6 token-saving skills for AI coding agents (Claude Code, Codex, Gemini CLI, OpenCode, Qwen): compress output, trim context, budget caps, merge chatter, summarize tool output, compact JSON. Benchmarked median 53.8% fewer output tokens, zero quality loss. Install: `npx skills add mocasus/paleo`.
+
+</details>
+
 ## 🔒 Security Notice
 
 Skills in this list are curated, not audited. They may be updated, modified, or replaced by their original maintainers at any time after being added here.
