@@ -1716,6 +1716,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** - Research any topic across Reddit, X, YouTube, HN, Polymarket, and the web, ranked by upvotes, likes, and real money instead of editors
 - **[santifer/career-ops](https://github.com/santifer/career-ops)** - 14-skill collection for AI-powered job search: JD evaluation with A-F scoring, ATS-optimized PDF generation, portal scanners (Greenhouse/Ashby/Lever), interview prep with STAR+R, batch processing, and a Go dashboard TUI
 - **[pattern-ai-labs/agentcall](https://github.com/pattern-ai-labs/agentcall)** - Let your AI agents join Google Meet, Zoom, Teams calls and collaborate like a real team-mate.
+- [PreviewShip Agent Chat Sharing Skills](https://github.com/blockdancez/PreviewShip/tree/main/skills) - Export Codex and Claude Code conversations into high-fidelity HTML pages and deploy them as public PreviewShip URLs. Includes `share-codex-chat` for Codex transcripts and `share-claude-code-chat` for Claude Code JSONL sessions with safe tool timelines.
 
 </details>
 
