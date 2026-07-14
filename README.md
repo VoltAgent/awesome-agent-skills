@@ -1804,6 +1804,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis)** - Evidence-driven method pack for AI coding agents
 - **[baskduf/codex-fable5](https://github.com/baskduf/FableCodex/tree/main/plugins/codex-fable5/skills/codex-fable5)** - Evidence-based workflow gates for Codex
 - **[csthink/dashmotion](https://github.com/csthink/dashmotion/tree/main/skills/dashmotion)** - Animated technical diagrams from plain English or Mermaid, self-contained HTML/SVG
+- **[evol1228/readme-skill](https://github.com/evol1228/readme-skill)** - Design and write professional, hand-crafted README.md files: reads the repo first so every command and env var is real, adapts structure per project type, bans badge walls and emoji headings
 
 </details>
 
