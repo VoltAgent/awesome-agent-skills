@@ -1373,7 +1373,7 @@ Official Resend skills to send and receive emails, build email templates and pow
 
 <summary><h3 style="display:inline">Skills by Mailtrap</h3></summary>
 
-- **[mailtrap/mailtrap-skills](https://github.com/mailtrap/mailtrap-skills/tree/main/skills)** - Agent skills for Mailtrap covering email sending via API/SMTP, sandbox testing, domain setup, and contacts management.
+- **[mailtrap/mailtrap-skills](https://github.com/mailtrap/mailtrap-skills/tree/main/skills)** - Agent skills for Mailtrap covering transactional email sending via Email API and SMTP, domain setup, and contacts management.
 
 </details>
 
