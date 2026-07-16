@@ -1649,6 +1649,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 
 ### Community Skills
+- **[brain-marchine/verify-done-skills](https://github.com/brain-marchine/verify-done-skills)** - Agent skill that refuses Done/Fixed until checks PASS (anti Fake Done)
 
 <details>
 <summary><h3 style="display:inline">Vector Databases</h3></summary>
