@@ -1778,6 +1778,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[NeoLabHQ/ddd](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/ddd)** - Domain-driven development skills that also include Clean Architecture, SOLID principles, and design patterns.
 - **[NeoLabHQ/sadd](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/sadd)** - Dispatches independent subagents for individual tasks with code review checkpoints between iterations for rapid, controlled development.
 - **[NeoLabHQ/kaizen](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/kaizen)** - Applies continuous improvement methodology with multiple analytical approaches, based on Japanese Kaizen philosophy and Lean methodology.
+- **[webkubor/browser-verify](https://github.com/webkubor/agent-skills/tree/main/skills/browser-verify)** - Visual UI verification via real Chrome CDP screenshots
 - **[hamelsmu/eval-audit](https://github.com/hamelsmu/prompts/tree/main/evals-skills/skills/eval-audit)** - Audit LLM eval pipelines and surface problems
 - **[hamelsmu/error-analysis](https://github.com/hamelsmu/prompts/tree/main/evals-skills/skills/error-analysis)** - Systematically identify failure modes in LLM pipelines
 - **[hamelsmu/generate-synthetic-data](https://github.com/hamelsmu/prompts/tree/main/evals-skills/skills/generate-synthetic-data)** - Create diverse synthetic test inputs for LLM evals
