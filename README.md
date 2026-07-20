@@ -1804,6 +1804,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis)** - Evidence-driven method pack for AI coding agents
 - **[baskduf/codex-fable5](https://github.com/baskduf/FableCodex/tree/main/plugins/codex-fable5/skills/codex-fable5)** - Evidence-based workflow gates for Codex
 - **[csthink/dashmotion](https://github.com/csthink/dashmotion/tree/main/skills/dashmotion)** - Animated technical diagrams from plain English or Mermaid, self-contained HTML/SVG
+- **[agent37-platform/agent37-skills-collection](https://github.com/agent37-platform/agent37-skills-collection)** - Claude Code plugins: YC advisor, local code review, PR one-pagers
 
 </details>
 
