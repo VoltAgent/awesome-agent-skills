@@ -1804,6 +1804,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis)** - Evidence-driven method pack for AI coding agents
 - **[baskduf/codex-fable5](https://github.com/baskduf/FableCodex/tree/main/plugins/codex-fable5/skills/codex-fable5)** - Evidence-based workflow gates for Codex
 - **[csthink/dashmotion](https://github.com/csthink/dashmotion/tree/main/skills/dashmotion)** - Animated technical diagrams from plain English or Mermaid, self-contained HTML/SVG
+- **[seqra/opentaint](https://github.com/seqra/opentaint/tree/main/skills)** - OpenTaint AppSec skill pack. AI agents turn security-review findings into reusable taint rules and dependency summaries. Because the engine reuses these rules instead of repeating that expensive work, later scans become fast, deterministic, precise, and thorough.
 
 </details>
 
