@@ -1804,7 +1804,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis)** - Evidence-driven method pack for AI coding agents
 - **[baskduf/codex-fable5](https://github.com/baskduf/FableCodex/tree/main/plugins/codex-fable5/skills/codex-fable5)** - Evidence-based workflow gates for Codex
 - **[csthink/dashmotion](https://github.com/csthink/dashmotion/tree/main/skills/dashmotion)** - Animated technical diagrams from plain English or Mermaid, self-contained HTML/SVG
-- **[samuelbushi/uizze](https://github.com/samuelbushi/uizze/tree/main/skills/anti-ui-slop)** - Ground UI in real screens and enforce a finish gate
+- **[UIZZE — STOP UI SLOP](https://github.com/samuelbushi/uizze/tree/main/skills/anti-ui-slop)** - Ground coding agents in 800,000+ real screens and force a hard finish gate before generic UI ships
 
 </details>
 
