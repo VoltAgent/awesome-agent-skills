@@ -1368,14 +1368,7 @@ Official Resend skills to send and receive emails, build email templates and pow
 - **[resend/email-best-practices](https://github.com/resend/resend-skills/tree/main/skills/email-best-practices)** - Email deliverability and design best practices
 - **[resend/agent-email-inbox](https://github.com/resend/resend-skills/tree/main/skills/agent-email-inbox)** - AI agent email inbox management
 - **[resend/resend-cli](https://github.com/resend/resend-skills/tree/main/skills/resend-cli)** - Resend CLI commands and workflows
-
-</details>
-
-<summary><h3 style="display:inline">Skills by Mailtrap</h3></summary>
-
 - **[mailtrap/mailtrap-skills](https://github.com/mailtrap/mailtrap-skills/tree/main/skills)** - Agent skills for Mailtrap covering transactional email sending via Email API and SMTP, domain setup, and contacts management.
-
-</details>
 
 <details>
 <summary><h3 style="display:inline">Skills by - Google Chrome team - Addy Osmani (Web Quality)</h3></summary>
