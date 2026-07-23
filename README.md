@@ -1804,6 +1804,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis)** - Evidence-driven method pack for AI coding agents
 - **[baskduf/codex-fable5](https://github.com/baskduf/FableCodex/tree/main/plugins/codex-fable5/skills/codex-fable5)** - Evidence-based workflow gates for Codex
 - **[csthink/dashmotion](https://github.com/csthink/dashmotion/tree/main/skills/dashmotion)** - Animated technical diagrams from plain English or Mermaid, self-contained HTML/SVG
+- **[justhandledlabs/robots-sitemap-validator](https://github.com/justhandledlabs/skills/tree/main/skills/robots-sitemap-validator)** - Catch crawl-blocking robots.txt and sitemap.xml mistakes
 
 </details>
 
