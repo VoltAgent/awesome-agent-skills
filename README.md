@@ -48,6 +48,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | :-: | :-- |
 | <a href="https://www.testmuai.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.voltagent.dev/awesome-repo/testmui/testmuai-white.png"><img alt="TestMu AI" src="https://cdn.voltagent.dev/awesome-repo/testmui/testmuai-black.png" width="425"></picture></a> | [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) is an AI-native testing cloud platform built for modern engineering teams. Covering everything from autonomous test creation and fast execution to testing AI agents, chatbots and voice assistants. |
 | <a href="https://zero.xyz"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.voltagent.dev/awesome-repo/zero-xyz/zero-dark.png"><img alt="Zero" src="https://cdn.voltagent.dev/awesome-repo/zero-xyz/zero-light.png" width="425"></picture></a> | [Zero](https://zero.xyz) gives your AI access to thousands of tools, APIs, and services, letting it go from prompt to project with no configuration. Instead of asking you to sign up or grab an API key, your AI discovers and uses whatever real service solves the problem right from chat. |
+| <a href="https://lite.ego.app/?utm_source=officialskills&utm_medium=sponsor&utm_campaign=github-sponsor"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.voltagent.dev/awesome-repo/ego-lite/logo_wordmark_lite_white.svg"><img alt="Ego Lite" src="https://cdn.voltagent.dev/awesome-repo/ego-lite/logo_wordmark_lite_dark.svg" width="425"></picture></a> | [Ego Lite](https://lite.ego.app/?utm_source=officialskills&utm_medium=sponsor&utm_campaign=github-sponsor) is the fastest browser for your AI agents to run browser automation tasks, 3.45x faster than agent-browser (Vercel), always free, no setup, and lets your agents run 100+ browser tasks at the same time in their Spaces. |
 
 <br />
 
@@ -1672,9 +1673,11 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Eronred/aso-skills](https://github.com/Eronred/aso-skills)** - 30+ App Store Optimization skills for keyword research, metadata optimization, competitor analysis, creative optimization, and mobile growth strategies via Appeeky API
 - **[degausai/wonda](https://github.com/degausai/wonda)** - AI content creation: images, video, music, audio, editing, publishing
 - **[gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent)** - Schedule social media posts across 28+ platforms programmatically
+- **[taisly/agent](https://github.com/taisly/agent)** - Codex plugin, Agent Skill, CLI, and MCP server for publishing approved short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook through Taisly
 - **[indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro)** - 150-skill engagement methodology — 12-Part Strategy Flow, 25 specialist agents, EU AI Act Article 50 ready (C2PA signing), 6-platform AEO/GEO incl. Google AI Mode
 - **[infrasity-labs/dev-gtm-claude-skills](https://github.com/infrasity-labs/dev-gtm-claude-skills)**: GTM-focused skill collection for developer go-to-market workflows including launch planning, positioning, and outbound sequences.
 - **[nowork-studio/NotFair](https://github.com/nowork-studio/NotFair)** - SEO, GEO, Google Ads, and Meta Ads skills with live data
+- **[aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills)** - 69 marketing skills across SEO/GEO, influencer, paid ads, and email on one shared contract, with 5 benchmark-driven auditor gates (CORE-EEAT, CITE, C³, ROAS, SEND) and keyless data connectors
 
 </details>
 
@@ -1714,7 +1717,9 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[deusyu/translate-book](https://github.com/deusyu/translate-book)** - Translate books (PDF/DOCX/EPUB) via parallel sub-agents with resume
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** - Research any topic across Reddit, X, YouTube, HN, Polymarket, and the web, ranked by upvotes, likes, and real money instead of editors
 - **[santifer/career-ops](https://github.com/santifer/career-ops)** - 14-skill collection for AI-powered job search: JD evaluation with A-F scoring, ATS-optimized PDF generation, portal scanners (Greenhouse/Ashby/Lever), interview prep with STAR+R, batch processing, and a Go dashboard TUI
+- **[Linked-API/linkedin](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin)** - Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf.
 - **[pattern-ai-labs/agentcall](https://github.com/pattern-ai-labs/agentcall)** - Let your AI agents join Google Meet, Zoom, Teams calls and collaborate like a real team-mate.
+- **[Sendmux/skills](https://github.com/Sendmux/skills)** - Sendmux email and mailbox workflows for agents
 
 </details>
 
@@ -1798,6 +1803,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[dembrandt/dembrandt-skills](https://github.com/dembrandt/dembrandt-skills)** - UX and design system skills: hierarchy, typography, accessibility, interactions
 - **[GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis)** - Evidence-driven method pack for AI coding agents
 - **[baskduf/codex-fable5](https://github.com/baskduf/FableCodex/tree/main/plugins/codex-fable5/skills/codex-fable5)** - Evidence-based workflow gates for Codex
+- **[csthink/dashmotion](https://github.com/csthink/dashmotion/tree/main/skills/dashmotion)** - Animated technical diagrams from plain English or Mermaid, self-contained HTML/SVG
 
 </details>
 
@@ -1818,12 +1824,14 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[sametbrr/llm-wiki-manager](https://github.com/sametbrr/llm-wiki-manager)** - Persistent LLM-managed personal wiki — the model writes, cross-references, and maintains the knowledge base while you curate sources. Implements Karpathy's LLM Wiki pattern with 8 operating modes.
 - **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** - Multi-platform search CLI for 17 sites including Chinese platforms
 - **[whistler/dream](https://github.com/whistler/dreamer)** - Mine session history for repeated corrections into context file updates
+- **[Tubo2333/obsidian-knowledge-brain](https://github.com/Tubo2333/obsidian-knowledge-brain)** - Cross-session knowledge memory and rule evolution for AI coding agents
 
 </details>
 
 <details>
 <summary><h3 style="display:inline">Specialized Domains</h3></summary>
 
+- **[shouldnotappearcalm/a-share-skill](https://github.com/shouldnotappearcalm/a-share-skill)** - China A-share (Shanghai/Shenzhen) skills: real-time quotes, K-line history, technical indicators, events, capital flows, sector heatmaps, and paper trading. Works with Claude Code, Cursor, Codex, and Qoder
 - **[transloadit/skills](https://github.com/transloadit/skills/tree/main/skills)** - Transloadit skill collection (6)
 - **[honeydew-ai/honeydew-ai-coding-agents-plugins](https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins)** - 11 skills for the Honeydew semantic layer over Snowflake, Databricks, and BigQuery: model exploration, entity/relation/attribute/metric/context/domain creation, validation, query, filtering, and workspace branching
 - **[raintree-technology/apple-hig-skills](https://github.com/raintree-technology/apple-hig-skills)** - Apple Human Interface Guidelines as 14 agent skills covering platforms, foundations, components, patterns, inputs, and technologies for iOS, macOS, visionOS, watchOS, and tvOS
@@ -1855,6 +1863,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[meodai/skill.color-expert](https://github.com/meodai/skill.color-expert)** - Color science expert skill with 286K words of reference material covering OKLCH/OKLAB, palette generation, accessibility/contrast, color naming, pigment mixing, and historical color theory
 - **[aklofas/kicad-happy](https://github.com/aklofas/kicad-happy)** - AI-powered KiCad electronics design review and analysis
 - **[bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills)** - Full-lifecycle AI music album production
+- **[Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill)** - Rewrites a rough idea or shot script into text-to-video prompts
 
 </details>
 
