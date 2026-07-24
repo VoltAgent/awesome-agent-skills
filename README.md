@@ -1669,6 +1669,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Xquik-dev/tweetclaw](https://github.com/Xquik-dev/tweetclaw)** - Post tweets, replies, DMs; search, monitor, run giveaways
 - **[SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose)** - Hard-edged writing style contract for timeless, forceful English prose without AI tics
 - **[blader/humanizer](https://github.com/blader/humanizer)** - Remove signs of AI-generated writing from text, making it sound more natural and human
+- **[b1rdmania/claude-plain-english-skill](https://github.com/b1rdmania/claude-plain-english-skill)** - Strips AI writing tics using Orwell/Gowers plain-English rules
 - **[MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop)** - Removes named AI writing tells (tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocab like "delve"/"crucial"). Split lint/rewrite modes for auditing your own text without auto-rewriting. Five intensity levels, MIT
 - **[Eronred/aso-skills](https://github.com/Eronred/aso-skills)** - 30+ App Store Optimization skills for keyword research, metadata optimization, competitor analysis, creative optimization, and mobile growth strategies via Appeeky API
 - **[degausai/wonda](https://github.com/degausai/wonda)** - AI content creation: images, video, music, audio, editing, publishing
@@ -1720,6 +1721,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Linked-API/linkedin](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin)** - Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf.
 - **[pattern-ai-labs/agentcall](https://github.com/pattern-ai-labs/agentcall)** - Let your AI agents join Google Meet, Zoom, Teams calls and collaborate like a real team-mate.
 - **[Sendmux/skills](https://github.com/Sendmux/skills)** - Sendmux email and mailbox workflows for agents
+- **[b1rdmania/claude-premortem-skill](https://github.com/b1rdmania/claude-premortem-skill)** - Klein-method premortem: assumes failure, works backward via parallel sub-agents
 
 </details>
 
@@ -1863,6 +1865,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[aklofas/kicad-happy](https://github.com/aklofas/kicad-happy)** - AI-powered KiCad electronics design review and analysis
 - **[bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills)** - Full-lifecycle AI music album production
 - **[Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill)** - Rewrites a rough idea or shot script into text-to-video prompts
+- **[b1rdmania/hinge-profile-optimizer](https://github.com/b1rdmania/hinge-profile-optimizer)** - Dating-profile optimization grounded in peer-reviewed attraction research
 
 </details>
 
