@@ -116,6 +116,7 @@ See the [official repo](https://github.com/anthropics/skills) and [creation guid
 - **[ComposioHQ/competitive-ads-extractor](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor)** - Analyze competitor advertising
 - **[ComposioHQ/image-enhancer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer)** - Improve image quality
 - **[wrsmith108/linear-claude-skill](https://github.com/wrsmith108/linear-claude-skill)** - Manage Linear issues, projects, and teams with MCP tools, SDK scripts, and GraphQL fallbacks
+- **[franklinxkk/ai-delivery-spec](https://github.com/franklinxkk/ai-delivery-spec)** - Requirement management skill: intake, clarification, unified PRD, prototype contracts, change control, traceability, and acceptance for ToC/ToB/ToG. One human-readable, AI-coding-ready baseline.
 
 ### Development and Testing
 
@@ -195,5 +196,3 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - Add new docs & videos & articles
 
 * This is a curated list. We do not audit, endorse, or guarantee the security or correctness of listed projects.
-
-- [ai-delivery-spec](https://github.com/franklinxkk/ai-delivery-spec) — Spec-driven delivery framework for product managers — 4 delivery tiers, 0D triage, prototype testability, AI runtime governance, 5 domain modules
