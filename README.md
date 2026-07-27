@@ -76,7 +76,8 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Apollo GraphQL](#skills-by-apollo-graphql) | [Auth0](#skills-by-auth0) | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) |
 | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) |
 | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) | [Red Hat](#skills-by-redhat) | [Community](#community-skills) |
-| [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) | [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |
+| [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) | [Google Cloud](#skills-by-google-cloud) | [Banuba](#skills-by-banuba) |
+| [Quality Standards](#skill-quality-standards)  |  |  |  |
 
 
 <br/>
@@ -1647,6 +1648,17 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 </details>
 
+<details>
+<summary><h3 style="display:inline">Skills by Banuba</h3></summary>
+
+Banuba Agent Skills let users create apps with Banuba SDKs (Face AR, Video Editor & Photo Editor) with an AI coding assistant: Claude Code, Codex, and Qwen.
+
+- **[banuba/ai-skills/far-general](https://github.com/Banuba/ai-skills)** - Banuba Face AR SDK: sales, dev (docs), and integration (Web, Android, iOS, Desktop) modes
+- **[banuba/ai-skills/build-video-editor](https://github.com/Banuba/ai-skills)** - Scaffold and implement Banuba Video Editor SDK projects
+- **[banuba/ai-skills/build-photo-editor](https://github.com/Banuba/ai-skills)** - Scaffold and implement Banuba Photo Editor SDK projects
+- **[banuba/ai-skills/explain-video-editor-photo-editor-docs](https://github.com/Banuba/ai-skills)** - Look up Banuba Video Editor SDK and Photo Editor SDK configuration, customization, and feature guides
+
+</details>
 
 ### Community Skills
 
