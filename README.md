@@ -1648,7 +1648,11 @@ Official skills published by Cypress to help create, maintain, understand, and f
 </details>
 
 
-### Community Skills
+### Community### Community
+
+- **[Interlinear](https://github.com/BladeDancer743/Interlinear)** - 技术论文行间注释器 (Technical paper inline annotator). Auto-detects domain terminology in English papers and injects Chinese translations in `【翻译：解释】` format. 350+ term quantum computing knowledge base, geometric intuition mode, 3 reader levels. Works with Claude Code/OpenCode/Cursor/Codex.
+
+ Skills
 
 <details>
 <summary><h3 style="display:inline">Vector Databases</h3></summary>
