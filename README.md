@@ -1867,6 +1867,13 @@ Official skills published by Cypress to help create, maintain, understand, and f
 </details>
 
 <details>
+<summary><h3 style="display:inline">Developer Tools</h3></summary>
+
+- **[RexHuang/snaptool-skills](https://github.com/RexHuang/snaptool-skills)** - 49 developer tools (JSON/CSS/HTML/SQL/XML formatting, Base64/URL/HTML encoding, SHA-256/512 hashing, UUID/password generation, case conversion, CSV↔JSON, color/unit/timestamp conversion, regex testing, JWT decode) via single REST API. Works with Claude Code, Codex, Cursor. Free tier available.
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">n8n Automation</h3></summary>
 
 - **[czlonkowski/n8n-code-javascript](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-code-javascript)** - JavaScript in n8n Code nodes with data access patterns
