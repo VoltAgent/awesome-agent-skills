@@ -1863,6 +1863,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[aklofas/kicad-happy](https://github.com/aklofas/kicad-happy)** - AI-powered KiCad electronics design review and analysis
 - **[bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills)** - Full-lifecycle AI music album production
 - **[Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill)** - Rewrites a rough idea or shot script into text-to-video prompts
+- **[Krosos/krosos-mcp](https://github.com/Krosos/krosos-mcp)** - Personal accounting ledger as typed agent tools: net worth, holdings, transaction history, EU capital-gains tax estimates, and trade logging over scoped read/write API tokens. Skill file plus a remote MCP server
 
 </details>
 
