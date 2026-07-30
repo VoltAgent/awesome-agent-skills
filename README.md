@@ -75,7 +75,8 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Resend](#skills-by-resend) | [Addy Osmani (Web Quality)](#skills-by-addy-osmani-web-quality) | [MongoDB](#skills-by-mongodb) | [Kim Barrett (Advertising)](#advertising-skills-by-kim-barrett) |
 | [Apollo GraphQL](#skills-by-apollo-graphql) | [Auth0](#skills-by-auth0) | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) |
 | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) |
-| [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) | [Red Hat](#skills-by-redhat) | [Community](#community-skills) |
+| [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) | [Floe Labs](#skills-by-floe-labs) | [Red Hat](#skills-by-redhat) |
+| [Community](#community-skills) | | | |
 | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) | [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |
 
 
@@ -374,6 +375,15 @@ Official skills by Venice.ai for the Venice API.
 - **[veniceai/venice-crypto-rpc](https://github.com/veniceai/skills/tree/main/skills/venice-crypto-rpc)** - JSON-RPC proxying for supported crypto networks
 - **[veniceai/venice-augment](https://github.com/veniceai/skills/tree/main/skills/venice-augment)** - Search, scraping, and text parsing endpoints
 - **[veniceai/venice-errors](https://github.com/veniceai/skills/tree/main/skills/venice-errors)** - Error handling, retries, and API status codes
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Floe Labs</h3></summary>
+
+Official skill by Floe Labs — the unified billing ledger for voice AI.
+
+- **[floe-labs/floe](https://github.com/Floe-Labs/agent-skills/tree/main/skills/floe)** - Unified billing ledger for voice AI — one key, every vendor
 
 </details>
 
