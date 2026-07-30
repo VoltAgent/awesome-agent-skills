@@ -1650,6 +1650,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 ### Community Skills
 
+- **[rjchicago/ORPTA](https://github.com/rjchicago/ORPTA)** - Hierarchical planning methodology for AI coding agents (Cursor, Claude Code, Codex). Plans as implementation contracts with amendment protocol.
 <details>
 <summary><h3 style="display:inline">Vector Databases</h3></summary>
 
