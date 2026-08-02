@@ -1698,6 +1698,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[gokapso/integrate-whatsapp](https://github.com/gokapso/agent-skills/tree/master/skills/integrate-whatsapp)** - Connect WhatsApp, set up webhooks, and send messages
 - **[gokapso/automate-whatsapp](https://github.com/gokapso/agent-skills/tree/master/skills/automate-whatsapp)** - Build WhatsApp automations with workflows and agents
 - **[gokapso/observe-whatsapp](https://github.com/gokapso/agent-skills/tree/master/skills/observe-whatsapp)** - Debug WhatsApp delivery issues and run health checks
+- **[QINGcha7911/listen-book](https://github.com/QINGcha7911/listen-book)** - Turn any book into a TED-style audio summary: all ages (0-3 to 18+), 6 scenarios, free voice cloning, TED-style director layer (pauses/emotion/BGM), language-auto voice selection, streaming delivery, copyright-compliant book sources
 - **[PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)** - Interact with NotebookLM for document-based conversations
 - **[obra/superpowers-lab](https://github.com/obra/superpowers-lab)** - Lab environment for Claude superpowers
 - **[obra/brainstorming](https://github.com/obra/superpowers/blob/main/skills/brainstorming/SKILL.md)** - Generate and explore ideas
