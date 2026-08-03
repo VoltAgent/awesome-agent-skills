@@ -1870,6 +1870,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[aklofas/kicad-happy](https://github.com/aklofas/kicad-happy)** - AI-powered KiCad electronics design review and analysis
 - **[bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills)** - Full-lifecycle AI music album production
 - **[Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill)** - Rewrites a rough idea or shot script into text-to-video prompts
+- **[nervextech/voice-notes-to-reminders](https://github.com/nervextech/nxvet-skills/tree/main/voice-notes-to-reminders)** - Convert NxHUB voice notes into local reminders and calendar files
+- **[nervextech/clinic-activity-report](https://github.com/nervextech/nxvet-skills/tree/main/clinic-activity-report)** - Generate read-only weekly veterinary clinic activity and device health reports
 
 </details>
 
