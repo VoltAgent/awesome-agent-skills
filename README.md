@@ -1870,6 +1870,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[aklofas/kicad-happy](https://github.com/aklofas/kicad-happy)** - AI-powered KiCad electronics design review and analysis
 - **[bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills)** - Full-lifecycle AI music album production
 - **[Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill)** - Rewrites a rough idea or shot script into text-to-video prompts
+- **[zeroatflops/flops-skill](https://github.com/zeroatflops/flops-skill)** - Look up and cite verifiable GPU/compute rental reference prices (spot, on-demand, DePIN) from the public FLOPS Index — price → verify → cite, key-free
 
 </details>
 
