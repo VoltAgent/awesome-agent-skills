@@ -1667,6 +1667,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 <details>
 <summary><h3 style="display:inline">Marketing</h3></summary>
 
+- **[sarojkjha/aaj-marketing-skills](https://github.com/sarojkjha/aaj-marketing-skills)** - 39 marketing skills across GTM, SEO/GEO, unit economics, retention and pipeline, of which 24 ship runnable Node engines that compute the numbers — LTV:CAC and payback, weighted forecasts, A/B significance, AI citation visibility — rather than only prompting
 - **[BrianRWagner/ai-marketing-skills](https://github.com/BrianRWagner/ai-marketing-skills)** - 17 marketing frameworks for cold outreach, homepage audit, social cards, and more
 - **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)** - Universal SEO skill for comprehensive website analysis and optimization
 - **[wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** - Publish articles to X/Twitter
