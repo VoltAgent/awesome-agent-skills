@@ -1831,6 +1831,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[sametbrr/llm-wiki-manager](https://github.com/sametbrr/llm-wiki-manager)** - Persistent LLM-managed personal wiki — the model writes, cross-references, and maintains the knowledge base while you curate sources. Implements Karpathy's LLM Wiki pattern with 8 operating modes.
 - **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** - Multi-platform search CLI for 17 sites including Chinese platforms
 - **[Tubo2333/obsidian-knowledge-brain](https://github.com/Tubo2333/obsidian-knowledge-brain)** - Cross-session knowledge memory and rule evolution for AI coding agents
+- **[khendzel/skills-janitor](https://github.com/khendzel/skills-janitor)** - Token audit, usage tracking, and swipe-to-delete skill pruning.
 
 </details>
 
