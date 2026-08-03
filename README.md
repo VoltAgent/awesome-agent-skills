@@ -1727,6 +1727,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Linked-API/linkedin](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin)** - Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf.
 - **[pattern-ai-labs/agentcall](https://github.com/pattern-ai-labs/agentcall)** - Let your AI agents join Google Meet, Zoom, Teams calls and collaborate like a real team-mate.
 - **[Sendmux/skills](https://github.com/Sendmux/skills)** - Sendmux email and mailbox workflows for agents
+- **[AgentGameLab/learn-coach](https://github.com/AgentGameLab/learn-coach)** - Teach concepts to mastery via Socratic, scaffolded coaching
 
 </details>
 
@@ -1831,6 +1832,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[sametbrr/llm-wiki-manager](https://github.com/sametbrr/llm-wiki-manager)** - Persistent LLM-managed personal wiki — the model writes, cross-references, and maintains the knowledge base while you curate sources. Implements Karpathy's LLM Wiki pattern with 8 operating modes.
 - **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** - Multi-platform search CLI for 17 sites including Chinese platforms
 - **[Tubo2333/obsidian-knowledge-brain](https://github.com/Tubo2333/obsidian-knowledge-brain)** - Cross-session knowledge memory and rule evolution for AI coding agents
+- **[AgentGameLab/tuneup](https://github.com/AgentGameLab/tuneup)** - Turn vague requests into high-density, structured prompts
+- **[AgentGameLab/harness-evolve](https://github.com/AgentGameLab/harness-evolve)** - Self-evolving skill that audits and improves your agent harness
 
 </details>
 
