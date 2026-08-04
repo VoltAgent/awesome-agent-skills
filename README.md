@@ -1876,6 +1876,11 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills)** - Full-lifecycle AI music album production
 - **[Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill)** - Rewrites a rough idea or shot script into text-to-video prompts
 - **[Orkas-AI/video-router](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills/video-router)** - Route video requests through deterministic agent production stages
+- **[GarethManning/regenerative-project-design-orchestrator](https://github.com/GarethManning/education-agent-skills/tree/main/skills/original-frameworks/regenerative-project-design-orchestrator)** - Orchestrates proportionate regenerative learning projects with safeguards and stewardship
+- **[GarethManning/learning-target-authoring-guide](https://github.com/GarethManning/education-agent-skills/tree/main/skills/original-frameworks/learning-target-authoring-guide)** - Authors observable competency learning targets across developmental bands
+- **[GarethManning/assessment-validity-checker](https://github.com/GarethManning/education-agent-skills/tree/main/skills/curriculum-assessment/assessment-validity-checker)** - Audits assessments for validity, reliability, and learning alignment
+- **[GarethManning/progressive-hint-ladder](https://github.com/GarethManning/education-agent-skills/tree/main/skills/student-learning/progressive-hint-ladder)** - Provides graduated hints while preserving learner thinking and agency
+- **[GarethManning/competency-unpacker](https://github.com/GarethManning/education-agent-skills/tree/main/skills/curriculum-assessment/competency-unpacker)** - Unpacks broad competencies into assessable sub-skills and success criteria
 
 </details>
 
