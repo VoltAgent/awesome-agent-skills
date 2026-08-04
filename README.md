@@ -1809,6 +1809,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills)** - TestMu AI (Formerly LambdaTest) Skills is a curated collection of Agent Skills that teach AI coding assistants how to write production-grade test automation.
 - **[foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills)** - A skills governed plug-and-play harness for staged, test-driven skill orchestration
 - **[metalbear-co/skills](https://github.com/metalbear-co/skills)** - Skills that let agents code and test against your Kubernetes cluster using mirrord
+- **[Modellix/modellix](https://github.com/Modellix/modellix-plugin/tree/main/skills/modellix)** - Unified API for AI image and video generation
 - **[dembrandt/dembrandt-skills](https://github.com/dembrandt/dembrandt-skills)** - UX and design system skills: hierarchy, typography, accessibility, interactions
 - **[GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis)** - Evidence-driven method pack for AI coding agents
 - **[baskduf/codex-fable5](https://github.com/baskduf/FableCodex/tree/main/plugins/codex-fable5/skills/codex-fable5)** - Evidence-based workflow gates for Codex
