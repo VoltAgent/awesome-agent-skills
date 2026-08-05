@@ -1687,6 +1687,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills)** - 69 marketing skills across SEO/GEO, influencer, paid ads, and email on one shared contract, with 5 benchmark-driven auditor gates (CORE-EEAT, CITE, C³, ROAS, SEND) and keyless data connectors
 - **[Bomx/distribb-skill](https://github.com/Bomx/distribb-skill)** - SEO articles, keyword research, CMS publishing, high-DR backlink exchange
 - **[AIDevGTM/gtm-cofounder](https://github.com/AIDevGTM/gtm-cofounder)** - 18 go-to-market skills for solo technical founders: positioning, first users, launch, pricing, and founder-led sales; grounded in Adam Frankl and Jakub Czakon
+- **[adologyai/content-intelligence-plugin](https://github.com/adologyai/content-intelligence-plugin)** - Competitive ad and creative intelligence skills backed by a hosted MCP server: brand-builder, research-analyst, content-strategist, data-explorer, and more for tracking competitor ads, creative trends, and influencer partnerships
 
 </details>
 
