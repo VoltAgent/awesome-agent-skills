@@ -1913,7 +1913,7 @@ Agent skills can include prompt injections, tool poisoning, hidden malware paylo
 
 | Tool | Project Path | Global Path | Official Docs |
 |------|-------------|-------------|---------------|
-| Antigravity | `.agent/skills/` | `~/.gemini/antigravity/skills/` | [Antigravity Skills](https://antigravity.google/docs/skills) |
+| Antigravity | `.agents/skills/` | `~/.gemini/config/skills/` | [Antigravity Skills](https://antigravity.google/docs/skills) |
 | Claude Code | `.claude/skills/` | `~/.claude/skills/` | [Claude Code Skills](https://docs.anthropic.com/en/docs/claude-code/skills) |
 | Codex | `.agents/skills/` | `~/.agents/skills/` | [Codex Skills](https://developers.openai.com/codex/skills) |
 | Cursor | `.cursor/skills/` | `~/.cursor/skills/` | [Cursor Skills](https://cursor.com/docs/context/skills) |
