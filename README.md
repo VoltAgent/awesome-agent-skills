@@ -1743,6 +1743,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill)** - Control iOS Simulator
 - **[ramzesenok/iOS-Accessibility-Audit-Skill](https://github.com/ramzesenok/iOS-Accessibility-Audit-Skill)** - Audit iOS App against Accessibility norms
 - **[truongduy2611/app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills)** - Scan iOS/macOS projects to catch common mistakes that lead to App Store rejection before submission
+- **[supernovae-st/nika-agents](https://github.com/supernovae-st/nika-agents)** - Author, check and repair nika AI workflows (.nika.yaml): the skill teaches the author-check-repair loop against the engine's static audit (schema, permits, cost floor) with tamper-evident run traces; ships as Claude Code and Codex plugin with a read-only MCP oracle
 - **[coderabbitai/skills](https://github.com/coderabbitai/skills)** - Code review and PR autofix workflows for coding agents
 - **[sanjay3290/postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres)** - Execute safe read-only SQL queries against PostgreSQL databases
 - **[sanjay3290/deep-research](https://github.com/sanjay3290/ai-skills/tree/main/skills/deep-research)** - Autonomous multi-step research using Gemini Deep Research Agent
