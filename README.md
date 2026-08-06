@@ -74,7 +74,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [DuckDB](#skills-by-duckdb) | [GSAP](#skills-by-gsap-greensock) | [Garry Tan (gstack)](#skills-by-garry-tan-gstack) | [Notion](#skills-by-notion) |
 | [Resend](#skills-by-resend) | [Addy Osmani (Web Quality)](#skills-by-addy-osmani-web-quality) | [MongoDB](#skills-by-mongodb) | [Kim Barrett (Advertising)](#advertising-skills-by-kim-barrett) |
 | [Apollo GraphQL](#skills-by-apollo-graphql) | [Auth0](#skills-by-auth0) | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) |
-| [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) |
+| [Ceki](#skills-by-ceki) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) | [Datadog Labs](#skills-by-datadog-labs) |
 | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) | [Red Hat](#skills-by-redhat) | [Community](#community-skills) |
 | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) | [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |
 
@@ -977,6 +977,18 @@ Official browser automation skills from the Browserbase team. Covers headless br
 - **[browserbase/functions](https://officialskills.sh/browserbase/skills/functions)** - Deploy browser automation scripts as serverless cloud functions
 - **[browserbase/search](https://officialskills.sh/browserbase/skills/search)** - Search the web via the Browserbase API with structured results
 - **[browserbase/ui-test](https://officialskills.sh/browserbase/skills/ui-test)** - Run adversarial UI tests by analyzing git diffs in a real browser
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Ceki</h3></summary>
+
+Official browser rental skills from the Ceki team. Rent real residential Chrome browsers per minute for AI agents through MCP-native integration.
+
+- **[ceki/browser](https://browser.ceki.me)** - Rent a real residential Chrome browser session for your AI agent. Genuine fingerprints, residential IP, zero bot detection.
+- **[ceki/browser-mcp](https://github.com/ceki-me/mcp-server-browser)** - MCP server for Ceki Browser — one tool call to rent a real browser for Puppeteer/Playwright/n8n.
+- **[ceki/browser-sdk-py](https://github.com/ceki-me/ceki-python)** - Python SDK for Ceki Browser — programmatically rent and control real Chrome sessions.
+- **[ceki/browser-sdk-js](https://github.com/ceki-me/ceki-js)** - JavaScript/TypeScript SDK for Ceki Browser — integrate real browsers into your AI agent workflows.
 
 </details>
 
