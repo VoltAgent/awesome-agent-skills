@@ -1814,6 +1814,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[baskduf/codex-fable5](https://github.com/baskduf/FableCodex/tree/main/plugins/codex-fable5/skills/codex-fable5)** - Evidence-based workflow gates for Codex
 - **[csthink/dashmotion](https://github.com/csthink/dashmotion/tree/main/skills/dashmotion)** - Animated technical diagrams from plain English or Mermaid, self-contained HTML/SVG
 - **[browser-act/browser-act](https://github.com/browser-act/skills/tree/main/browser-act)** - Automate authenticated browsers with extraction and human handoff
+- **[agiwhitelist/auteur](https://github.com/agiwhitelist/auteur)** - Builds websites gated by an anti-slop linter and motion QA
 
 </details>
 
