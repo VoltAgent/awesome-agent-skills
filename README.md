@@ -1729,6 +1729,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Linked-API/linkedin](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin)** - Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf.
 - **[pattern-ai-labs/agentcall](https://github.com/pattern-ai-labs/agentcall)** - Let your AI agents join Google Meet, Zoom, Teams calls and collaborate like a real team-mate.
 - **[Sendmux/skills](https://github.com/Sendmux/skills)** - Sendmux email and mailbox workflows for agents
+- **[stephenrogan/csm-skills](https://github.com/stephenrogan/csm-skills)** - 58 customer success workflow skills for CSMs
+- **[stephenrogan/leadership-skills](https://github.com/stephenrogan/leadership-skills)** - 32 leadership skills for human-agent management
 
 </details>
 
