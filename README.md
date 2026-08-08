@@ -1729,6 +1729,16 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Linked-API/linkedin](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin)** - Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf.
 - **[pattern-ai-labs/agentcall](https://github.com/pattern-ai-labs/agentcall)** - Let your AI agents join Google Meet, Zoom, Teams calls and collaborate like a real team-mate.
 - **[Sendmux/skills](https://github.com/Sendmux/skills)** - Sendmux email and mailbox workflows for agents
+- **[product-on-purpose/deliver-prd](https://github.com/product-on-purpose/pm-skills/tree/main/skills/deliver-prd)** - Write a PRD covering problem, scope, and success metrics
+- **[product-on-purpose/deliver-acceptance-criteria](https://github.com/product-on-purpose/pm-skills/tree/main/skills/deliver-acceptance-criteria)** - Generate Given/When/Then acceptance criteria for a user story
+- **[product-on-purpose/deliver-user-stories](https://github.com/product-on-purpose/pm-skills/tree/main/skills/deliver-user-stories)** - Break features into persona, action, benefit user stories
+- **[product-on-purpose/deliver-edge-cases](https://github.com/product-on-purpose/pm-skills/tree/main/skills/deliver-edge-cases)** - Catalog edge cases, error states, and recovery paths
+- **[product-on-purpose/discover-competitive-analysis](https://github.com/product-on-purpose/pm-skills/tree/main/skills/discover-competitive-analysis)** - Compare competitor features, pricing, and positioning with a 2x2
+- **[product-on-purpose/define-problem-statement](https://github.com/product-on-purpose/pm-skills/tree/main/skills/define-problem-statement)** - Frame a problem with user impact and success criteria
+- **[product-on-purpose/define-hypothesis](https://github.com/product-on-purpose/pm-skills/tree/main/skills/define-hypothesis)** - Define a testable hypothesis with metrics and validation approach
+- **[product-on-purpose/define-opportunity-tree](https://github.com/product-on-purpose/pm-skills/tree/main/skills/define-opportunity-tree)** - Map outcomes to customer opportunities and candidate solutions
+- **[product-on-purpose/develop-adr](https://github.com/product-on-purpose/pm-skills/tree/main/skills/develop-adr)** - Write an Architecture Decision Record in Nygard format
+- **[product-on-purpose/measure-experiment-design](https://github.com/product-on-purpose/pm-skills/tree/main/skills/measure-experiment-design)** - Design an A/B test with variants, metrics, and duration
 
 </details>
 
