@@ -1687,6 +1687,10 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills)** - 69 marketing skills across SEO/GEO, influencer, paid ads, and email on one shared contract, with 5 benchmark-driven auditor gates (CORE-EEAT, CITE, C³, ROAS, SEND) and keyless data connectors
 - **[Bomx/distribb-skill](https://github.com/Bomx/distribb-skill)** - SEO articles, keyword research, CMS publishing, high-DR backlink exchange
 - **[AIDevGTM/gtm-cofounder](https://github.com/AIDevGTM/gtm-cofounder)** - 18 go-to-market skills for solo technical founders: positioning, first users, launch, pricing, and founder-led sales; grounded in Adam Frankl and Jakub Czakon
+- **[agentbody/competitor-monitoring](https://github.com/agentbody/skills/blob/main/skills/competitor-monitoring/SKILL.md)** - Research competitor feedback, alternatives, and market reactions
+- **[agentbody/demand-research](https://github.com/agentbody/skills/blob/main/skills/demand-research/SKILL.md)** - Research customer pain points, budgets, and buying intent
+- **[agentbody/find-leads](https://github.com/agentbody/skills/blob/main/skills/find-leads/SKILL.md)** - Find prospects and buying signals in public social content
+- **[agentbody/humanize-writing](https://github.com/agentbody/skills/blob/main/skills/humanize-writing/SKILL.md)** - Rewrite mechanical text into natural writing while preserving meaning
 
 </details>
 
@@ -1729,6 +1733,9 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Linked-API/linkedin](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin)** - Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf.
 - **[pattern-ai-labs/agentcall](https://github.com/pattern-ai-labs/agentcall)** - Let your AI agents join Google Meet, Zoom, Teams calls and collaborate like a real team-mate.
 - **[Sendmux/skills](https://github.com/Sendmux/skills)** - Sendmux email and mailbox workflows for agents
+- **[agentbody/account-usage](https://github.com/agentbody/skills/blob/main/skills/account-usage/SKILL.md)** - Check Agent Body account balance, quota, and usage history
+- **[agentbody/document-parsing](https://github.com/agentbody/skills/blob/main/skills/document-parsing/SKILL.md)** - Parse HTTPS documents into Markdown and structured content
+- **[agentbody/people-data](https://github.com/agentbody/skills/blob/main/skills/people-data/SKILL.md)** - Find professional profiles and public business contact data
 
 </details>
 
@@ -1877,6 +1884,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills)** - Full-lifecycle AI music album production
 - **[Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill)** - Rewrites a rough idea or shot script into text-to-video prompts
 - **[Orkas-AI/video-router](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills/video-router)** - Route video requests through deterministic agent production stages
+- **[agentbody/tiktok-transcript](https://github.com/agentbody/skills/blob/main/skills/tiktok-transcript/SKILL.md)** - Extract captions and transcript text from TikTok videos
+- **[agentbody/youtube-transcript](https://github.com/agentbody/skills/blob/main/skills/youtube-transcript/SKILL.md)** - Extract captions and timestamped transcript text from YouTube videos
 
 </details>
 
