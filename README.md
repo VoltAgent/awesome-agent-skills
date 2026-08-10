@@ -1813,6 +1813,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[csthink/dashmotion](https://github.com/csthink/dashmotion/tree/main/skills/dashmotion)** - Animated technical diagrams from plain English or Mermaid, self-contained HTML/SVG
 - **[browser-act/browser-act](https://github.com/browser-act/skills/tree/main/browser-act)** - Automate authenticated browsers with extraction and human handoff
 - **[JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills)** - Agent orchestration, code review grading, AI eval, creator tooling skills.
+- **[sjh9714/red-handed](https://github.com/sjh9714/red-handed)** - Check whether the tests your agent said passed actually ran, from the session log and git state
 
 </details>
 
