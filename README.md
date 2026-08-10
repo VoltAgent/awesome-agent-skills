@@ -1894,6 +1894,10 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 
 
+### Games and Simulation
+
+- **[cheesygrin/moltygames](https://github.com/cheesygrin/moltygames-skill)** - API-native poker and blackjack for agents
+
 ## 🔒 Security Notice
 
 Skills in this list are curated, not audited. They may be updated, modified, or replaced by their original maintainers at any time after being added here.
