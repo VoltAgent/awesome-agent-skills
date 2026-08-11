@@ -132,6 +132,13 @@ Official skills by VoltAgent for building AI agents with the VoltAgent TypeScrip
 </details>
 
 <details>
+<summary><h3 style="display:inline">Skills by HumanPen</h3></summary>
+
+- **[humanpen/humanpen-skill](https://github.com/humanpen/humanpen-skill)** - Rewrites Word/PPT/PDF docs to read as human-written
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Skills by TestMu AI</h3></summary>
 
 Production-grade Agent Skills for every major test automation framework, maintained by the TestMu AI (formerly LambdaTest) team. They help AI coding assistants generate expert-level test automation code across web, mobile, API, BDD, and unit testing stacks.
