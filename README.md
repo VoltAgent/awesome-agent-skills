@@ -1835,6 +1835,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[ohad6k/emulo](https://github.com/ohad6k/emulo)** - Mines AI coding logs into personal agent profiles
 - **[Tubo2333/obsidian-knowledge-brain](https://github.com/Tubo2333/obsidian-knowledge-brain)** - Cross-session knowledge memory and rule evolution for AI coding agents
 - **[oliver-zehentleitner/keep-the-why](https://github.com/oliver-zehentleitner/keep-the-why)** - Preserves the reasoning behind a codebase — decisions, workarounds, rejected alternatives
+- **[The-825/breadcrumbs](https://github.com/The-825/breadcrumbs)** - Agent memory kit: ledgers, retrieval exams, merge gates
 
 </details>
 
