@@ -134,7 +134,7 @@ Official skills by VoltAgent for building AI agents with the VoltAgent TypeScrip
 <details>
 <summary><h3 style="display:inline">Skills by HumanPen</h3></summary>
 
-- **[humanpen/humanpen-skill](https://github.com/humanpen/humanpen-skill)** - Rewrites Word/PPT/PDF docs to read as human-written
+- **[humanpen/humanpen-skill](https://github.com/humanpen/humanpen-skill)** - Document-level AI humanizer that edits .docx/.pptx in place
 
 </details>
 
