@@ -1813,6 +1813,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[csthink/dashmotion](https://github.com/csthink/dashmotion/tree/main/skills/dashmotion)** - Animated technical diagrams from plain English or Mermaid, self-contained HTML/SVG
 - **[browser-act/browser-act](https://github.com/browser-act/skills/tree/main/browser-act)** - Automate authenticated browsers with extraction and human handoff
 - **[JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills)** - Agent orchestration, code review grading, AI eval, creator tooling skills.
+- **[yushulx/dynamsoft-sdk-skill](https://github.com/yushulx/dynamsoft-sdk-skill)** - Generate and review accurate code for Dynamsoft SDKs (Barcode Reader, Capture Vision, Web TWAIN, Document Viewer) across web, mobile, server, and desktop, with a bundled DBR template-optimizer sub-skill for barcode decode-rate tuning
 
 </details>
 
