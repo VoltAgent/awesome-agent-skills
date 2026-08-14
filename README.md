@@ -1688,6 +1688,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Vladimir-Human/humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru)** - Removes AI-writing markers from Russian text
 - **[Bomx/distribb-skill](https://github.com/Bomx/distribb-skill)** - SEO articles, keyword research, CMS publishing, high-DR backlink exchange
 - **[AIDevGTM/gtm-cofounder](https://github.com/AIDevGTM/gtm-cofounder)** - 18 go-to-market skills for solo technical founders: positioning, first users, launch, pricing, and founder-led sales; grounded in Adam Frankl and Jakub Czakon
+- **[riffkit/skill](https://github.com/riffkit/skill)** - Turn a winning short video into your product's video
 
 </details>
 
