@@ -1891,6 +1891,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill)** - Rewrites a rough idea or shot script into text-to-video prompts
 - **[Optim-Agent/optim-agent](https://github.com/Optim-Agent/optim-agent)** - Agent-guided optimization for measurable system tuning.
 - **[Orkas-AI/video-router](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills/video-router)** - Route video requests through deterministic agent production stages
+- **[Aidenwu0209/paddleocr-text-recognition](https://github.com/Aidenwu0209/PaddleOCR-Skills/tree/master/skills/paddleocr-text-recognition)** - Extract exact text from images, scans, screenshots, and PDFs
+- **[Aidenwu0209/paddleocr-doc-parsing](https://github.com/Aidenwu0209/PaddleOCR-Skills/tree/master/skills/paddleocr-doc-parsing)** - Parse complex documents into structured Markdown, tables, and formulas
 
 </details>
 
