@@ -75,6 +75,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) |
 | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) | [Red Hat](#skills-by-redhat) | [Community](#community-skills) |
 | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) | [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |
+| [Duvo](#skills-by-duvo-team) | | | |
 
 
 
@@ -1649,6 +1650,23 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[cypress-io/cypress-author](https://github.com/cypress-io/ai-toolkit/tree/main/skills/cypress-author)** - Creates, updates, and fixes Cypress E2E and component tests.
 - **[cypress-io/cypress-explain](https://github.com/cypress-io/ai-toolkit/tree/main/skills/cypress-explain)** - Explains Cypress E2E and component tests, and answers questions about Cypress use and behavior. 
 - **[cypress-io/cypress-docs](https://github.com/cypress-io/ai-toolkit/tree/main/skills/cypress-docs)** - Search and extract Cypress information from official documentation.
+
+</details>
+
+
+
+<details>
+<summary><h3 style="display:inline">Skills by Duvo Team</h3></summary>
+
+Official skills from Duvo for grocery and retail operations agents.
+
+- **[duvoai/aop-writer](https://github.com/duvoai/skills/tree/main/skills/aop-writer)** - Draft and rewrite Duvo Agent AOPs
+- **[duvoai/connection-doctor](https://github.com/duvoai/skills/tree/main/skills/connection-doctor)** - Diagnose Duvo Agent connection health
+- **[duvoai/duvo-cli](https://github.com/duvoai/skills/tree/main/skills/duvo-cli)** - Drive Duvo from the official CLI
+- **[duvoai/improve-agent](https://github.com/duvoai/skills/tree/main/skills/improve-agent)** - Improve a Duvo Agent from run evidence
+- **[duvoai/improve-queue](https://github.com/duvoai/skills/tree/main/skills/improve-queue)** - Improve a Duvo Queue producer-consumer flow
+- **[duvoai/run-debugger](https://github.com/duvoai/skills/tree/main/skills/run-debugger)** - Debug a failed Duvo Agent Run
+- **[duvoai/workflow-debugger](https://github.com/duvoai/skills/tree/main/skills/workflow-debugger)** - Audit Duvo Agents across many Runs
 
 </details>
 
