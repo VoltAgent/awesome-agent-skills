@@ -75,6 +75,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) |
 | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) | [Red Hat](#skills-by-redhat) | [Community](#community-skills) |
 | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) | [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |
+| [Vapi](#skills-by-vapi-team) | | | |
 
 
 
@@ -1649,6 +1650,23 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[cypress-io/cypress-author](https://github.com/cypress-io/ai-toolkit/tree/main/skills/cypress-author)** - Creates, updates, and fixes Cypress E2E and component tests.
 - **[cypress-io/cypress-explain](https://github.com/cypress-io/ai-toolkit/tree/main/skills/cypress-explain)** - Explains Cypress E2E and component tests, and answers questions about Cypress use and behavior. 
 - **[cypress-io/cypress-docs](https://github.com/cypress-io/ai-toolkit/tree/main/skills/cypress-docs)** - Search and extract Cypress information from official documentation.
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Vapi Team</h3></summary>
+
+Official skills from Vapi for building voice AI agents.
+
+- **[VapiAI/setup-api-key](https://github.com/VapiAI/skills/tree/main/setup-api-key)** - Guides Vapi API key setup
+- **[VapiAI/create-assistant](https://github.com/VapiAI/skills/tree/main/create-assistant)** - Creates Vapi voice AI assistants
+- **[VapiAI/vapi-prompt-builder](https://github.com/VapiAI/skills/tree/main/vapi-prompt-builder)** - Builds and audits Vapi voice agent prompts
+- **[VapiAI/create-tool](https://github.com/VapiAI/skills/tree/main/create-tool)** - Builds custom tools for Vapi assistants
+- **[VapiAI/create-call](https://github.com/VapiAI/skills/tree/main/create-call)** - Initiates Vapi outbound and web calls
+- **[VapiAI/create-squad](https://github.com/VapiAI/skills/tree/main/create-squad)** - Builds multi-assistant Vapi squads
+- **[VapiAI/create-phone-number](https://github.com/VapiAI/skills/tree/main/create-phone-number)** - Configures Vapi phone numbers
+- **[VapiAI/setup-webhook](https://github.com/VapiAI/skills/tree/main/setup-webhook)** - Configures Vapi webhook event delivery
+- **[VapiAI/vapi-bootstrap-framework](https://github.com/VapiAI/skills/tree/main/vapi-bootstrap-framework)** - Scaffolds Bun TypeScript voice-agent projects
 
 </details>
 
