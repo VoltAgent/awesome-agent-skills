@@ -1896,6 +1896,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills)** - Agent skills for YouTube: pull video transcripts and discover videos (search, channel and playlist listings) via TranscriptAPI.
 - **[morluto/rea](https://github.com/morluto/rea/tree/main/skills/reverse-engineer-anything)** - Reverse-engineer binaries, applications, and runtimes with REA
 
+- **[xiehuan123/dsh-deepread](https://github.com/xiehuan123/dsh-deepread/tree/main/skills/dsh-deepread)** - Deep-reading skill with five modes (quick, deep, knowledge-map, Feynman, full book): claim-evidence-data reports with four confidence levels, batch comparison, budget preflight, and MD/FreeMind/HTML exports
+
 </details>
 
 <details>
