@@ -1895,6 +1895,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Orkas-AI/video-router](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills/video-router)** - Route video requests through deterministic agent production stages
 - **[ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills)** - Agent skills for YouTube: pull video transcripts and discover videos (search, channel and playlist listings) via TranscriptAPI.
 - **[morluto/rea](https://github.com/morluto/rea/tree/main/skills/reverse-engineer-anything)** - Reverse-engineer binaries, applications, and runtimes with REA
+- **[AgentTanuki/agent-guild-trust](https://github.com/AgentTanuki/agent-guild/tree/main/skills/agent-guild-trust)** - Verifies agent trust evidence before delegation or payment.
 
 </details>
 
