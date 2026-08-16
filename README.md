@@ -73,7 +73,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Resend](#skills-by-resend) | [Addy Osmani (Web Quality)](#skills-by-addy-osmani-web-quality) | [MongoDB](#skills-by-mongodb) | [Kim Barrett (Advertising)](#advertising-skills-by-kim-barrett) |
 | [Apollo GraphQL](#skills-by-apollo-graphql) | [Auth0](#skills-by-auth0) | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) |
 | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) |
-| [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) | [Red Hat](#skills-by-redhat) | [Community](#community-skills) |
+| [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) | [Red Hat](#skills-by-redhat) | [PALAN-K](#skills-by-palan-k) |
 | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) | [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |
 
 
@@ -128,6 +128,13 @@ Official skills by VoltAgent for building AI agents with the VoltAgent TypeScrip
 - **[voltagent/voltagent-best-practices](https://officialskills.sh/voltagent/skills/voltagent-best-practices)** - Architecture and usage patterns for agents, workflows, memory, and servers
 - **[voltagent/voltagent-core-reference](https://officialskills.sh/voltagent/skills/voltagent-core-reference)** - Reference for the VoltAgent class options and lifecycle methods
 - **[voltagent/voltagent-docs-bundle](https://officialskills.sh/voltagent/skills/voltagent-docs-bundle)** - Lookup embedded docs from @voltagent/core for version-matched documentation
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by PALAN-K</h3></summary>
+
+- **[palank/wiki-manager](https://github.com/PALAN-K/llm-wiki-loop)** - Production framework for self-improving LLM knowledge vaults with mechanical evidence linting, 0-hallucination checks, and multi-agent 1-click injection
 
 </details>
 
