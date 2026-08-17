@@ -1908,6 +1908,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[czlonkowski/n8n-node-configuration](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-node-configuration)** - Node configuration with dependency rules and AI connections
 - **[czlonkowski/n8n-validation-expert](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-validation-expert)** - Fix n8n validation errors with error catalog
 - **[czlonkowski/n8n-workflow-patterns](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-workflow-patterns)** - Workflow patterns for webhook, HTTP, database, and AI tasks
+- **[baytcho/spider-dead-code-skill](https://github.com/baytcho/spider-dead-code-skill)** - Finds the code a project does not need and proves it. Splits the codebase into individual statements, starts at the entry points and follows the links, so whatever the execution never reaches is reported with its exact file and lines. Python, TypeScript, JavaScript and CSS in one model; a name assembled at runtime is never declared unused.
 
 </details>
 
