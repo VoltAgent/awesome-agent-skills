@@ -75,6 +75,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) |
 | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) | [Red Hat](#skills-by-redhat) | [Community](#community-skills) |
 | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) | [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |
+| [Zinc](#skills-by-zinc) | | | |
 
 
 
@@ -1649,6 +1650,13 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[cypress-io/cypress-author](https://github.com/cypress-io/ai-toolkit/tree/main/skills/cypress-author)** - Creates, updates, and fixes Cypress E2E and component tests.
 - **[cypress-io/cypress-explain](https://github.com/cypress-io/ai-toolkit/tree/main/skills/cypress-explain)** - Explains Cypress E2E and component tests, and answers questions about Cypress use and behavior. 
 - **[cypress-io/cypress-docs](https://github.com/cypress-io/ai-toolkit/tree/main/skills/cypress-docs)** - Search and extract Cypress information from official documentation.
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Zinc</h3></summary>
+
+- **[zincio/universal-checkout](https://github.com/zincio/skills)** - Discover, buy, track, and return products across Amazon, Walmart, Target, and 50+ US retailers via the Zinc API
 
 </details>
 
