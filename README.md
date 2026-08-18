@@ -1912,6 +1912,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[GarethManning/competency-unpacker](https://github.com/GarethManning/education-agent-skills/tree/main/skills/curriculum-assessment/competency-unpacker)** - Unpacks broad competencies into assessable sub-skills and success criteria
 - **[ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills)** - Agent skills for YouTube: pull video transcripts and discover videos (search, channel and playlist listings) via TranscriptAPI.
 - **[morluto/rea](https://github.com/morluto/rea/tree/main/skills/reverse-engineer-anything)** - Reverse-engineer binaries, applications, and runtimes with REA
+- **[ChuYiCui1/asharehub-market-data](https://github.com/ChuYiCui1/AshareHub-skills/tree/main/skills/en)** - Query Chinese A-share and ETF market data via API
 
 </details>
 
