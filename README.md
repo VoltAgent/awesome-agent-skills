@@ -1688,6 +1688,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Vladimir-Human/humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru)** - Removes AI-writing markers from Russian text
 - **[Bomx/distribb-skill](https://github.com/Bomx/distribb-skill)** - SEO articles, keyword research, CMS publishing, high-DR backlink exchange
 - **[AIDevGTM/gtm-cofounder](https://github.com/AIDevGTM/gtm-cofounder)** - 18 go-to-market skills for solo technical founders: positioning, first users, launch, pricing, and founder-led sales; grounded in Adam Frankl and Jakub Czakon
+- **[converlyio/converly-agent](https://github.com/converlyio/converly-agent)** - Server-side conversion tracking setup for Google Ads, Meta, GA4, LinkedIn, TikTok and more. Connects the ad platform, builds and publishes the conversion flow, installs the tracking snippet, and verifies real conversions through the Converly CLI
 
 </details>
 
