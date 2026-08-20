@@ -1742,6 +1742,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[zapier/zapier-mcp](https://github.com/zapier/zapier-mcp)** - Official plugin distribution for the hosted Zapier MCP server. Connects Claude to thousands of apps — send messages, pull data, trigger workflows.
 - **[Neeeophytee/finding-unknowns-skills](https://github.com/Neeeophytee/finding-unknowns-skills)** - 8 meta-skills that make a coding agent surface your unknowns before they get expensive: blindspot pass, interview, reference hunt, implementation plan/notes, pitch packager, and a pre-merge change quiz. Works in Claude Code, Codex, and Cursor via the agentskills.io SKILL.md format
 - **[kgraph57/strategy-consulting-visualization](https://github.com/kgraph57/mckinsey-style-visualization-skill)** - McKinsey-style charts and consulting slide decks
+- **[davertor/take-notes](https://github.com/davertor/take-notes)** - Turns a video, article, arXiv paper, or GitHub repo into a self-contained HTML study note, with a gallery, tag vocabulary, and Markdown/Anki export
 
 </details>
 
