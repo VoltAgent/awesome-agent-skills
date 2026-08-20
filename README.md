@@ -1846,6 +1846,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[stjbrown/agent-knowledge](https://github.com/stjbrown/agent-knowledge)** - Maintains portable, cited agent knowledge bases in plain Markdown
 - **[khendzel/skills-janitor](https://github.com/khendzel/skills-janitor)** - Token audit, usage tracking, and swipe-to-delete skill pruning.
 - **[oliver-zehentleitner/keep-the-why](https://github.com/oliver-zehentleitner/keep-the-why)** - Preserves the reasoning behind a codebase — decisions, workarounds, rejected alternatives
+- **[thousandflowers/skillreaper](https://github.com/thousandflowers/skillreaper)** - Prunes unused skills, MCP servers, and subagents from transcript evidence
 
 </details>
 
