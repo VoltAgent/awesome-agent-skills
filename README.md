@@ -1846,6 +1846,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[stjbrown/agent-knowledge](https://github.com/stjbrown/agent-knowledge)** - Maintains portable, cited agent knowledge bases in plain Markdown
 - **[khendzel/skills-janitor](https://github.com/khendzel/skills-janitor)** - Token audit, usage tracking, and swipe-to-delete skill pruning.
 - **[oliver-zehentleitner/keep-the-why](https://github.com/oliver-zehentleitner/keep-the-why)** - Preserves the reasoning behind a codebase — decisions, workarounds, rejected alternatives
+- **[chrono-meta/context-doctor](https://github.com/chrono-meta/forge-harness/tree/main/plugins/fh-meta/skills/context-doctor)** - Generates .claudeignore and flags context bloat before it costs tokens
 
 </details>
 
