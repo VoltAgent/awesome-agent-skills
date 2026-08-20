@@ -75,7 +75,8 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Apollo GraphQL](#skills-by-apollo-graphql) | [Auth0](#skills-by-auth0) | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) |
 | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) |
 | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) | [Red Hat](#skills-by-redhat) | [Community](#community-skills) |
-| [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) | [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |
+| [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) | [Google Cloud](#skills-by-google-cloud) | [Beatra](#skills-by-beatra) |
+| [Quality Standards](#skill-quality-standards) | | | |
 
 
 
@@ -1257,6 +1258,105 @@ Official skills from the Flutter team covering layouts, state, navigation, nativ
 - **[MiniMax-AI/minimax-docx](https://officialskills.sh/MiniMax-AI/skills/minimax-docx)** - Professional DOCX document creation and editing using OpenXML SDK
 
 </details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Beatra</h3></summary>
+
+Official Beatra skills for AI image, video, music, and voice generation, plus social and ecommerce creative workflows. Public source: [beatra-ai/beatra-skills](https://github.com/beatra-ai/beatra-skills).
+
+- **[beatra-ai/beatra](https://github.com/beatra-ai/beatra-skills/tree/main/skills/beatra)** - Create AI images, videos, music, and voice
+- **[beatra-ai/beatra-ai-image-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/beatra-ai-image-studio)** - Generate and edit product and brand images
+- **[beatra-ai/beatra-ai-video-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/beatra-ai-video-studio)** - Generate, edit, and extend short AI videos
+- **[beatra-ai/beatra-ai-music-creator](https://github.com/beatra-ai/beatra-skills/tree/main/skills/beatra-ai-music-creator)** - Create songs, instrumentals, BGM, and soundtracks
+- **[beatra-ai/beatra-ai-voice-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/beatra-ai-voice-studio)** - Create narration, dubbing, and custom voices
+- **[beatra-ai/ai-audiobook-narration](https://github.com/beatra-ai/beatra-skills/tree/main/skills/ai-audiobook-narration)** - Narrate a manuscript into ordered chapter audio
+- **[beatra-ai/ai-comic-drama-shot-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/ai-comic-drama-shot-maker)** - Animate a comic panel into a drama shot
+- **[beatra-ai/ai-headshot-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/ai-headshot-studio)** - Turn selfies into professional studio headshots
+- **[beatra-ai/ai-image-generation-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/ai-image-generation-studio)** - Generate, compose, and edit marketing images
+- **[beatra-ai/ai-image-realism](https://github.com/beatra-ai/beatra-skills/tree/main/skills/ai-image-realism)** - Retouch AI images to look more natural
+- **[beatra-ai/ai-logo-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/ai-logo-maker)** - Create professional logos and brand marks
+- **[beatra-ai/ai-multilingual-dubbing](https://github.com/beatra-ai/beatra-skills/tree/main/skills/ai-multilingual-dubbing)** - Create reviewable multilingual voice-over audio
+- **[beatra-ai/ai-music-video-clip-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/ai-music-video-clip-maker)** - Create a short music-video clip from a song
+- **[beatra-ai/ai-photo-cleanup-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/ai-photo-cleanup-studio)** - Remove objects and restore matching backgrounds
+- **[beatra-ai/ai-photo-restyler](https://github.com/beatra-ai/beatra-skills/tree/main/skills/ai-photo-restyler)** - Restyle photos into anime, comic, or 3D
+- **[beatra-ai/ai-podcast-voiceover](https://github.com/beatra-ai/beatra-skills/tree/main/skills/ai-podcast-voiceover)** - Turn notes or a script into a podcast
+- **[beatra-ai/ai-short-drama-shot-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/ai-short-drama-shot-maker)** - Generate one cinematic vertical micro-drama shot
+- **[beatra-ai/ai-song-cover-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/ai-song-cover-studio)** - Reimagine a reference song as a new cover
+- **[beatra-ai/ai-storyboard-generator](https://github.com/beatra-ai/beatra-skills/tree/main/skills/ai-storyboard-generator)** - Turn a script into a shot list and frames
+- **[beatra-ai/ai-video-continuation](https://github.com/beatra-ai/beatra-skills/tree/main/skills/ai-video-continuation)** - Continue a clip before or after its action
+- **[beatra-ai/ai-video-image-music-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/ai-video-image-music-studio)** - Create video, images, music, and voice together
+- **[beatra-ai/ai-video-restyler](https://github.com/beatra-ai/beatra-skills/tree/main/skills/ai-video-restyler)** - Restyle a short video into a new look
+- **[beatra-ai/bilibili-publishing-pack](https://github.com/beatra-ai/beatra-skills/tree/main/skills/bilibili-publishing-pack)** - Write Bilibili titles, descriptions, and tags
+- **[beatra-ai/bilibili-thumbnail-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/bilibili-thumbnail-maker)** - Create Bilibili video thumbnails with a hook
+- **[beatra-ai/bilibili-video-storyboard](https://github.com/beatra-ai/beatra-skills/tree/main/skills/bilibili-video-storyboard)** - Plan Bilibili videos with chapter storyboards
+- **[beatra-ai/comment-voc-miner](https://github.com/beatra-ai/beatra-skills/tree/main/skills/comment-voc-miner)** - Mine comments for objections, FAQs, and hooks
+- **[beatra-ai/cover-performance-preflight](https://github.com/beatra-ai/beatra-skills/tree/main/skills/cover-performance-preflight)** - Review covers and produce improved variants
+- **[beatra-ai/creator-account-teardown](https://github.com/beatra-ai/beatra-skills/tree/main/skills/creator-account-teardown)** - Diagnose a creator account's positioning and gaps
+- **[beatra-ai/douyin-cover-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/douyin-cover-maker)** - Create vertical Douyin short-video covers
+- **[beatra-ai/douyin-data-brief](https://github.com/beatra-ai/beatra-skills/tree/main/skills/douyin-data-brief)** - Turn Douyin links or keywords into a brief
+- **[beatra-ai/douyin-live-commerce-visual-kit](https://github.com/beatra-ai/beatra-skills/tree/main/skills/douyin-live-commerce-visual-kit)** - Build Douyin live-commerce visual kits
+- **[beatra-ai/douyin-ugc-ad-creator](https://github.com/beatra-ai/beatra-skills/tree/main/skills/douyin-ugc-ad-creator)** - Create vertical Douyin UGC product ads
+- **[beatra-ai/douyin-video-script-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/douyin-video-script-maker)** - Write ready-to-film Douyin short-video scripts
+- **[beatra-ai/ecommerce-detail-module-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/ecommerce-detail-module-studio)** - Create coordinated ecommerce detail modules
+- **[beatra-ai/ecommerce-listing-image-set](https://github.com/beatra-ai/beatra-skills/tree/main/skills/ecommerce-listing-image-set)** - Build cohesive ecommerce listing image sets
+- **[beatra-ai/first-last-frame-video](https://github.com/beatra-ai/beatra-skills/tree/main/skills/first-last-frame-video)** - Interpolate a clip between two approved frames
+- **[beatra-ai/hot-topic-content-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/hot-topic-content-maker)** - Turn a trending topic into a full post pack
+- **[beatra-ai/image-to-motion](https://github.com/beatra-ai/beatra-skills/tree/main/skills/image-to-motion)** - Animate a still image into directed video
+- **[beatra-ai/influencer-fit-analyzer](https://github.com/beatra-ai/beatra-skills/tree/main/skills/influencer-fit-analyzer)** - Shortlist influencers against a brief and budget
+- **[beatra-ai/ip-character-consistency-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/ip-character-consistency-studio)** - Build consistent character sheets and poses
+- **[beatra-ai/live-commerce-script-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/live-commerce-script-studio)** - Write minute-by-minute live selling talk tracks
+- **[beatra-ai/marketplace-main-image-preflight](https://github.com/beatra-ai/beatra-skills/tree/main/skills/marketplace-main-image-preflight)** - Review and clean marketplace main images
+- **[beatra-ai/minimax-h3-ai-video](https://github.com/beatra-ai/beatra-skills/tree/main/skills/minimax-h3-ai-video)** - Create polished 2K AI videos from briefs
+- **[beatra-ai/music-generation-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/music-generation-studio)** - Create songs, instrumentals, BGM, and soundtracks
+- **[beatra-ai/novel-promo-video-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/novel-promo-video-maker)** - Turn a story chapter into narrated promo scenes
+- **[beatra-ai/oral-seeding-video-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/oral-seeding-video-maker)** - Make a narrated vertical recommendation video
+- **[beatra-ai/personalized-song-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/personalized-song-maker)** - Write and generate a song for one person
+- **[beatra-ai/photo-singing-video](https://github.com/beatra-ai/beatra-skills/tree/main/skills/photo-singing-video)** - Animate a portrait singing a short excerpt
+- **[beatra-ai/poster-design-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/poster-design-studio)** - Design event posters and promotional graphics
+- **[beatra-ai/product-on-model-locale-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/product-on-model-locale-studio)** - Create localized on-model apparel product images
+- **[beatra-ai/product-photo-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/product-photo-studio)** - Turn product photos into studio ecommerce shots
+- **[beatra-ai/product-video-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/product-video-studio)** - Turn a product photo into a narrated video
+- **[beatra-ai/publish-preflight-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/publish-preflight-studio)** - Review copy for compliance, hooks, and audience
+- **[beatra-ai/rednote-beauty-note-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/rednote-beauty-note-maker)** - Create Xiaohongshu beauty and skincare notes
+- **[beatra-ai/rednote-carousel-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/rednote-carousel-maker)** - Build Xiaohongshu carousel notes with a hook
+- **[beatra-ai/rednote-cover-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/rednote-cover-maker)** - Create vertical Xiaohongshu note covers
+- **[beatra-ai/rednote-food-note-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/rednote-food-note-maker)** - Create Xiaohongshu food and restaurant notes
+- **[beatra-ai/rednote-local-business-note-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/rednote-local-business-note-maker)** - Create Xiaohongshu local-business notes
+- **[beatra-ai/rednote-note-copywriter](https://github.com/beatra-ai/beatra-skills/tree/main/skills/rednote-note-copywriter)** - Write Xiaohongshu titles, body, and hashtags
+- **[beatra-ai/rednote-ootd-lookbook-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/rednote-ootd-lookbook-maker)** - Create Xiaohongshu OOTD lookbook notes
+- **[beatra-ai/short-form-voiceover-audio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/short-form-voiceover-audio)** - Create ready-to-edit short-video voiceover audio
+- **[beatra-ai/short-video-bgm-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/short-video-bgm-studio)** - Generate original instrumental tracks for footage
+- **[beatra-ai/suno-lyrics-to-song](https://github.com/beatra-ai/beatra-skills/tree/main/skills/suno-lyrics-to-song)** - Turn lyrics into a structured Suno song
+- **[beatra-ai/talking-avatar-video](https://github.com/beatra-ai/beatra-skills/tree/main/skills/talking-avatar-video)** - Turn a portrait and script into a presenter
+- **[beatra-ai/talking-pet-video](https://github.com/beatra-ai/beatra-skills/tree/main/skills/talking-pet-video)** - Animate a pet photo into a talking clip
+- **[beatra-ai/taobao-main-video-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/taobao-main-video-maker)** - Create Taobao product main-image videos
+- **[beatra-ai/tiktok-shop-product-video-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/tiktok-shop-product-video-maker)** - Create TikTok Shop product-video scripts and copy
+- **[beatra-ai/video-generation-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/video-generation-studio)** - Generate, animate, edit, and extend short videos
+- **[beatra-ai/video-realism-retoucher](https://github.com/beatra-ai/beatra-skills/tree/main/skills/video-realism-retoucher)** - Polish AI video for more natural realism
+- **[beatra-ai/viral-video-teardown-remake](https://github.com/beatra-ai/beatra-skills/tree/main/skills/viral-video-teardown-remake)** - Break down a viral video and remake it
+- **[beatra-ai/voice-cloning-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/voice-cloning-studio)** - Create a reusable personal or brand voice
+- **[beatra-ai/voiceover-narration-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/voiceover-narration-studio)** - Turn scripts into ready-to-edit narration
+- **[beatra-ai/wechat-article-visual-pack](https://github.com/beatra-ai/beatra-skills/tree/main/skills/wechat-article-visual-pack)** - Build a WeChat article cover and image set
+- **[beatra-ai/wechat-article-visual-story](https://github.com/beatra-ai/beatra-skills/tree/main/skills/wechat-article-visual-story)** - Write a WeChat article with matching visuals
+- **[beatra-ai/wechat-channels-cover-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/wechat-channels-cover-maker)** - Create WeChat Channels video covers
+- **[beatra-ai/wechat-channels-product-video](https://github.com/beatra-ai/beatra-skills/tree/main/skills/wechat-channels-product-video)** - Make WeChat Channels product showcase videos
+- **[beatra-ai/wechat-channels-script-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/wechat-channels-script-studio)** - Write WeChat Channels short-video selling scripts
+- **[beatra-ai/wechat-cover-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/wechat-cover-maker)** - Create WeChat Official Account article covers
+- **[beatra-ai/wechat-moments-poster-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/wechat-moments-poster-maker)** - Create share-ready WeChat Moments campaign posters
+- **[beatra-ai/xiaohongshu-note-research](https://github.com/beatra-ai/beatra-skills/tree/main/skills/xiaohongshu-note-research)** - Research Xiaohongshu title patterns and angles
+- **[beatra-ai/youtube-caption-studio](https://github.com/beatra-ai/beatra-skills/tree/main/skills/youtube-caption-studio)** - Turn a YouTube transcript into a remake script
+- **[beatra-ai/youtube-thumbnail-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/youtube-thumbnail-maker)** - Create YouTube thumbnails in three directions
+- **[beatra-ai/zhongcao-beauty-note-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/zhongcao-beauty-note-maker)** - Create beauty notes for Japanese Xiaohongshu
+- **[beatra-ai/zhongcao-carousel-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/zhongcao-carousel-maker)** - Build Xiaohongshu carousels for Japanese audiences
+- **[beatra-ai/zhongcao-cover-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/zhongcao-cover-maker)** - Create Xiaohongshu covers for Japanese audiences
+- **[beatra-ai/zhongcao-food-note-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/zhongcao-food-note-maker)** - Create food notes for Japanese Xiaohongshu
+- **[beatra-ai/zhongcao-local-business-note-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/zhongcao-local-business-note-maker)** - Create local-business notes for Japanese Xiaohongshu
+- **[beatra-ai/zhongcao-note-copywriter](https://github.com/beatra-ai/beatra-skills/tree/main/skills/zhongcao-note-copywriter)** - Write Xiaohongshu copy for Japanese audiences
+- **[beatra-ai/zhongcao-ootd-lookbook-maker](https://github.com/beatra-ai/beatra-skills/tree/main/skills/zhongcao-ootd-lookbook-maker)** - Create OOTD lookbooks for Japanese Xiaohongshu
+
+</details>
+
+
 
 <details>
 <summary><h3 style="display:inline">Skills by DuckDB</h3></summary>
