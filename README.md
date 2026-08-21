@@ -1821,6 +1821,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills)** - Agent orchestration, code review grading, AI eval, creator tooling skills.
 - **[superdesigndev/superdesign-skill](https://github.com/superdesigndev/superdesign-skill)** - Creates design systems from existing codebases and iterates UI drafts
 - **[Ryan-yang125/motion-lexicon](https://github.com/Ryan-yang125/motion-lexicon/tree/main/skills/motion-lexicon)** - Build and review product motion with installable React components
+- **[sdshah09/amazon-design-doc](https://github.com/sdshah09/design-doc-agent-skill)** - Write and review design docs in Amazon's format
 
 </details>
 
