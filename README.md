@@ -1823,6 +1823,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[superdesigndev/superdesign-skill](https://github.com/superdesigndev/superdesign-skill)** - Creates design systems from existing codebases and iterates UI drafts
 - **[Ryan-yang125/motion-lexicon](https://github.com/Ryan-yang125/motion-lexicon/tree/main/skills/motion-lexicon)** - Build and review product motion with installable React components
 - **[aeonfun/aeon](https://github.com/aeonfun/aeon)** - 70+ Claude Code skills + autonomous GitHub Actions agent framework
+- **[lindblomstefan/skills-library](https://github.com/lindblomstefan/skills-library)** - Guided discovery skill for Claude Code: runs an interview to recommend from a catalog of 100+ AI skills; records session feedback that validates candidates over time
 
 </details>
 
