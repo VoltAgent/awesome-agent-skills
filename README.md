@@ -1663,6 +1663,20 @@ Official skills published by Cypress to help create, maintain, understand, and f
 ### Community Skills
 
 <details>
+<summary><h3 style="display:inline">Goal Management & Planning</h3></summary>
+
+- **[Kaiji-Z/find-my-goal](https://github.com/Kaiji-Z/find-my-goal)** - Zero-barrier /goal drafter: turns vague wishes into strong goals with executable acceptance criteria, scope, iteration budget and stop conditions via multiple-choice Q&A (bilingual 中文/EN)
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Health & Fitness</h3></summary>
+
+- **[Kaiji-Z/kaiji-fitness-coach](https://github.com/Kaiji-Z/kaiji-fitness-coach)** - Full-cycle AI fitness coach built on free-exercise-db (800+ exercises): training plans, exercise tutorials, data analysis, nutrition guidance, periodization
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Vector Databases</h3></summary>
 
 - **[qdrant/skills](https://github.com/qdrant/skills)** - Agent skills for Qdrant vector search, covering scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, .NET, and Java
