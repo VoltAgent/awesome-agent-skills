@@ -1744,6 +1744,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[kgraph57/strategy-consulting-visualization](https://github.com/kgraph57/mckinsey-style-visualization-skill)** - McKinsey-style charts and consulting slide decks
 
 </details>
+- **[bam-bam-2/solo-skills](https://github.com/bam-bam-2/solo-skills)** - 15 skills a solo founder actually runs daily: product demo videos without screen recording, markdown-to-book PDF/EPUB, meeting transcript to Notion minutes, KakaoTalk CLI messaging, Naver blog writing, and reply-voice reverse-engineering. Korea-focused tools, failure modes documented alongside working paths
 
 <details>
 <summary><h3 style="display:inline">Development and Testing</h3></summary>
