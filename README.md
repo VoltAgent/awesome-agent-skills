@@ -1824,6 +1824,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[superdesigndev/superdesign-skill](https://github.com/superdesigndev/superdesign-skill)** - Creates design systems from existing codebases and iterates UI drafts
 - **[Ryan-yang125/motion-lexicon](https://github.com/Ryan-yang125/motion-lexicon/tree/main/skills/motion-lexicon)** - Build and review product motion with installable React components
 - **[aeonfun/aeon](https://github.com/aeonfun/aeon)** - 70+ Claude Code skills + autonomous GitHub Actions agent framework
+- **[Kaiji-Z/stop-manual-testing](https://github.com/Kaiji-Z/stop-manual-testing)** - Stop manually testing AI agents: diagnoses project verifiability, then builds a machine-checkable verification system (regression suite, two-layer judge, GATE compliance mechanism) so the agent self-verifies and converges in a closed loop
 
 </details>
 
