@@ -1909,6 +1909,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[morluto/rea](https://github.com/morluto/rea/tree/main/skills/reverse-engineer-anything)** - Reverse-engineer binaries, applications, and runtimes with REA
 - **[apitube/news-api-skills](https://github.com/apitube/news-api-skills)** - Search worldwide news by keyword, entity, sentiment, source, date
 - **[zincio/universal-checkout](https://github.com/zincio/skills/tree/master/skills/universal-checkout)** - Official Zinc API (zinc.com) checkout across 50+ US retailers
+- **[dylnbaker15/claude-skills-for-business-intelligence](https://github.com/dylnbaker15/claude-skills-for-business-intelligence)** - Certified business intelligence: the honest-dataviz charting skill plus a ten-principle doctrine; charts read at a glance, survive a colour-blind reviewer, and never imply more certainty than the data has
 
 </details>
 
