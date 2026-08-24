@@ -1788,6 +1788,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Joannis/claude-skills](https://github.com/Joannis/claude-skills)** - Swift Server development guidance with linting tool for best practices
 - **[rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)** - Automate App Store deployments and management using ASC CLI
 - **[rameerez/claude-code-startup-skills](https://github.com/rameerez/claude-code-startup-skills)** - Skills for building and running software startups, apps, and SaaS
+- **[mr-neutr0n/bounty-harness](https://github.com/Mr-Neutr0n/bounty-harness)** - Agentic bug bounty harness: 46 skill packages (recon, web/API testing, CI/CD, GraphQL, identity infra) behind a thin CLI with safety tiers, scope guardrails, and impact-verification gates before reporting
 - **[zscole/model-hierarchy-skill](https://github.com/zscole/model-hierarchy-skill)** - Cost-optimized model routing based on task complexity
 - **[CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills)** - Three.js skills for creating 3D elements and interactive experiences
 - **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** - High-agency frontend skill that gives AI good taste with tunable design variance, motion intensity, and visual density to stop generic UI slop
