@@ -1910,7 +1910,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[morluto/rea](https://github.com/morluto/rea/tree/main/skills/reverse-engineer-anything)** - Reverse-engineer binaries, applications, and runtimes with REA
 - **[apitube/news-api-skills](https://github.com/apitube/news-api-skills)** - Search worldwide news by keyword, entity, sentiment, source, date
 - **[zincio/universal-checkout](https://github.com/zincio/skills/tree/master/skills/universal-checkout)** - Official Zinc API (zinc.com) checkout across 50+ US retailers
-- **[1102tools/federal-contracting-skills](https://github.com/1102tools-dev/federal-contracting-skills/tree/main/skills)** - Federal acquisition workflows for research, SOW/PWS, IGCE, policy, and OTs
+- **[1102tools-dev/federal-contracting-skills](https://github.com/1102tools-dev/federal-contracting-skills/tree/main/skills)** - Federal acquisition workflows for research, SOW/PWS, IGCE, policy, and OTs
 
 </details>
 
