@@ -1666,6 +1666,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 <details>
 <summary><h3 style="display:inline">Vector Databases</h3></summary>
 
+- **[artemchuikin/youtube-skills](https://github.com/artemchuikin/youtube-skills)** - 12 skills for YouTube transcripts in five formats, video and channel search, playlists, and 4,000-video batch jobs through a hosted API with a free tier
 - **[qdrant/skills](https://github.com/qdrant/skills)** - Agent skills for Qdrant vector search, covering scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, .NET, and Java
 
 </details>
