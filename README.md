@@ -1751,6 +1751,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 <details>
 <summary><h3 style="display:inline">Development and Testing</h3></summary>
+- **[blakee-marcus/tailwindcss-skill](https://github.com/blakee-marcus/tailwindcss-skill)** - Tailwind CSS v4: version-aware implementation, migration, debugging, and verification. Detects installed version/build pipeline before editing and verifies emitted CSS.
 
 - **[hedralab/eskill](https://github.com/hedralab/eskill)** - Meta-skill to build top-tier Agent Skills: spec-compliant SKILL.md, eval loop, validator, market research, numbered-file pipeline
 - **[robzolkos/skill-rails-upgrade](https://github.com/robzolkos/skill-rails-upgrade)** - Analyze Rails apps and provide upgrade assessments
