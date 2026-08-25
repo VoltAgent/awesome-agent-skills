@@ -1944,6 +1944,7 @@ Recommended tools:
 
 - [Synk Skill Security Scanner](https://github.com/snyk/agent-scan)
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
+- [skill-audit](https://github.com/FrankFu916/skill-audit) — zero-dependency CLI that statically audits SKILL.md packages for prompt injection, credential exfiltration, destructive commands, and spec violations before you install them (`npx @frankfu0916/skill-audit ~/.claude/skills`)
 
 Agent skills can include prompt injections, tool poisoning, hidden malware payloads, or unsafe data handling patterns. Always review the code and use skills at your own discretion.
 
