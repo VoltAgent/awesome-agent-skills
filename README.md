@@ -1833,6 +1833,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[aeonfun/aeon](https://github.com/aeonfun/aeon)** - 70+ Claude Code skills + autonomous GitHub Actions agent framework
 - **[KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template)** - Plan MVPs into PRD, tech design, and AGENTS.md
 - **[lindblomstefan/skills-library](https://github.com/lindblomstefan/skills-library)** - Guided discovery skill for Claude Code: runs an interview to recommend from a catalog of 100+ AI skills; records session feedback that validates candidates over time
+- **[Kaiji-Z/stop-manual-testing](https://github.com/Kaiji-Z/stop-manual-testing)** - Stop manually testing AI agents: diagnoses project verifiability, then builds a machine-checkable verification system (regression suite, two-layer judge, GATE compliance mechanism) so the agent self-verifies and converges in a closed loop
 
 </details>
 
