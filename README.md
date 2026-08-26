@@ -1870,6 +1870,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 </details>
 
 <details>
+- **[263311487-ux/falsify](https://github.com/263311487-ux/falsify)** - The scientific thinking protocol for AI agents: axioms → hypothesis → adversarial test → evidence → calibrated verdict; stops agents from giving confident answers they cannot falsify (28 evals, works with 20+ agents, npm: falsify-skill)
 <summary><h3 style="display:inline">Specialized Domains</h3></summary>
 
 - **[shouldnotappearcalm/a-share-skill](https://github.com/shouldnotappearcalm/a-share-skill)** - China A-share (Shanghai/Shenzhen) skills: real-time quotes, K-line history, technical indicators, events, capital flows, sector heatmaps, and paper trading. Works with Claude Code, Cursor, Codex, and Qoder
