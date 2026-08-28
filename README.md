@@ -1664,6 +1664,13 @@ Official skills published by Cypress to help create, maintain, understand, and f
 ### Community Skills
 
 <details>
+<summary><h3 style="display:inline">AI Platforms & MCP</h3></summary>
+
+- **[sandbaseai/cli](https://github.com/sandbaseai/cli/tree/main/skills/sandbase)** - Official SandBase Agent Skill and local MCP bridge for connecting supported clients to 2,000+ AI models and APIs
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Vector Databases</h3></summary>
 
 - **[qdrant/skills](https://github.com/qdrant/skills)** - Agent skills for Qdrant vector search, covering scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, .NET, and Java
