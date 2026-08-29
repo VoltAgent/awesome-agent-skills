@@ -1946,6 +1946,7 @@ Recommended tools:
 
 - [Synk Skill Security Scanner](https://github.com/snyk/agent-scan)
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
+- [skill-vet](https://github.com/ruslanlap/skill-vet) — static scanner for SKILL.md skill bundles: prompt injection, data exfiltration, credential harvesting, destructive commands; false-positive allowlist, GitHub Action + SARIF, also installable as an agent skill (Claude Code / Codex / Hermes).
 
 Agent skills can include prompt injections, tool poisoning, hidden malware payloads, or unsafe data handling patterns. Always review the code and use skills at your own discretion.
 
