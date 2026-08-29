@@ -1917,6 +1917,9 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[apitube/news-api-skills](https://github.com/apitube/news-api-skills)** - Search worldwide news by keyword, entity, sentiment, source, date
 - **[zincio/universal-checkout](https://github.com/zincio/skills/tree/master/skills/universal-checkout)** - Official Zinc API (zinc.com) checkout across 50+ US retailers
 - **[swaylq/humanize-chinese](https://github.com/swaylq/humanize-chinese)** - Detect and rewrite AI-generated Chinese text, fully offline, no LLM
+- **[ADWilkinson/usdctofiat-skills](https://github.com/ADWilkinson/usdctofiat-skills)** - Cash out Base USDC to bank rails
+- **[galleonlabs/sell-unused-tokens](https://github.com/galleonlabs/sell-unused-tokens)** - List leftover LLM credits for USDC
+- **[galleonlabs/hypergrok-trading-desk](https://github.com/galleonlabs/hypergrok-trading-desk)** - Seven-agent Hyperliquid trading desk
 
 </details>
 
