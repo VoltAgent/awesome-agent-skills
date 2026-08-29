@@ -1753,6 +1753,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 <summary><h3 style="display:inline">Development and Testing</h3></summary>
 
 - **[hedralab/eskill](https://github.com/hedralab/eskill)** - Meta-skill to build top-tier Agent Skills: spec-compliant SKILL.md, eval loop, validator, market research, numbered-file pipeline
+- **[claimidx/claimidx](https://github.com/claimidx/claimidx)** - Prior art for agents: query a signed claim index before retrying a failure; ingest the fix so the next agent does not pay twice
 - **[robzolkos/skill-rails-upgrade](https://github.com/robzolkos/skill-rails-upgrade)** - Analyze Rails apps and provide upgrade assessments
 - **[antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill)** - Terraform and OpenTofu patterns: testing, modules, state, CI/CD.
 - **[zxkane/aws-skills](https://github.com/zxkane/aws-skills)** - AWS development with infrastructure automation and cloud architecture patterns
