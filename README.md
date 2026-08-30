@@ -43,6 +43,7 @@ Compatible with Claude Code, Codex, Antigravity, Gemini CLI, Cursor, GitHub Copi
 The most contributed Agent Skills repository, built and maintained together with the community.
 
 
+- [memory-shield](https://github.com/vnbochkarev-netizen/memory-shield) - Defend agent memory against prompt-injection poisoning: snapshots before compaction, poisoned-content quarantine, masked secrets, diff audit (MIT, zero deps)
 ## 💛 Sponsors
 
 |  |  |
