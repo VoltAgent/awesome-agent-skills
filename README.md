@@ -1835,7 +1835,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[lindblomstefan/skills-library](https://github.com/lindblomstefan/skills-library)** - Guided discovery skill for Claude Code: runs an interview to recommend from a catalog of 100+ AI skills; records session feedback that validates candidates over time
 - **[scarletkc/agents](https://github.com/scarletkc/agents)** - Reusable standards and workflow skills for AI coding agents
 - **[dannwaneri/spec-writer](https://github.com/dannwaneri/spec-writer)** - Turns vague requests into spec, plan, and tasks
-- **[Hahaknight/claude-skills-pro](https://github.com/Hahaknight/claude-skills-pro)** - 15 engineering-workflow skills: 7-dimension PR review, root-cause debugging, mutation-checked test generation, safe DB migrations; 5 free under MIT
+- **[Hahaknight/claude-skills-pro](https://github.com/Hahaknight/claude-skills-pro)** - 15 engineering-workflow skills: 7-dimension PR review, root-cause debugging, mutation-checked test generation, safe DB migrations; 6 free under MIT
 
 </details>
 
