@@ -892,7 +892,7 @@ Official marketing skills by [Corey Haines](https://github.com/coreyhaines31), c
 - **[coreyhaines31/signup](https://github.com/coreyhaines31/marketingskills/tree/main/skills/signup)** - Optimize signup, registration, and trial activation flows for higher conversion
 - **[coreyhaines31/site-architecture](https://github.com/coreyhaines31/marketingskills/tree/main/skills/site-architecture)** - Plan and restructure page hierarchy, navigation, and URL structure
 - **[coreyhaines31/social](https://github.com/coreyhaines31/marketingskills/tree/main/skills/social)** - Create and schedule social media content for LinkedIn, Twitter/X, and Instagram
-
+- **[Abirhossainzozo/layerly-creatives](https://github.com/Abirhossainzozo/layerly-creatives)** - Design social media creatives, ads and flyers as layered editable PSDs with every element on its own layer
 </details>
 
 <details>
