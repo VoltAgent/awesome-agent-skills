@@ -1938,6 +1938,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[apitube/news-api-skills](https://github.com/apitube/news-api-skills)** - Search worldwide news by keyword, entity, sentiment, source, date
 - **[zincio/universal-checkout](https://github.com/zincio/skills/tree/master/skills/universal-checkout)** - Official Zinc API (zinc.com) checkout across 50+ US retailers
 - **[swaylq/humanize-chinese](https://github.com/swaylq/humanize-chinese)** - Detect and rewrite AI-generated Chinese text, fully offline, no LLM
+- **[mcccsm/x402-list-mcp](https://github.com/mcccsm/x402-list-mcp)** - Discover and verify x402 payment APIs before an agent pays
 
 </details>
 
