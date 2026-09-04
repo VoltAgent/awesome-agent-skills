@@ -908,6 +908,9 @@ Official marketing skills by [Corey Haines](https://github.com/coreyhaines31), c
 - **[coreyhaines31/signup](https://github.com/coreyhaines31/marketingskills/tree/main/skills/signup)** - Optimize signup, registration, and trial activation flows for higher conversion
 - **[coreyhaines31/site-architecture](https://github.com/coreyhaines31/marketingskills/tree/main/skills/site-architecture)** - Plan and restructure page hierarchy, navigation, and URL structure
 - **[coreyhaines31/social](https://github.com/coreyhaines31/marketingskills/tree/main/skills/social)** - Create and schedule social media content for LinkedIn, Twitter/X, and Instagram
+- **[Axel-freeman-marketing-framework/competitor-xray](https://github.com/Axel-freeman-marketing-framework/competitor-xray)** - Competitor research that ends in a weekly copy-list, not a report. Free methods only
+- **[Axel-freeman-marketing-framework/inbox-audit](https://github.com/Axel-freeman-marketing-framework/inbox-audit)** - Free DNS deliverability audit for any domain: SPF/DKIM/DMARC checks with paste-ready fixes
+- **[Axel-freeman-marketing-framework/agent-stack-starter](https://github.com/Axel-freeman-marketing-framework/agent-stack-starter)** - Self-hosted AI marketing stack in one evening: docker-compose, skills, scheduled jobs
 
 </details>
 
