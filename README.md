@@ -1685,6 +1685,15 @@ Official skills published by Cypress to help create, maintain, understand, and f
 ### Community Skills
 
 <details>
+<summary><h3 style="display:inline">Security & Penetration Testing</h3></summary>
+
+- **[wufufu770/skills](https://github.com/wufufu770/skills)** - Authorized security-testing arsenal: Tri-Ring parallel orchestration (discovery/attack/creative rings + arbitration gates) across Claude Code, Codex, opencode, and Pi; 31 mainline skills, CNVD/EduSRC report templates with evidence gates
+- **[wufufu770/prompt-skill](https://github.com/wufufu770/prompt-skill)** - Spec-generation skill system (shared kernel + 14 domain shells): turns a vague requirement into a workable, acceptance-testable engineering spec with EARS acceptance syntax, evidence gates, and behavior evals
+
+</details>
+
+
+<details>
 <summary><h3 style="display:inline">Vector Databases</h3></summary>
 
 - **[qdrant/skills](https://github.com/qdrant/skills)** - Agent skills for Qdrant vector search, covering scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, .NET, and Java
