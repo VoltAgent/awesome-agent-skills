@@ -1701,6 +1701,12 @@ Official skills published by Cypress to help create, maintain, understand, and f
 ### Community Skills
 
 <details>
+<summary><h3 style="display:inline">Health & Fitness</h3></summary>
+
+- **[Kyo-zmol/fitness-diet-planner-free](https://github.com/Kyo-zmol/fitness-diet-planner-free)** - Personalized weekly training + daily meal plans from body data, goals, diet preferences and equipment; deterministic calorie/macro engine, photo meal logging via agent vision (no API keys), progress-based adjustments. Works with Codex, Claude Code, Cursor.
+
+</details>
+<details>
 <summary><h3 style="display:inline">Vector Databases</h3></summary>
 
 - **[qdrant/skills](https://github.com/qdrant/skills)** - Agent skills for Qdrant vector search, covering scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, .NET, and Java
