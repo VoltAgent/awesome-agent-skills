@@ -1983,7 +1983,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 </details>
 
 
-
+- **[people-science-skills](https://github.com/rewardsdna/people-science-skills)** - Foundational agent skills for rigorous reasoning about people, work, organizations, HR, compensation, and talent decisions. Includes core reasoning, organizational behavior, compensation decisioning, and HR analytics.
 
 ## 🔒 Security Notice
 
