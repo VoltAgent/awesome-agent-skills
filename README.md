@@ -75,7 +75,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) |
 | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) |
 | [Red Hat](#skills-by-redhat) | [Community](#community-skills) | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) |
-| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |  |  |
+| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) | [WaveSpeedAI](#skills-by-wavespeedai) |  |
 
 
 
@@ -785,6 +785,26 @@ Domain-specific knowledge for Azure SDK and Microsoft AI Foundry development. 13
 - **[fal-ai-community/fal-video-edit](https://officialskills.sh/fal-ai-community/skills/fal-video-edit)** - Edit existing videos using AI — remix style, upscale, remove background, add audio
 - **[fal-ai-community/fal-vision](https://officialskills.sh/fal-ai-community/skills/fal-vision)** - Analyze images — segment objects, detect, OCR, describe, visual Q&A
 - **[fal-ai-community/fal-workflow](https://officialskills.sh/fal-ai-community/skills/fal-workflow)** - Generate workflow JSON files for chaining AI models
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by WaveSpeedAI</h3></summary>
+
+- **[WaveSpeedAI/wavespeed](https://github.com/WaveSpeedAI/agent-skills/tree/main/skills/wavespeed)** - Search, price, and run any WaveSpeed media model
+- **[WaveSpeedAI/wavespeed-seedream-45](https://github.com/WaveSpeedAI/agent-skills/tree/main/skills/wavespeed-seedream-45)** - Seedream 4.5 text-to-image and image editing
+- **[WaveSpeedAI/wavespeed-nano-banana-pro](https://github.com/WaveSpeedAI/agent-skills/tree/main/skills/wavespeed-nano-banana-pro)** - Nano Banana Pro image generation and editing, 4K
+- **[WaveSpeedAI/wavespeed-nano-banana-2](https://github.com/WaveSpeedAI/agent-skills/tree/main/skills/wavespeed-nano-banana-2)** - Nano Banana 2 image generation and editing
+- **[WaveSpeedAI/wavespeed-seedance-15-pro](https://github.com/WaveSpeedAI/agent-skills/tree/main/skills/wavespeed-seedance-15-pro)** - Seedance 1.5 Pro text-to-video and image-to-video
+- **[WaveSpeedAI/wavespeed-veo-31-fast](https://github.com/WaveSpeedAI/agent-skills/tree/main/skills/wavespeed-veo-31-fast)** - Veo 3.1 Fast text-to-video, image-to-video, extend
+- **[WaveSpeedAI/wavespeed-wan-26](https://github.com/WaveSpeedAI/agent-skills/tree/main/skills/wavespeed-wan-26)** - Wan 2.6 text-to-video and image-to-video
+- **[WaveSpeedAI/wavespeed-wan-22-animate](https://github.com/WaveSpeedAI/agent-skills/tree/main/skills/wavespeed-wan-22-animate)** - Wan 2.2 Animate character animation and replacement
+- **[WaveSpeedAI/wavespeed-infinitetalk-avatar](https://github.com/WaveSpeedAI/agent-skills/tree/main/skills/wavespeed-infinitetalk-avatar)** - Talking-head video from a portrait and audio
+- **[WaveSpeedAI/wavespeed-minimax-speech-26](https://github.com/WaveSpeedAI/agent-skills/tree/main/skills/wavespeed-minimax-speech-26)** - MiniMax Speech 2.6 text-to-speech
+- **[WaveSpeedAI/wavespeed-image-upscaler](https://github.com/WaveSpeedAI/agent-skills/tree/main/skills/wavespeed-image-upscaler)** - Upscale images to 2K, 4K, or 8K
+- **[WaveSpeedAI/wavespeed-ultimate-video-upscaler](https://github.com/WaveSpeedAI/agent-skills/tree/main/skills/wavespeed-ultimate-video-upscaler)** - Upscale videos up to 4K
+- **[WaveSpeedAI/wavespeed-face-swapper](https://github.com/WaveSpeedAI/agent-skills/tree/main/skills/wavespeed-face-swapper)** - Consented image and video face swap
+- **[WaveSpeedAI/wavespeed-watermark-remover](https://github.com/WaveSpeedAI/agent-skills/tree/main/skills/wavespeed-watermark-remover)** - Remove overlays from media you own
 
 </details>
 
