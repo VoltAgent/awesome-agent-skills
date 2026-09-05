@@ -75,7 +75,8 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) |
 | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) |
 | [Red Hat](#skills-by-redhat) | [Community](#community-skills) | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) |
-| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |  |  |
+| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |  
+| [people-science-skills](https://github.com/rewardsdna/people-science-skills)** - Foundational agent skills for rigorous reasoning about people, work, organizations, HR, compensation, and talent decisions. Includes core reasoning, organizational behavior, compensation decisioning, and HR analytics.|  |
 
 
 
@@ -1921,6 +1922,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 <details>
 <summary><h3 style="display:inline">Specialized Domains</h3></summary>
 
+
+- **[people-science-skills](https://github.com/rewardsdna/people-science-skills)** - Foundational agent skills for rigorous reasoning about people, work, organizations, HR, compensation, and talent decisions. Includes core reasoning, organizational behavior, compensation decisioning, and HR analytics.
 - **[shouldnotappearcalm/a-share-skill](https://github.com/shouldnotappearcalm/a-share-skill)** - China A-share (Shanghai/Shenzhen) skills: real-time quotes, K-line history, technical indicators, events, capital flows, sector heatmaps, and paper trading. Works with Claude Code, Cursor, Codex, and Qoder
 - **[transloadit/skills](https://github.com/transloadit/skills/tree/main/skills)** - Transloadit skill collection (6)
 - **[honeydew-ai/honeydew-ai-coding-agents-plugins](https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins)** - 11 skills for the Honeydew semantic layer over Snowflake, Databricks, and BigQuery: model exploration, entity/relation/attribute/metric/context/domain creation, validation, query, filtering, and workspace branching
@@ -1981,8 +1984,6 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[czlonkowski/n8n-workflow-patterns](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-workflow-patterns)** - Workflow patterns for webhook, HTTP, database, and AI tasks
 
 </details>
-
-
 
 
 ## 🔒 Security Notice
