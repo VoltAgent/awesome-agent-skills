@@ -1973,6 +1973,14 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 
 
+<details>
+<summary><h3 style="display:inline">WorkBuddy</h3></summary>
+
+- **[Awesome WorkBuddy](https://github.com/sandbaseai/awesome-workbuddy)** - Bilingual directory of Tencent WorkBuddy documentation, Skills, MCP integrations, workflows, and independently reviewed ecosystem resources.
+
+</details>
+
+
 ## 🔒 Security Notice
 
 Skills in this list are curated, not audited. They may be updated, modified, or replaced by their original maintainers at any time after being added here.
