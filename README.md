@@ -1908,6 +1908,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[khendzel/skills-janitor](https://github.com/khendzel/skills-janitor)** - Token audit, usage tracking, and swipe-to-delete skill pruning.
 - **[oliver-zehentleitner/keep-the-why](https://github.com/oliver-zehentleitner/keep-the-why)** - Preserves the reasoning behind a codebase — decisions, workarounds, rejected alternatives
 - **[chrono-meta/context-doctor](https://github.com/chrono-meta/forge-harness/tree/main/plugins/fh-meta/skills/context-doctor)** - Generates .claudeignore and flags context bloat before it costs tokens
+- **[chrono-meta/salience-splitter](https://github.com/chrono-meta/forge-harness/tree/main/plugins/fh-meta/skills/salience-splitter)** - Splits bloated CLAUDE.md or SKILL.md into resident and on-demand layers
 - **[thousandflowers/skillreaper](https://github.com/thousandflowers/skillreaper)** - Prunes unused skills, MCP servers, and subagents from transcript evidence
 - **[orziz/odai](https://github.com/orziz/odai/tree/main/skills/odai)** - Govern evidence, responsibility routing, safety boundaries, and verified delivery
 - **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** - Compresses and persists agent memory across sessions
