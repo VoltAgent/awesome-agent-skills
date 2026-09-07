@@ -1885,6 +1885,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Kayforkind/reimagine-it](https://github.com/Kayforkind/reimagine-it)** - Redesigns existing HTML pages from their own content
 - **[scarletkc/agents](https://github.com/scarletkc/agents)** - Reusable standards and workflow skills for AI coding agents
 
+- **[lebirationjia/ima-openapi-python](https://github.com/lebirationjia/ima-openapi-python)** - Work with Tencent IMA notes and wiki via pure Python
+
 </details>
 
 <details>
