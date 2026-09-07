@@ -1788,6 +1788,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[kgraph57/strategy-consulting-visualization](https://github.com/kgraph57/mckinsey-style-visualization-skill)** - McKinsey-style charts and consulting slide decks
 - **[vaibhavarora14/job-application-agent](https://github.com/vaibhavarora14/job-application-agent)** - Privacy-first job discovery and tracking
 
+- **[lebirationjia/surreal-pop-collage](https://github.com/lebirationjia/surreal-pop-collage)** - Turn photos into surreal pop collages with one impossible giant element
+
 </details>
 
 <details>
