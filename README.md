@@ -1833,6 +1833,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[efremidze/swift-patterns-skill](https://github.com/efremidze/swift-patterns-skill/tree/main/swift-patterns)** - Modern Swift/SwiftUI best practices
 - **[wendylabsinc/claude-skills](https://github.com/wendylabsinc/claude-skills)** - Swift Server development guidance with linting tool for best practices
 - **[rorkai/app-store-connect-cli-skills](https://github.com/rorkai/app-store-connect-cli-skills)** - Automate App Store deployments and management using ASC CLI
+- **[satan9394/dsh-personal-dev-workflow](https://github.com/satan9394/dsh-personal-dev-workflow)** - Lean bilingual personal development workflow skill with task cards
 - **[rameerez/claude-code-startup-skills](https://github.com/rameerez/claude-code-startup-skills)** - Skills for building and running software startups, apps, and SaaS
 - **[zscole/model-hierarchy-skill](https://github.com/zscole/model-hierarchy-skill)** - Cost-optimized model routing based on task complexity
 - **[CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills)** - Three.js skills for creating 3D elements and interactive experiences
