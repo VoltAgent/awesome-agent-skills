@@ -1719,6 +1719,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Xquik-dev/tweetclaw](https://github.com/Xquik-dev/tweetclaw)** - Post tweets, replies, DMs; search, monitor, run giveaways
 - **[SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose)** - Hard-edged writing style contract for timeless, forceful English prose without AI tics
 - **[blader/humanizer](https://github.com/blader/humanizer)** - Remove signs of AI-generated writing from text, making it sound more natural and human
+- **[jiawood2006/hermes-skills/skills/de-ai-writer](https://github.com/jiawood2006/hermes-skills/tree/main/skills/de-ai-writer)** - Remove Chinese AI-writing tells, natural human tone
 - **[MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop)** - Removes named AI writing tells (tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocab like "delve"/"crucial"). Split lint/rewrite modes for auditing your own text without auto-rewriting. Five intensity levels, MIT
 - **[Eronred/aso-skills](https://github.com/Eronred/aso-skills)** - 30+ App Store Optimization skills for keyword research, metadata optimization, competitor analysis, creative optimization, and mobile growth strategies via Appeeky API
 - **[degausai/wonda](https://github.com/degausai/wonda)** - AI content creation: images, video, music, audio, editing, publishing
