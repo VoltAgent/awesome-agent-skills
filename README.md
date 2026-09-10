@@ -1922,6 +1922,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 <details>
 <summary><h3 style="display:inline">Specialized Domains</h3></summary>
 
+- **[toll402/toll402](https://github.com/toll402/toll402/tree/main/skills/toll402)** - Pay-per-call tools for AI agents via x402 (USDC on Base, no API keys): read web pages/PDFs, provenance (human vs synthetic), trusted lookups with citations, a 4M-business verified directory with B2B sourcing, ID validators (RFC, CURP, CPF, CNPJ, CUIT, IBAN, VAT), FX, and agent-forged tools; free trial without a wallet.
 - **[shouldnotappearcalm/a-share-skill](https://github.com/shouldnotappearcalm/a-share-skill)** - China A-share (Shanghai/Shenzhen) skills: real-time quotes, K-line history, technical indicators, events, capital flows, sector heatmaps, and paper trading. Works with Claude Code, Cursor, Codex, and Qoder
 - **[transloadit/skills](https://github.com/transloadit/skills/tree/main/skills)** - Transloadit skill collection (6)
 - **[honeydew-ai/honeydew-ai-coding-agents-plugins](https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins)** - 11 skills for the Honeydew semantic layer over Snowflake, Databricks, and BigQuery: model exploration, entity/relation/attribute/metric/context/domain creation, validation, query, filtering, and workspace branching
