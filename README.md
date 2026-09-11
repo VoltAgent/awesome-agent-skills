@@ -1884,6 +1884,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[d1vai/d1v](https://github.com/d1vai/d1v-cli/blob/main/skills/d1v/SKILL.md)** - Deploy web projects with verified previews and confirmed production releases
 - **[Kayforkind/reimagine-it](https://github.com/Kayforkind/reimagine-it)** - Redesigns existing HTML pages from their own content
 - **[scarletkc/agents](https://github.com/scarletkc/agents)** - Reusable standards and workflow skills for AI coding agents
+- **[scalekit-inc/skills](https://github.com/scalekit-inc/skills)** - Add Scalekit auth, SSO, SCIM, and MCP
 
 </details>
 
