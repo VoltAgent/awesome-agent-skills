@@ -1787,7 +1787,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Neeeophytee/finding-unknowns-skills](https://github.com/Neeeophytee/finding-unknowns-skills)** - 8 meta-skills that make a coding agent surface your unknowns before they get expensive: blindspot pass, interview, reference hunt, implementation plan/notes, pitch packager, and a pre-merge change quiz. Works in Claude Code, Codex, and Cursor via the agentskills.io SKILL.md format
 - **[kgraph57/strategy-consulting-visualization](https://github.com/kgraph57/mckinsey-style-visualization-skill)** - McKinsey-style charts and consulting slide decks
 - **[vaibhavarora14/job-application-agent](https://github.com/vaibhavarora14/job-application-agent)** - Privacy-first job discovery and tracking
-- **[contracko/contracko-skills](https://github.com/contracko/contracko-skills)** - Manage business contracts over MCP: import contracts, review terms, track renewal deadlines, and organise a contract workspace
+- **[contracko/contracko-skills](https://github.com/contracko/contracko-skills)** - Manage contracts over MCP: import, review, and track renewals.
 
 </details>
 
