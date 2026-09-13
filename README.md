@@ -1967,6 +1967,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[apitube/news-api-skills](https://github.com/apitube/news-api-skills)** - Search worldwide news by keyword, entity, sentiment, source, date
 - **[zincio/universal-checkout](https://github.com/zincio/skills/tree/master/skills/universal-checkout)** - Official Zinc API (zinc.com) checkout across 50+ US retailers
 - **[swaylq/humanize-chinese](https://github.com/swaylq/humanize-chinese)** - Detect and rewrite AI-generated Chinese text, fully offline, no LLM
+- **[tubeagentkit/youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills)** - Fetch YouTube video transcripts, search videos/channels, browse channels, and extract playlists (free tier, no card required)
 
 </details>
 
