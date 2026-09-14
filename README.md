@@ -1769,6 +1769,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[swaylq/humanize-chinese](https://github.com/swaylq/humanize-chinese)** - Detect and rewrite AI-generated Chinese text, fully offline, no LLM
 - **[MartinDelophy/edit-timeline-studio](https://github.com/MartinDelophy/ai-video-editor/tree/main/skills/edit-timeline-studio)** - Create editable video timelines with captions, voiceovers, and verified exports.
 - **[Tencent/aig-agent-redteam](https://github.com/Tencent/AI-Infra-Guard/tree/main/skills/aig-agent-redteam)** - One-command Agent red-team security assessment skill
+- **[chrono-meta/ko-tech-writer](https://github.com/chrono-meta/forge-harness/tree/main/plugins/fh-commons/skills/ko-tech-writer)** - Korean technical writing and revision across three registers (reader-facing docs, spoken scripts, compressed derivatives): calibrates tone against a real sample of the target venue, strips translationese by named pattern class, separates reader information from internal audit vocabulary, gates every number and universal claim against its source, and closes on a cold-read round with no remaining edits
 
 </details>
 
