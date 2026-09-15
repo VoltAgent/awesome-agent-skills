@@ -1799,6 +1799,8 @@ Recommended tools:
 
 - [Synk Skill Security Scanner](https://github.com/snyk/agent-scan)
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
+- [HostDeFi](https://hostdefi.com/api/v1/mcp) - Hosted MCP token-safety scanner: A+–F grades for Solana and EVM tokens via keyless REST API
+
 
 Agent skills can include prompt injections, tool poisoning, hidden malware payloads, or unsafe data handling patterns. Always review the code and use skills at your own discretion.
 
