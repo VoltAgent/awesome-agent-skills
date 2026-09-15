@@ -1584,6 +1584,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Neeeophytee/finding-unknowns-skills](https://github.com/Neeeophytee/finding-unknowns-skills)** - 8 meta-skills that make a coding agent surface your unknowns before they get expensive: blindspot pass, interview, reference hunt, implementation plan/notes, pitch packager, and a pre-merge change quiz. Works in Claude Code, Codex, and Cursor via the agentskills.io SKILL.md format
 - **[kgraph57/strategy-consulting-visualization](https://github.com/kgraph57/mckinsey-style-visualization-skill)** - McKinsey-style charts and consulting slide decks
 - **[vaibhavarora14/job-application-agent](https://github.com/vaibhavarora14/job-application-agent)** - Privacy-first job discovery and tracking
+- **[70v-Yoyo/md2video-audio-skill](https://github.com/70v-Yoyo/md2video-audio-skill)** -  Turn Markdown into narrated videos with an almost entirely free audio and video generation workflow.
 - **[cyperx84/claude-skills-mental-models](https://github.com/cyperx84/claude-skills-mental-models)** - Drop your own mental models in as files; 21 included
 - **[manavmishra/zero-slop](https://github.com/manavmishra/ZeroSlop/blob/main/SKILL.md)** - Edits AI-sounding prose while preserving facts, voice, and formatting
 
