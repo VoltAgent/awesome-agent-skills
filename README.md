@@ -1623,6 +1623,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[obra/using-git-worktrees](https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/SKILL.md)** - Manage multiple Git working trees
 - **[obra/verification-before-completion](https://github.com/obra/superpowers/blob/main/skills/verification-before-completion/SKILL.md)** - Validate work before finalizing
 - **[obra/writing-skills](https://github.com/obra/superpowers/blob/main/skills/writing-skills/SKILL.md)** - Develop and document capabilities
+- **[BOTIROFF-D/alibi](https://github.com/BOTIROFF-D/alibi)** - Before an agent reports "done, tests pass", revert the fix, rerun the new test and check that it fails. Catches tests that pass on the old code, deleted or skipped tests, and softened assertions. Uses git and the project's own test runner, nothing installed
 - **[fvadicamo/dev-agent-skills](https://github.com/fvadicamo/dev-agent-skills)** - Git and GitHub workflow skills for commits, PRs, and code reviews
 - **[omkamal/pypict-skill](https://github.com/omkamal/pypict-claude-skill/blob/main/SKILL.md)** - Pairwise test generation
 - **[alinaqi/maggy](https://github.com/alinaqi/maggy)** - Opinionated project initialization with security-first guardrails, spec-driven atomic todos, LLM testing patterns, and CLI tool orchestration (gh, vercel, supabase)
