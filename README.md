@@ -1539,6 +1539,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills)** - Research social outliers, comments, competitors, ads, and trends
 - **[ilyautov/humanizer-ru](https://github.com/ilyautov/humanizer-ru/tree/main/skills/humanizer-ru)** - Removes 64 AI-writing markers from Russian text, with scanner
 
+
+- **[yuyang2230/taobao-shop-growth](https://github.com/yuyang2230/taobao-shop-growth)** - AI skill pack for growing a solo-run Taobao/Qianniu store: diagnosis, title rewriting, required-attribute completion, content traffic, batch automation and no-filming product videos — every step field-tested on a real lab-equipment store (bilingual CN/EN)
 </details>
 
 <details>
