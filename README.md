@@ -1538,6 +1538,10 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[axelfreeman/marketing-mindset](https://github.com/axelfreeman/marketing-mindset)** - Marketing OS for AI agents — think like a marketer first, get tactics as the output
 - **[ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills)** - Research social outliers, comments, competitors, ads, and trends
 - **[ilyautov/humanizer-ru](https://github.com/ilyautov/humanizer-ru/tree/main/skills/humanizer-ru)** - Removes 64 AI-writing markers from Russian text, with scanner
+- **[beatra-ai/beatra-skills](https://github.com/beatra-ai/beatra-skills)** - Catalog of Beatra image, video, music, and voice skills
+- **[beatra-ai/ai-media-generator-skill](https://github.com/beatra-ai/ai-media-generator-skill)** - Create AI images, video, music, and voice
+- **[beatra-ai/ai-video-generator-skill](https://github.com/beatra-ai/ai-video-generator-skill)** - Generate, edit, and extend short AI videos
+- **[beatra-ai/xiaohongshu-copywriter-skill](https://github.com/beatra-ai/xiaohongshu-copywriter-skill)** - Write Xiaohongshu notes, titles, and hashtags
 
 </details>
 
