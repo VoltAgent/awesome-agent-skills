@@ -1684,6 +1684,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[d1vai/d1v](https://github.com/d1vai/d1v-cli/blob/main/skills/d1v/SKILL.md)** - Deploy web projects with verified previews and confirmed production releases
 - **[kensaurus/cursor-kenji](https://github.com/kensaurus/cursor-kenji)** - Ready-made playbooks your coding agent auto-triggers
 - **[saleh-alhaddad/itqan-engineering](https://github.com/saleh-alhaddad/itqan-engineering)** - Full software-engineering lifecycle in 12 skills: a resumable orchestrator plus spec, plan, TDD build, verify, five-axis review, security, and release — with approval gates before code and evidence before "done"
+- **[Datura-ai/lium](https://github.com/Datura-ai/lium-skill/tree/main/lium)** - Rent verified NVIDIA GPU pods per second via Lium (lium.io)
 
 </details>
 
