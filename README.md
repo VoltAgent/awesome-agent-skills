@@ -1786,6 +1786,13 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 </details>
 
+<details>
+<summary><h3 style="display:inline">Other</h3></summary>
+
+- **[danjdewhurst/story-skills](https://github.com/danjdewhurst/story-skills)** - 8 fiction-writing skills for planning, drafting, and continuity
+
+</details>
+
 
 
 
