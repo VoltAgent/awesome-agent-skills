@@ -1790,6 +1790,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[czlonkowski/n8n-node-configuration](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-node-configuration)** - Node configuration with dependency rules and AI connections
 - **[czlonkowski/n8n-validation-expert](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-validation-expert)** - Fix n8n validation errors with error catalog
 - **[czlonkowski/n8n-workflow-patterns](https://github.com/czlonkowski/n8n-skills/tree/main/skills/n8n-workflow-patterns)** - Workflow patterns for webhook, HTTP, database, and AI tasks
+- **[muzimu217/ui-design-agent-kit](https://github.com/muzimu217/ui-design-agent-kit)** - Project-level UI design workflow: researches real references, freezes a user-approved plan, writes a design contract (semantic tokens, do/don't rules, spring motion presets), implements, and verifies the UI in a real browser with screenshot evidence. Ships 11 demo products (2 playable 3D demos), a 33-source inspiration library with license notes, and single-file prompt exports for any host
 
 </details>
 
