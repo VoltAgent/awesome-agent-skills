@@ -1780,6 +1780,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[MartinDelophy/edit-timeline-studio](https://github.com/MartinDelophy/ai-video-editor/tree/main/skills/edit-timeline-studio)** - Create editable video timelines with captions, voiceovers, and verified exports.
 - **[Tencent/aig-agent-redteam](https://github.com/Tencent/AI-Infra-Guard/tree/main/skills/aig-agent-redteam)** - One-command Agent red-team security assessment skill
 - **[ilyautov/small-business-ru](https://github.com/ilyautov/small-business-ru/tree/main/small-business-ru/skills)** - 34 skills for Russian small business: taxes, deadlines, counterparty checks
+- **[infonality/biomedical-nlp-skills](https://github.com/infonality/biomedical-nlp-skills)** - Nine biomedical NLP skills for clinical text and research workflows. Install: `npx skills add infonality/biomedical-nlp-skills`
 
 </details>
 
