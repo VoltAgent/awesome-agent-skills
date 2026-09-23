@@ -1725,6 +1725,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[vshulcz/deja-history](https://github.com/vshulcz/deja-vu/tree/main/claude-plugin/skills/deja-history)** - Searches your own past sessions across 20 coding agents
 - **[amirkiarafiei/subagent-cli-skills](https://github.com/amirkiarafiei/subagent-cli-skills/tree/main/skills)** - Delegate heavy work to 15 other agent CLIs as subagents
 - **[rebelytics/task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all)** - Meta-skill for continuous skill improvement & automatic skill creation.
+- **[mnemoverse/agent-memory-discipline](https://github.com/mnemoverse/agent-memory-discipline)** - When to recall from memory before acting and save afterwards
 
 </details>
 
