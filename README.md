@@ -1747,6 +1747,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[komal-SkyNET/claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant)** - Supercharge and manage Home Assistant workflows
 - **[more-io/apple-bridges](https://github.com/more-io/claude-apple-bridges)** - Native macOS app access — manage Apple Reminders, Calendar, Contacts, Notes, Mail, and tmux sessions via Swift CLI bridges
 - **[hanhuark/mechanical-engineering-research-skill](https://github.com/hanhuark/mechanical-engineering-research-skill)** - Thermal-fluid research writing, proposals, DOE, and presentation feedback
+- **[YangTech-gh/Awesome-Bug-Bounty](https://github.com/YangTech-gh/Awesome-Bug-Bounty)** - Scope-first bug bounty skill: recon, impact routing, 36 vuln playbooks, payloads, business logic; authorized testing only
 - **[prompt-security/clawsec](https://github.com/prompt-security/clawsec)** - Security skill suite with drift detection, automated audits, and skill integrity verification
 - **[BehiSecc/vibesec](https://github.com/BehiSecc/VibeSec-Skill)** - Helps write secure code by preventing common vulnerabilities including IDOR, XSS, SQL injection, SSRF, and weak authentication, approaching code from a bug hunter's perspective
 - **[lawve-ai/awesome-legal-skills](https://github.com/lawve-ai/awesome-legal-skills)** - Curated agent skills for automating legal workflows
