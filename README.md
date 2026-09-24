@@ -1545,6 +1545,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[axelfreeman/marketing-mindset](https://github.com/axelfreeman/marketing-mindset)** - Marketing OS for AI agents — think like a marketer first, get tactics as the output
 - **[ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills)** - Research social outliers, comments, competitors, ads, and trends
 - **[ilyautov/humanizer-ru](https://github.com/ilyautov/humanizer-ru/tree/main/skills/humanizer-ru)** - Removes 64 AI-writing markers from Russian text, with scanner
+- **[yuyang2230/taobao-shop-growth](https://github.com/yuyang2230/taobao-shop-growth)** - Runs Taobao shop customer-acquisition ops as an executable AI SOP
 
 </details>
 
