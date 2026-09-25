@@ -1594,6 +1594,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[cyperx84/claude-skills-mental-models](https://github.com/cyperx84/claude-skills-mental-models)** - Drop your own mental models in as files; 21 included
 - **[manavmishra/zero-slop](https://github.com/manavmishra/ZeroSlop/blob/main/SKILL.md)** - Edits AI-sounding prose while preserving facts, voice, and formatting
 
+- **[revdoku/revdoku](https://github.com/revdoku/revdoku/tree/main/skills/revdoku)** - Store, share, and version files; read incoming email and attachments
+
 </details>
 
 <details>
