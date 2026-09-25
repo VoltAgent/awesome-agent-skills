@@ -1542,6 +1542,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[SupercmoHQ/superCMO-skills](https://github.com/SupercmoHQ/superCMO-skills)** - Open-source skills + local MCP server for marketing video & image production: UGC videos, ad videos, product photography, and image ads from a product photo and a brief; casts AI actors, picks the best image/video models, edits any-length clips with consistent actor and product, and researches competitor ads. BYO or managed keys, Apache-2.0
 - **[sandbaseai/sandbase-skills/multi-source-search](https://github.com/sandbaseai/sandbase-skills/tree/main/research/multi-source-search)** - Evidence-led multi-source research with offline validation
 - **[Nanako0129/sepia](https://github.com/Nanako0129/sepia)** - De-AI writing skill fixing narrative structure before word choice
+- **[superagnt/leverage](https://github.com/superagnt/leverage)** - Live social media data, lead enrichment, and SEO research skills
 - **[axelfreeman/marketing-mindset](https://github.com/axelfreeman/marketing-mindset)** - Marketing OS for AI agents — think like a marketer first, get tactics as the output
 - **[ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills)** - Research social outliers, comments, competitors, ads, and trends
 - **[ilyautov/humanizer-ru](https://github.com/ilyautov/humanizer-ru/tree/main/skills/humanizer-ru)** - Removes 64 AI-writing markers from Russian text, with scanner
