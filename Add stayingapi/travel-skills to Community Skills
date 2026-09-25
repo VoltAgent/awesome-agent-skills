@@ -1780,6 +1780,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[MartinDelophy/edit-timeline-studio](https://github.com/MartinDelophy/ai-video-editor/tree/main/skills/edit-timeline-studio)** - Create editable video timelines with captions, voiceovers, and verified exports.
 - **[Tencent/aig-agent-redteam](https://github.com/Tencent/AI-Infra-Guard/tree/main/skills/aig-agent-redteam)** - One-command Agent red-team security assessment skill
 - **[ilyautov/small-business-ru](https://github.com/ilyautov/small-business-ru/tree/main/small-business-ru/skills)** - 34 skills for Russian small business: taxes, deadlines, counterparty checks
+- **[stayingapi/travel-skills](https://github.com/stayingapi/travel-skills)** - Accommodation search, availability, live pricing, cross-OTA price comparison and reviews across Airbnb, Booking.com, Vrbo and Google Hotels via the StayingAPI REST and MCP API. Works with Claude Code, Cursor and Codex.
 
 </details>
 
