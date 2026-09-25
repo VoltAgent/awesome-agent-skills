@@ -1593,6 +1593,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[vaibhavarora14/job-application-agent](https://github.com/vaibhavarora14/job-application-agent)** - Privacy-first job discovery and tracking
 - **[cyperx84/claude-skills-mental-models](https://github.com/cyperx84/claude-skills-mental-models)** - Drop your own mental models in as files; 21 included
 - **[manavmishra/zero-slop](https://github.com/manavmishra/ZeroSlop/blob/main/SKILL.md)** - Edits AI-sounding prose while preserving facts, voice, and formatting
+- **[sogeisetsu/asset-inventory](https://github.com/sogeisetsu/asset-inventory)** - Inventory OpenCode plugins, skills, MCP servers and agents with provenance
 
 </details>
 
