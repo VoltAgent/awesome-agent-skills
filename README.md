@@ -199,6 +199,7 @@ Production-grade Agent Skills for every major test automation framework, maintai
 - **[testmu-ai/jasmine-skill](https://github.com/LambdaTest/agent-skills/tree/main/jasmine-skill)** - Generate Jasmine BDD tests in JavaScript with spies and async support
 - **[testmu-ai/jest-skill](https://github.com/LambdaTest/agent-skills/tree/main/jest-skill)** - Generate Jest unit and integration tests in JS/TS with mocking and snapshots
 - **[testmu-ai/junit-5-skill](https://github.com/LambdaTest/agent-skills/tree/main/junit-5-skill)** - Generate JUnit 5 unit and integration tests in Java with Mockito
+- **[testmu-ai/kanecli-skill](https://github.com/LambdaTest/agent-skills/tree/main/kanecli-skill)** - Deterministic browser agent driven by natural-language test objectives
 - **[testmu-ai/karma-skill](https://github.com/LambdaTest/agent-skills/tree/main/karma-skill)** - Generate Karma test-runner configs for browser-based JS testing
 - **[testmu-ai/laravel-dusk-skill](https://github.com/LambdaTest/agent-skills/tree/main/laravel-dusk-skill)** - Generate Laravel Dusk Chrome-based browser tests in PHP
 - **[testmu-ai/lettuce-skill](https://github.com/LambdaTest/agent-skills/tree/main/lettuce-skill)** - Generate Lettuce BDD tests for Python (legacy; prefer Behave)
@@ -229,7 +230,6 @@ Production-grade Agent Skills for every major test automation framework, maintai
 - **[testmu-ai/webdriverio-skill](https://github.com/LambdaTest/agent-skills/tree/main/webdriverio-skill)** - Generate WebdriverIO (WDIO) automation tests in JavaScript or TypeScript
 - **[testmu-ai/xcuitest-skill](https://github.com/LambdaTest/agent-skills/tree/main/xcuitest-skill)** - Generate XCUITest UI tests for iOS/iPadOS apps in Swift
 - **[testmu-ai/xunit-skill](https://github.com/LambdaTest/agent-skills/tree/main/xunit-skill)** - Generate xUnit.net tests in C# with Fact/Theory and FluentAssertions
-- **[testmu-ai/kanecli-skill](https://github.com/LambdaTest/agent-skills/tree/main/kanecli-skill)** - Deterministic browser agent driven by natural-language test objectives
 
 </details>
 
