@@ -264,6 +264,13 @@ Production-grade Agent Skills for every major test automation framework, maintai
 </details>
 
 <details>
+<summary><h3 style="display:inline">Skills by Aident</h3></summary>
+
+- **[Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill)** - Connect agents to 1000+ apps via Loadout MCP
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Skills by Supabase Team</h3></summary>
 
 - **[supabase/postgres-best-practices](https://officialskills.sh/supabase/skills/postgres-best-practices)** - PostgreSQL best practices for Supabase
