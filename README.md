@@ -1500,6 +1500,22 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 </details>
 
+<details>
+<summary><h3 style="display:inline">Skills by Duaer</h3></summary>
+
+Skills from [Duaer](https://www.duaer.com) / [duaer-spec](https://github.com/Duaer/duaer-spec) for digital-employee delivery (Brief → do → accept). Compatible with Cursor and Claude Code after `npx duaer-spec init`.
+
+- **[Duaer/duaer-clarify](https://github.com/Duaer/duaer-spec/blob/main/.cursor/skills/duaer-clarify/SKILL.md)** - Clarify underspecified specs with targeted questions
+- **[Duaer/duaer-specify](https://github.com/Duaer/duaer-spec/blob/main/.cursor/skills/duaer-specify/SKILL.md)** - Turn a feature ask into a checkable spec
+- **[Duaer/duaer-plan](https://github.com/Duaer/duaer-spec/blob/main/.cursor/skills/duaer-plan/SKILL.md)** - Plan implementation from an accepted spec
+- **[Duaer/duaer-implement](https://github.com/Duaer/duaer-spec/blob/main/.cursor/skills/duaer-implement/SKILL.md)** - Implement only inside the agreed Brief
+- **[Duaer/duaer-analyze](https://github.com/Duaer/duaer-spec/blob/main/.cursor/skills/duaer-analyze/SKILL.md)** - Cross-check spec, plan, and tasks for consistency
+- **[Duaer/duaer-tasks](https://github.com/Duaer/duaer-spec/blob/main/.cursor/skills/duaer-tasks/SKILL.md)** - Break work into verifiable task checklists
+
+Product: https://www.duaer.com · Method repo: https://github.com/Duaer/duaer-spec
+
+</details>
+
 
 ### Community Skills
 
