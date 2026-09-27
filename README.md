@@ -1726,6 +1726,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[amirkiarafiei/subagent-cli-skills](https://github.com/amirkiarafiei/subagent-cli-skills/tree/main/skills)** - Delegate heavy work to 15 other agent CLIs as subagents
 - **[rebelytics/task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all)** - Meta-skill for continuous skill improvement & automatic skill creation.
 
+- **[flashfrogluo/second-take](https://github.com/flashfrogluo/second-take)** - Second-opinion QA for AI chain-of-thought: diagnoses weak reasoning (omissions, contradictions, unsupported claims, constraint conflicts, missing feasibility) and returns a "retake note" you paste back into the original chat to get a better answer. Pure Markdown, 11 references, 4-standards method.
 </details>
 
 <details>
