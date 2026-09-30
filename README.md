@@ -1866,6 +1866,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[orziz/odai](https://github.com/orziz/odai/tree/main/skills/odai)** - Govern evidence, responsibility routing, safety boundaries, and verified delivery
 - **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** - Compresses and persists agent memory across sessions
 - **[vshulcz/deja-history](https://github.com/vshulcz/deja-vu/tree/main/claude-plugin/skills/deja-history)** - Searches your own past sessions across 20 coding agents
+- **[ruslanlap/cavemenko](https://github.com/ruslanlap/cavemenko/tree/main/skills/cavemenko)** - Ukrainian pro-drop reply style, measured -49% tokens
 
 </details>
 
