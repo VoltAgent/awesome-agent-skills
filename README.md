@@ -1840,6 +1840,7 @@ Agent skills can include prompt injections, tool poisoning, hidden malware paylo
 | OpenCode | `.opencode/skills/` | `~/.config/opencode/skills/` | [OpenCode Skills](https://opencode.ai/docs/skills) |
 | Windsurf | `.windsurf/skills/` | `~/.codeium/windsurf/skills/` | [Windsurf Cascade Skills](https://docs.windsurf.com/windsurf/cascade/skills) |
 | [mblode/agent-skills](https://github.com/mblode/agent-skills) | Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. `npx skills add mblode/agent-skills` |
+| [ssrjkk/agent-skills](https://github.com/ssrjkk/agent-skills) | 100 curated bilingual (EN + RU) skills across 16 domains, every skill scoring 100% on a 5-dimension quality pipeline enforced in CI. MCP, RAG, LLM evals, FastAPI, Go, K8s, Terraform, React, Flutter and more. `pip install agent-skills-library` |
 
 
 ## Skill Quality Standards
