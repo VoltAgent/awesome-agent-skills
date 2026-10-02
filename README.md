@@ -1547,6 +1547,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[ilyautov/humanizer-ru](https://github.com/ilyautov/humanizer-ru/tree/main/skills/humanizer-ru)** - Removes 64 AI-writing markers from Russian text, with scanner
 - **[socai-io/jev-social](https://github.com/socai-io/jev-social/tree/v0.1.10/skills/jev-social)** - Route local social research through Jev and socai CLI
 - **[explorium-ai/vibe-prospecting](https://github.com/explorium-ai/vibeprospecting-plugin/tree/main/skills/vibe-prospecting)** - B2B prospecting enrichment and GTM data workflows
+- **[nagameTW/humanizer-zh-tw](https://github.com/nagameTW/humanizer-zh-tw)** - Removes AI-writing markers from Taiwan Traditional Chinese text
 
 </details>
 
