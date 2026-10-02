@@ -1601,6 +1601,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[GiaSip/giasip-research](https://github.com/GiaSip/giasip-skills/tree/main/skills/giasip-research)** - Source-linked research reports with explicit unresolved checks
 - **[tronghieu/agent-skills](https://github.com/tronghieu/agent-skills)** - 18 method-driven skills for knowledge work: strategy, research, writing
 - **[dmoshehun-prog/learn-from-materials](https://github.com/dmoshehun-prog/learn-from-materials)** - Turn documents into source-grounded interactive learning pages for AI agents
+- **[alapha888/agent-skills-en](https://github.com/alapha888/agent-skills-en)** - 5 MIT-licensed agent skills for everyday knowledge work: proofreading tech writing, meeting notes, git commit messages, code review checklists, and a deep-research framework
 
 </details>
 
