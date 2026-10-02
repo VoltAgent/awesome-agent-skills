@@ -74,7 +74,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) |
 | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) |
 | [Red Hat](#skills-by-redhat) | [Community](#community-skills) | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) |
-| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |  |  |
+| [Google Cloud](#skills-by-google-cloud) | [Webshare](#skills-by-webshare) | [Quality Standards](#skill-quality-standards) |  |
 
 
 
@@ -1471,6 +1471,18 @@ Official Google Cloud skills covering Firebase, BigQuery, Cloud Run, GKE, AlloyD
 - **[google/cloud/google-cloud-waf-reliability](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-reliability)** - Generates reliability-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Google Cloud Well-Architected Framework.
 - **[google/cloud/google-cloud-waf-security](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-security)** - Generates security-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Google Cloud Well-Architected Framework (WAF).
 - **[google/cloud/google-cloud-waf-sustainability](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-sustainability)** - Generates sustainability-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Google Cloud Well-Architected Framework (WAF).
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Webshare</h3></summary>
+
+Official skills from the [Webshare](https://www.webshare.io) team, built on the `webshare` CLI. Covers proxy provisioning, tuning a proxy pool for a target site, Playwright scrapers, and proxy spend audits.
+
+- **[webshare-proxy/proxy-manager](https://github.com/webshare-proxy/skills/tree/main/skills/proxy-manager)** - Manage Webshare proxies, allowlists and plans with the webshare CLI
+- **[webshare-proxy/proxy-optimizer](https://github.com/webshare-proxy/skills/tree/main/skills/proxy-optimizer)** - Find proxies blocked on a target site and replace them
+- **[webshare-proxy/scraper](https://github.com/webshare-proxy/skills/tree/main/skills/scraper)** - Build Playwright scrapers with proxy rotation and stealth mode
+- **[webshare-proxy/spend-audit](https://github.com/webshare-proxy/skills/tree/main/skills/spend-audit)** - Read-only audit of proxy spend with right-sizing recommendations
 
 </details>
 
