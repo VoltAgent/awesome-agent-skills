@@ -1705,6 +1705,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[lukstei/slop-grader](https://github.com/lukstei/slop-grader)** - Rule-based CLI tool powered by TypeSafe Jev that evaluates documents against custom rulesets, producing document scores and line-by-line violation flags to guide auto-fixing with an AI agent
 - **[fujibee/agmsg](https://github.com/fujibee/agmsg)** - Message passing between Claude Code, Codex and Gemini CLI sessions
 - **[exadel-inc/agentic-readiness-assessment](https://github.com/exadel-inc/agentic-readiness-assessment/tree/main/skills/agentic-readiness-assessment)** - Assess repository readiness for AI coding agents and prioritize fixes.
+- **[erkamyaman/iphone-duo-capacitor-skills](https://github.com/erkamyaman/iphone-duo-capacitor-skills)** - Adapt Capacitor and Ionic apps to iPhone Duo and Android foldables: crease-aware CSS layout, hinge angle, posture, size classes, outer display, and a Device Posture and Viewport Segments polyfill
+- **[erkamyaman/ionic-capacitor-skills](https://github.com/erkamyaman/ionic-capacitor-skills)** - Build Ionic apps with Angular, React or Vue: scaffolding, AdMob, RevenueCat, push and local notifications, Firebase, Supabase, deep links, biometrics, App Tracking Transparency, consent, icons and splash screens
 
 </details>
 
