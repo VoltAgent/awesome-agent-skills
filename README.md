@@ -74,7 +74,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) |
 | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) |
 | [Red Hat](#skills-by-redhat) | [Community](#community-skills) | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) |
-| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |  |  |
+| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) | [Resollo](#skills-by-resollo) |  |
 
 
 
@@ -1501,6 +1501,15 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 </details>
 
+<details>
+<summary><h3 style="display:inline">Skills by Resollo</h3></summary>
+
+Official skills by the [Resollo](https://www.resollo.com) team for AI-assisted selling and buying on the Resollo marketplace through its MCP server.
+
+- **[resollo/resollo-selling](https://github.com/resollo/mcp-servers/tree/main/skills/resollo-selling)** - Turn product photos into draft listings on the Resollo marketplace
+- **[resollo/resollo-buying](https://github.com/resollo/mcp-servers/tree/main/skills/resollo-buying)** - Search, compare and buy on Resollo with explicit user approval
+
+</details>
 
 ### Community Skills
 
