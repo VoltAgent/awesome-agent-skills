@@ -1740,6 +1740,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[rebelytics/task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all)** - Meta-skill for continuous skill improvement & automatic skill creation.
 - **[Qiuner/birdview](https://github.com/Qiuner/birdview)** - Put architecture and constraints at the center of AI coding
 
+- **[flashfrogluo/second-take](https://github.com/flashfrogluo/second-take)** - Second-opinion QA for AI chain-of-thought: diagnoses weak reasoning (omissions, contradictions, unsupported claims, constraint conflicts, missing feasibility) and returns a "retake note" you paste back into the original chat to get a better answer. Pure Markdown, 11 references, 4-standards method.
 </details>
 
 <details>
