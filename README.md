@@ -1741,6 +1741,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[amirkiarafiei/subagent-cli-skills](https://github.com/amirkiarafiei/subagent-cli-skills/tree/main/skills)** - Delegate heavy work to 15 other agent CLIs as subagents
 - **[rebelytics/task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all)** - Meta-skill for continuous skill improvement & automatic skill creation.
 - **[Qiuner/birdview](https://github.com/Qiuner/birdview)** - Put architecture and constraints at the center of AI coding
+- **[qlheric/xizi-rujin](https://github.com/qlheric/xizi-rujin)** - Chinese "token saver" meme skill: teaches coding agents to compress Chinese output with 文言/成语/23-domain jargon. 37.9% token savings (tiktoken o200k), payload verbatim, reproducible eval + red assertion + negative control
 
 </details>
 
