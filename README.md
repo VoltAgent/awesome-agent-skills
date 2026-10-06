@@ -1709,6 +1709,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse/tree/main/skill)** - Search, call, and read websites via hosted API or MCP
 - **[fujibee/agmsg](https://github.com/fujibee/agmsg)** - Message passing between Claude Code, Codex and Gemini CLI sessions
 - **[exadel-inc/agentic-readiness-assessment](https://github.com/exadel-inc/agentic-readiness-assessment/tree/main/skills/agentic-readiness-assessment)** - Assess repository readiness for AI coding agents and prioritize fixes.
+- **[hermes-labs-ai/little-canary](https://github.com/hermes-labs-ai/little-canary/blob/main/.agents/skills/little-canary/SKILL.md)** - Screen inbound text with a sacrificial canary
 
 </details>
 
