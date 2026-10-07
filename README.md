@@ -1552,6 +1552,48 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[explorium-ai/vibe-prospecting](https://github.com/explorium-ai/vibeprospecting-plugin/tree/main/skills/vibe-prospecting)** - B2B prospecting enrichment and GTM data workflows
 - **[Upload-Post/upload-post-skill](https://github.com/Upload-Post/upload-post-skill)** - Publish and schedule social media posts through one API
 
+- **[AceDataCloud/bilibili](https://github.com/AceDataCloud/Skills/tree/main/skills/bilibili)** - Read and publish Bilibili articles
+- **[AceDataCloud/blogger](https://github.com/AceDataCloud/Skills/tree/main/skills/blogger)** - Read and publish posts on Blogger
+- **[AceDataCloud/bluesky](https://github.com/AceDataCloud/Skills/tree/main/skills/bluesky)** - Read, publish, and delete Bluesky posts
+- **[AceDataCloud/cnblogs](https://github.com/AceDataCloud/Skills/tree/main/skills/cnblogs)** - Read and publish CNBlogs articles
+- **[AceDataCloud/csdn](https://github.com/AceDataCloud/Skills/tree/main/skills/csdn)** - Read and publish CSDN articles
+- **[AceDataCloud/cto51](https://github.com/AceDataCloud/Skills/tree/main/skills/cto51)** - Read 51CTO blogs and create article drafts
+- **[AceDataCloud/devto](https://github.com/AceDataCloud/Skills/tree/main/skills/devto)** - Read and publish DEV Community articles
+- **[AceDataCloud/facebook](https://github.com/AceDataCloud/Skills/tree/main/skills/facebook)** - Publish and read Facebook Page posts
+- **[AceDataCloud/ghost](https://github.com/AceDataCloud/Skills/tree/main/skills/ghost)** - Draft and publish Ghost articles
+- **[AceDataCloud/google-ads](https://github.com/AceDataCloud/Skills/tree/main/skills/google-ads)** - Query Google Ads campaigns, keywords, and spend
+- **[AceDataCloud/google-analytics](https://github.com/AceDataCloud/Skills/tree/main/skills/google-analytics)** - Query Google Analytics 4 reports
+- **[AceDataCloud/google-search-console](https://github.com/AceDataCloud/Skills/tree/main/skills/google-search-console)** - Query Google Search Console performance and sitemaps
+- **[AceDataCloud/habr](https://github.com/AceDataCloud/Skills/tree/main/skills/habr)** - Read and publish Habr article drafts
+- **[AceDataCloud/hashnode](https://github.com/AceDataCloud/Skills/tree/main/skills/hashnode)** - Read and publish Hashnode blog posts
+- **[AceDataCloud/instagram](https://github.com/AceDataCloud/Skills/tree/main/skills/instagram)** - Publish Instagram images, videos, Reels, and carousels
+- **[AceDataCloud/juejin](https://github.com/AceDataCloud/Skills/tree/main/skills/juejin)** - Read and publish Juejin articles
+- **[AceDataCloud/kuaishou](https://github.com/AceDataCloud/Skills/tree/main/skills/kuaishou)** - Publish and read Kuaishou videos
+- **[AceDataCloud/linkedin](https://github.com/AceDataCloud/Skills/tree/main/skills/linkedin)** - Publish posts to a LinkedIn personal feed
+- **[AceDataCloud/mastodon](https://github.com/AceDataCloud/Skills/tree/main/skills/mastodon)** - Read, publish, and delete Mastodon posts
+- **[AceDataCloud/medium](https://github.com/AceDataCloud/Skills/tree/main/skills/medium)** - Read and publish Medium articles
+- **[AceDataCloud/oschina](https://github.com/AceDataCloud/Skills/tree/main/skills/oschina)** - Read OSChina blogs and create article drafts
+- **[AceDataCloud/pinterest](https://github.com/AceDataCloud/Skills/tree/main/skills/pinterest)** - Read Pinterest boards and create image Pins
+- **[AceDataCloud/reddit](https://github.com/AceDataCloud/Skills/tree/main/skills/reddit)** - Search Reddit and publish posts or replies
+- **[AceDataCloud/segmentfault](https://github.com/AceDataCloud/Skills/tree/main/skills/segmentfault)** - Read SegmentFault posts and create article drafts
+- **[AceDataCloud/substack](https://github.com/AceDataCloud/Skills/tree/main/skills/substack)** - Read and publish Substack posts
+- **[AceDataCloud/telegram-bot](https://github.com/AceDataCloud/Skills/tree/main/skills/telegram-bot)** - Publish messages and photos using a Telegram bot
+- **[AceDataCloud/telegram](https://github.com/AceDataCloud/Skills/tree/main/skills/telegram)** - Read and manage personal Telegram chats
+- **[AceDataCloud/tgstat](https://github.com/AceDataCloud/Skills/tree/main/skills/tgstat)** - Research public Telegram channels with TGStat
+- **[AceDataCloud/threads](https://github.com/AceDataCloud/Skills/tree/main/skills/threads)** - Publish text and media posts to Threads
+- **[AceDataCloud/tiktok](https://github.com/AceDataCloud/Skills/tree/main/skills/tiktok)** - Upload videos to TikTok drafts
+- **[AceDataCloud/toutiao](https://github.com/AceDataCloud/Skills/tree/main/skills/toutiao)** - Read and publish Toutiao articles
+- **[AceDataCloud/vk](https://github.com/AceDataCloud/Skills/tree/main/skills/vk)** - Read and publish VK posts
+- **[AceDataCloud/wechat-official-account](https://github.com/AceDataCloud/Skills/tree/main/skills/wechat-official-account)** - Draft and publish WeChat Official Account articles
+- **[AceDataCloud/weibo](https://github.com/AceDataCloud/Skills/tree/main/skills/weibo)** - Read and publish Weibo posts
+- **[AceDataCloud/wordpress](https://github.com/AceDataCloud/Skills/tree/main/skills/wordpress)** - Publish and manage WordPress posts
+- **[AceDataCloud/x](https://github.com/AceDataCloud/Skills/tree/main/skills/x)** - Read and publish X posts and replies
+- **[AceDataCloud/xhs-dm](https://github.com/AceDataCloud/Skills/tree/main/skills/xhs-dm)** - Read and reply to Xiaohongshu messages
+- **[AceDataCloud/xiaohongshu](https://github.com/AceDataCloud/Skills/tree/main/skills/xiaohongshu)** - Browse and publish through paired Xiaohongshu browser
+- **[AceDataCloud/youtube](https://github.com/AceDataCloud/Skills/tree/main/skills/youtube)** - Search YouTube and manage channel videos
+- **[AceDataCloud/yuque](https://github.com/AceDataCloud/Skills/tree/main/skills/yuque)** - Read and write Yuque documents
+- **[AceDataCloud/zhihu](https://github.com/AceDataCloud/Skills/tree/main/skills/zhihu)** - Search and publish content on Zhihu
+
 </details>
 
 <details>
@@ -1605,6 +1647,29 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[GiaSip/giasip-research](https://github.com/GiaSip/giasip-skills/tree/main/skills/giasip-research)** - Source-linked research reports with explicit unresolved checks
 - **[tronghieu/agent-skills](https://github.com/tronghieu/agent-skills)** - 18 method-driven skills for knowledge work: strategy, research, writing
 - **[dmoshehun-prog/learn-from-materials](https://github.com/dmoshehun-prog/learn-from-materials)** - Turn documents into source-grounded interactive learning pages for AI agents
+
+- **[AceDataCloud/apple-notes](https://github.com/AceDataCloud/Skills/tree/main/skills/apple-notes)** - Manage Apple Notes locally on macOS
+- **[AceDataCloud/didi-ride](https://github.com/AceDataCloud/Skills/tree/main/skills/didi-ride)** - Book DiDi rides and plan routes
+- **[AceDataCloud/discord](https://github.com/AceDataCloud/Skills/tree/main/skills/discord)** - Read and manage connected Discord accounts
+- **[AceDataCloud/discordbot](https://github.com/AceDataCloud/Skills/tree/main/skills/discordbot)** - Read channels and send Discord bot messages
+- **[AceDataCloud/feishu](https://github.com/AceDataCloud/Skills/tree/main/skills/feishu)** - Work with Feishu docs, sheets, calendars, and messages
+- **[AceDataCloud/figma](https://github.com/AceDataCloud/Skills/tree/main/skills/figma)** - Read Figma files, images, and comments
+- **[AceDataCloud/google-calendar](https://github.com/AceDataCloud/Skills/tree/main/skills/google-calendar)** - Read and manage Google Calendar events
+- **[AceDataCloud/google-docs](https://github.com/AceDataCloud/Skills/tree/main/skills/google-docs)** - Read and edit Google Docs
+- **[AceDataCloud/google-drive](https://github.com/AceDataCloud/Skills/tree/main/skills/google-drive)** - Read and manage Google Drive files
+- **[AceDataCloud/google-gmail](https://github.com/AceDataCloud/Skills/tree/main/skills/google-gmail)** - Search, triage, and send Gmail messages
+- **[AceDataCloud/google-sheets](https://github.com/AceDataCloud/Skills/tree/main/skills/google-sheets)** - Read and edit Google Sheets
+- **[AceDataCloud/google-tasks](https://github.com/AceDataCloud/Skills/tree/main/skills/google-tasks)** - Read and manage Google Tasks
+- **[AceDataCloud/microsoft-excel](https://github.com/AceDataCloud/Skills/tree/main/skills/microsoft-excel)** - Read and edit cloud Excel workbooks
+- **[AceDataCloud/microsoft-onedrive](https://github.com/AceDataCloud/Skills/tree/main/skills/microsoft-onedrive)** - Read and manage OneDrive and SharePoint files
+- **[AceDataCloud/microsoft-outlook](https://github.com/AceDataCloud/Skills/tree/main/skills/microsoft-outlook)** - Manage Outlook mail and calendar events
+- **[AceDataCloud/microsoft-teams](https://github.com/AceDataCloud/Skills/tree/main/skills/microsoft-teams)** - Read and send Microsoft Teams messages
+- **[AceDataCloud/microsoft-todo](https://github.com/AceDataCloud/Skills/tree/main/skills/microsoft-todo)** - Read and manage Microsoft To Do tasks
+- **[AceDataCloud/notion](https://github.com/AceDataCloud/Skills/tree/main/skills/notion)** - Search, read, and edit Notion pages
+- **[AceDataCloud/personal-wechat](https://github.com/AceDataCloud/Skills/tree/main/skills/personal-wechat)** - Read and send personal WeChat messages
+- **[AceDataCloud/slack](https://github.com/AceDataCloud/Skills/tree/main/skills/slack)** - Search Slack and manage channels and messages
+- **[AceDataCloud/tencent-docs](https://github.com/AceDataCloud/Skills/tree/main/skills/tencent-docs)** - Create and manage Tencent Docs documents and sheets
+- **[AceDataCloud/wecom](https://github.com/AceDataCloud/Skills/tree/main/skills/wecom)** - Manage WeCom contacts, messages, documents, and schedules
 
 </details>
 
@@ -1713,6 +1778,17 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[kulchankas/paranoid](https://github.com/kulchankas/paranoid)** - Pentests your running app: find, prove, patch, re-verify
 - **[gal-a/qikly](https://github.com/gal-a/qikly/tree/main/.claude/skills/qikly)** - Writes pytest suites from criteria the coding agent never sees
 
+- **[AceDataCloud/cos-upload](https://github.com/AceDataCloud/Skills/tree/main/skills/cos-upload)** - Upload local files to AceDataCloud CDN
+- **[AceDataCloud/github](https://github.com/AceDataCloud/Skills/tree/main/skills/github)** - Manage GitHub repos, issues, pull requests, and Actions
+- **[AceDataCloud/gitlab](https://github.com/AceDataCloud/Skills/tree/main/skills/gitlab)** - Manage GitLab projects, merge requests, and pipelines
+- **[AceDataCloud/tencentcloud-cls-alarm](https://github.com/AceDataCloud/Skills/tree/main/skills/tencentcloud-cls-alarm)** - Manage Tencent Cloud log alarm policies
+- **[AceDataCloud/tencentcloud-cls](https://github.com/AceDataCloud/Skills/tree/main/skills/tencentcloud-cls)** - Search and analyze Tencent Cloud logs
+- **[AceDataCloud/tencentcloud-cos](https://github.com/AceDataCloud/Skills/tree/main/skills/tencentcloud-cos)** - Manage Tencent Cloud COS buckets and objects
+- **[AceDataCloud/tencentcloud-dns](https://github.com/AceDataCloud/Skills/tree/main/skills/tencentcloud-dns)** - Manage DNSPod domain records
+- **[AceDataCloud/tencentcloud-edgeone](https://github.com/AceDataCloud/Skills/tree/main/skills/tencentcloud-edgeone)** - Manage Tencent Cloud EdgeOne zones and caches
+- **[AceDataCloud/tencentcloud-tke](https://github.com/AceDataCloud/Skills/tree/main/skills/tencentcloud-tke)** - Manage Tencent Kubernetes clusters and workloads
+- **[AceDataCloud/vercel](https://github.com/AceDataCloud/Skills/tree/main/skills/vercel)** - Inspect Vercel projects, deployments, and logs
+
 </details>
 
 <details>
@@ -1803,6 +1879,31 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Tencent/aig-agent-redteam](https://github.com/Tencent/AI-Infra-Guard/tree/main/skills/aig-agent-redteam)** - One-command Agent red-team security assessment skill
 - **[ilyautov/small-business-ru](https://github.com/ilyautov/small-business-ru/tree/main/small-business-ru/skills)** - 34 skills for Russian small business: taxes, deadlines, counterparty checks
 - **[eatmoreduck/boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)** - BOSS Zhipin (zhipin.com) job scraper via Chrome CDP, plaintext salaries
+
+- **[AceDataCloud/acedatacloud](https://github.com/AceDataCloud/Skills/tree/main/skills/acedatacloud)** - Manage AceDataCloud account, usage, credentials, and orders
+- **[AceDataCloud/ai-chat](https://github.com/AceDataCloud/Skills/tree/main/skills/ai-chat)** - Access multiple LLMs through one chat API
+- **[AceDataCloud/dreamina-video](https://github.com/AceDataCloud/Skills/tree/main/skills/dreamina-video)** - Animate photos into digital human videos with Dreamina
+- **[AceDataCloud/face-transform](https://github.com/AceDataCloud/Skills/tree/main/skills/face-transform)** - Analyze, beautify, and transform faces
+- **[AceDataCloud/flux-image](https://github.com/AceDataCloud/Skills/tree/main/skills/flux-image)** - Generate and edit Flux images and videos
+- **[AceDataCloud/google-search](https://github.com/AceDataCloud/Skills/tree/main/skills/google-search)** - Search Google web, images, news, maps, and videos
+- **[AceDataCloud/gpt-image-2](https://github.com/AceDataCloud/Skills/tree/main/skills/gpt-image-2)** - Generate and edit images with GPT Image 2
+- **[AceDataCloud/grok-video](https://github.com/AceDataCloud/Skills/tree/main/skills/grok-video)** - Generate videos with Grok
+- **[AceDataCloud/hailuo-video](https://github.com/AceDataCloud/Skills/tree/main/skills/hailuo-video)** - Generate videos with Hailuo
+- **[AceDataCloud/happyhorse-video](https://github.com/AceDataCloud/Skills/tree/main/skills/happyhorse-video)** - Generate and edit videos with Happy Horse
+- **[AceDataCloud/kling-video](https://github.com/AceDataCloud/Skills/tree/main/skills/kling-video)** - Generate Kling videos and commercial media
+- **[AceDataCloud/luma-video](https://github.com/AceDataCloud/Skills/tree/main/skills/luma-video)** - Generate and extend videos with Luma Dream Machine
+- **[AceDataCloud/maestro-video](https://github.com/AceDataCloud/Skills/tree/main/skills/maestro-video)** - Produce complete videos from a creative brief
+- **[AceDataCloud/minimax-video](https://github.com/AceDataCloud/Skills/tree/main/skills/minimax-video)** - Generate MiniMax H3 videos from multimodal references
+- **[AceDataCloud/nano-banana-image](https://github.com/AceDataCloud/Skills/tree/main/skills/nano-banana-image)** - Generate and edit images with NanoBanana
+- **[AceDataCloud/producer-music](https://github.com/AceDataCloud/Skills/tree/main/skills/producer-music)** - Generate and remix music with Producer
+- **[AceDataCloud/seedance-video](https://github.com/AceDataCloud/Skills/tree/main/skills/seedance-video)** - Generate and edit multimodal videos with Seedance
+- **[AceDataCloud/seedream-image](https://github.com/AceDataCloud/Skills/tree/main/skills/seedream-image)** - Generate, edit, and decompose Seedream images
+- **[AceDataCloud/short-url](https://github.com/AceDataCloud/Skills/tree/main/skills/short-url)** - Create and manage short URLs
+- **[AceDataCloud/suno-music](https://github.com/AceDataCloud/Skills/tree/main/skills/suno-music)** - Generate music, lyrics, covers, and stems with Suno
+- **[AceDataCloud/turnstile](https://github.com/AceDataCloud/Skills/tree/main/skills/turnstile)** - Solve Cloudflare Turnstile challenges
+- **[AceDataCloud/veo-video](https://github.com/AceDataCloud/Skills/tree/main/skills/veo-video)** - Generate videos with Google Veo
+- **[AceDataCloud/wan-video](https://github.com/AceDataCloud/Skills/tree/main/skills/wan-video)** - Generate videos with Alibaba Wan
+- **[AceDataCloud/webextrator](https://github.com/AceDataCloud/Skills/tree/main/skills/webextrator)** - Extract rendered web pages into structured content
 
 </details>
 
