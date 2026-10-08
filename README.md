@@ -1552,6 +1552,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[explorium-ai/vibe-prospecting](https://github.com/explorium-ai/vibeprospecting-plugin/tree/main/skills/vibe-prospecting)** - B2B prospecting enrichment and GTM data workflows
 - **[Upload-Post/upload-post-skill](https://github.com/Upload-Post/upload-post-skill)** - Publish and schedule social media posts through one API
 
+- **[anglesvideo/angles-video-skill](https://github.com/anglesvideo/angles-video-skill)** - AI video generation for Claude Code: turns URLs/articles into polished marketing videos with AI avatars, voiceovers, and B-roll.
 </details>
 
 <details>
