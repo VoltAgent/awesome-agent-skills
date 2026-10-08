@@ -75,7 +75,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) |
 | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) |
 | [Red Hat](#skills-by-redhat) | [Community](#community-skills) | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) |
-| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |  |  |
+| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) | [Prisma](#skills-by-prisma) |  |
 
 
 
@@ -1501,6 +1501,20 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[cypress-io/cypress-docs](https://github.com/cypress-io/ai-toolkit/tree/main/skills/cypress-docs)** - Search and extract Cypress information from official documentation.
 
 </details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Prisma</h3></summary>
+
+Official skills published by Prisma for Prisma Postgres, Prisma ORM and Prisma Compute. 6 skills.
+
+- **[prisma/prisma-postgres-setup](https://github.com/prisma/skills/tree/main/prisma-postgres-setup)** - Obtain or reuse a Prisma Postgres database
+- - **[prisma/prisma-orm-setup](https://github.com/prisma/skills/tree/main/prisma-orm-setup)** - Set up Prisma ORM and connect a database
+  - - **[prisma/prisma-compute](https://github.com/prisma/skills/tree/main/prisma-compute)** - Deploy and host TypeScript apps on Prisma Compute
+    - - **[prisma/prisma-client-api](https://github.com/prisma/skills/tree/main/prisma-client-api)** - Prisma Client queries, filters and transactions reference
+      - - **[prisma/prisma-cli](https://github.com/prisma/skills/tree/main/prisma-cli)** - Prisma ORM 7 CLI reference
+        - - **[prisma/prisma-upgrade-v7](https://github.com/prisma/skills/tree/main/prisma-upgrade-v7)** - Migrate Prisma ORM v6 projects to v7
+         
+          - </details>
 
 
 ### Community Skills
