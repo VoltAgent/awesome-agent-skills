@@ -75,7 +75,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) |
 | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) |
 | [Red Hat](#skills-by-redhat) | [Community](#community-skills) | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) |
-| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |  |  |
+| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) | [CometChat](#skills-by-cometchat) |  |
 
 
 
@@ -1502,6 +1502,22 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 </details>
 
+
+<details>
+<summary><h3 style="display:inline">Skills by CometChat</h3></summary>
+
+Official skills published by CometChat for adding chat, voice and video calling to React, Angular, React Native, iOS, Android and Flutter apps. Highlights below; the full set is in the repository.
+
+- **[cometchat/cometchat](https://github.com/cometchat/cometchat-skills/tree/main/skills/cometchat)** - Detect your framework and route to the right CometChat skill
+- **[cometchat/cometchat-onboarding](https://github.com/cometchat/cometchat-skills/tree/main/skills/cometchat-onboarding)** - Plan a chat and calling integration before writing code
+- **[cometchat/cometchat-react-v7-core](https://github.com/cometchat/cometchat-skills/tree/main/skills/cometchat-react-v7-core)** - Add CometChat chat to React apps with UI Kit v7
+- **[cometchat/cometchat-react-native-core](https://github.com/cometchat/cometchat-skills/tree/main/skills/cometchat-react-native-core)** - Add CometChat chat to React Native and Expo apps
+- **[cometchat/cometchat-ios-core](https://github.com/cometchat/cometchat-skills/tree/main/skills/cometchat-ios-core)** - Add CometChat chat to iOS apps with Swift
+- **[cometchat/cometchat-android-v6-core](https://github.com/cometchat/cometchat-skills/tree/main/skills/cometchat-android-v6-core)** - Add CometChat chat to Android apps with Kotlin
+- **[cometchat/cometchat-flutter-v6-core](https://github.com/cometchat/cometchat-skills/tree/main/skills/cometchat-flutter-v6-core)** - Add CometChat chat to Flutter apps
+- **[cometchat/cometchat-angular-v5-core](https://github.com/cometchat/cometchat-skills/tree/main/skills/cometchat-angular-v5-core)** - Add CometChat chat to Angular apps
+
+</details>
 
 ### Community Skills
 
