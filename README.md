@@ -1506,6 +1506,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 <summary><h3 style="display:inline">Skills by Prisma</h3></summary>
 
 Official skills published by Prisma for Prisma Postgres, Prisma ORM and Prisma Compute. 6 skills.
+
 - **[prisma/prisma-postgres-setup](https://github.com/prisma/skills/tree/main/prisma-postgres-setup)** - Obtain or reuse a Prisma Postgres database
 - **[prisma/prisma-orm-setup](https://github.com/prisma/skills/tree/main/prisma-orm-setup)** - Set up Prisma ORM and connect a database
 - **[prisma/prisma-compute](https://github.com/prisma/skills/tree/main/prisma-compute)** - Deploy and host TypeScript apps on Prisma Compute
@@ -1514,7 +1515,6 @@ Official skills published by Prisma for Prisma Postgres, Prisma ORM and Prisma C
 - **[prisma/prisma-upgrade-v7](https://github.com/prisma/skills/tree/main/prisma-upgrade-v7)** - Migrate Prisma ORM v6 projects to v7
 
 </details>
-          - </details>
 
 
 ### Community Skills
