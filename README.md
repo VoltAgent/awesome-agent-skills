@@ -1557,6 +1557,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 <details>
 <summary><h3 style="display:inline">Productivity and Collaboration</h3></summary>
 
+- **[anglesvideo/angles-video-skill](https://github.com/anglesvideo/angles-video-skill) - AI video generation skill for Claude Code: turns URLs/articles into polished marketing videos with AI avatars, voiceovers, and B-roll.
 - **[PSPDFKit-labs/nutrient-agent-skill](https://github.com/PSPDFKit-labs/nutrient-agent-skill)** - Document processing with Nutrient DWS API: convert (PDF/DOCX/XLSX/PPTX/HTML/images), extract text/tables, OCR (20+ languages), redact PII (pattern + AI), watermark, digital signatures, form filling. [MCP server](https://www.npmjs.com/package/@nutrient-sdk/dws-mcp-server) also available.
 - **[notiondevs/Notion Skills for Claude](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0)** - Skills for working with Notion
 - **[op7418/NanoBanana-PPT-Skills](https://github.com/op7418/NanoBanana-PPT-Skills)** - AI-powered PPT generation with document analysis and styled images
