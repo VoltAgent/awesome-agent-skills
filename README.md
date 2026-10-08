@@ -75,7 +75,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) |
 | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) |
 | [Red Hat](#skills-by-redhat) | [Community](#community-skills) | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) |
-| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |  |  |
+| [Google Cloud](#skills-by-google-cloud) | [Nygen Analytics](#skills-by-nygen-analytics) | [Quality Standards](#skill-quality-standards) |  |
 
 
 
@@ -1499,6 +1499,15 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[cypress-io/cypress-author](https://github.com/cypress-io/ai-toolkit/tree/main/skills/cypress-author)** - Creates, updates, and fixes Cypress E2E and component tests.
 - **[cypress-io/cypress-explain](https://github.com/cypress-io/ai-toolkit/tree/main/skills/cypress-explain)** - Explains Cypress E2E and component tests, and answers questions about Cypress use and behavior. 
 - **[cypress-io/cypress-docs](https://github.com/cypress-io/ai-toolkit/tree/main/skills/cypress-docs)** - Search and extract Cypress information from official documentation.
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Nygen Analytics</h3></summary>
+
+Official skill published by Nygen Analytics for Scarf, its open-source single-cell analysis library. 1 skill.
+
+- **[NygenAnalytics/scarf-single-cell](https://github.com/NygenAnalytics/scarf/tree/master/skills/scarf-single-cell)** - Out-of-core single-cell RNA-seq analysis with Scarf's Zarr DataStore
 
 </details>
 
