@@ -1714,6 +1714,10 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[half144/cutaway](https://github.com/half144/cutaway)** - Record polished demo videos of web flows with Playwright
 - **[kulchankas/paranoid](https://github.com/kulchankas/paranoid)** - Pentests your running app: find, prove, patch, re-verify
 - **[gal-a/qikly](https://github.com/gal-a/qikly/tree/main/.claude/skills/qikly)** - Writes pytest suites from criteria the coding agent never sees
+- **[Mindrally/skills](https://github.com/Mindrally/skills)** - 265 Claude Code skills converted from community Cursor rules
+- **[Mindrally/clean-code](https://github.com/Mindrally/skills/tree/main/clean-code)** - Naming, single responsibility, DRY and anti-over-engineering rules
+- **[Mindrally/security-best-practices](https://github.com/Mindrally/skills/tree/main/security-best-practices)** - Input validation, auth and permission boundary rules
+- **[Mindrally/nextjs-react-typescript](https://github.com/Mindrally/skills/tree/main/nextjs-react-typescript)** - Next.js App Router, React, TypeScript and Tailwind conventions
 
 </details>
 
