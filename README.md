@@ -437,6 +437,15 @@ Official skills by Venice.ai for the Venice API.
 </details>
 
 <details>
+<summary><h3 style="display:inline">Skills by LivePair</h3></summary>
+
+Official skill for LivePair — image and video generation API (x402 or lp_ key).
+
+- **[livepairai/livepair-cli](https://github.com/livepairai/livepair-cli)** - `livepair` CLI + SKILL.md: live model catalog, `run` with async polling, aliases, `--download`
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Skills by Vercel Engineering Team</h3></summary>
 
 - **[vercel-labs/next-best-practices](https://officialskills.sh/vercel-labs/skills/next-best-practices)** - Next.js best practices and recommended patterns
