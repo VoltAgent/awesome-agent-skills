@@ -75,7 +75,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) |
 | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) |
 | [Red Hat](#skills-by-redhat) | [Community](#community-skills) | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) |
-| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |  |  |
+| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) | [LivePair AI](#skills-by-livepairai) |  |
 
 
 
@@ -433,6 +433,22 @@ Official skills by Venice.ai for the Venice API.
 - **[veniceai/venice-crypto-rpc](https://github.com/veniceai/skills/tree/main/skills/venice-crypto-rpc)** - JSON-RPC proxying for supported crypto networks
 - **[veniceai/venice-augment](https://github.com/veniceai/skills/tree/main/skills/venice-augment)** - Search, scraping, and text parsing endpoints
 - **[veniceai/venice-errors](https://github.com/veniceai/skills/tree/main/skills/venice-errors)** - Error handling, retries, and API status codes
+
+</details>
+<details>
+<summary><h3 style="display:inline">Skills by LivePair AI</h3></summary>
+
+Official skills by LivePair AI for the LivePair API.
+
+- **[livepairai/livepair-api-overview](https://github.com/livepairai/livepair-skills/tree/main/skills/livepair-api-overview)** - Endpoint map, x402/prepaid-key payment rails, and skill routing
+- **[livepairai/livepair-models](https://github.com/livepairai/livepair-skills/tree/main/skills/livepair-models)** - Model catalog fields, per-option USD pricing, and quote math
+- **[livepairai/livepair-image-generate](https://github.com/livepairai/livepair-skills/tree/main/skills/livepair-image-generate)** - Text-to-image, image edits, upscaling, and background removal
+- **[livepairai/livepair-video](https://github.com/livepairai/livepair-skills/tree/main/skills/livepair-video)** - Text-to-video and image-to-video, including the private model line
+- **[livepairai/livepair-chat](https://github.com/livepairai/livepair-skills/tree/main/skills/livepair-chat)** - OpenAI-compatible text completions billed per token
+- **[livepairai/livepair-x402](https://github.com/livepairai/livepair-skills/tree/main/skills/livepair-x402)** - HTTP 402 payments in USDC on Base and wallet volume tiers
+- **[livepairai/livepair-api-keys](https://github.com/livepairai/livepair-skills/tree/main/skills/livepair-api-keys)** - lp_ key auth, balance endpoint, and refund semantics
+- **[livepairai/livepair-mcp](https://github.com/livepairai/livepair-skills/tree/main/skills/livepair-mcp)** - Remote MCP server setup per host and the 11 tools
+- **[livepairai/livepair-errors](https://github.com/livepairai/livepair-skills/tree/main/skills/livepair-errors)** - Status codes, job failures, refunds, and rate limits
 
 </details>
 
