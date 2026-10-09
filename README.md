@@ -1714,6 +1714,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[half144/cutaway](https://github.com/half144/cutaway)** - Record polished demo videos of web flows with Playwright
 - **[kulchankas/paranoid](https://github.com/kulchankas/paranoid)** - Pentests your running app: find, prove, patch, re-verify
 - **[gal-a/qikly](https://github.com/gal-a/qikly/tree/main/.claude/skills/qikly)** - Writes pytest suites from criteria the coding agent never sees
+- **[aurite-ai/agent-verifier](https://github.com/Aurite-ai/agent-verifier)** - Reviews AI agent code for secrets, unbounded loops, hallucinated tools
 
 </details>
 
