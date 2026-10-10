@@ -1796,7 +1796,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[GarethManning/progressive-hint-ladder](https://github.com/GarethManning/education-agent-skills/tree/main/skills/student-learning/progressive-hint-ladder)** - Provides graduated hints while preserving learner thinking and agency
 - **[GarethManning/competency-unpacker](https://github.com/GarethManning/education-agent-skills/tree/main/skills/curriculum-assessment/competency-unpacker)** - Unpacks broad competencies into assessable sub-skills and success criteria
 - **[ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills)** - Agent skills for YouTube: pull video transcripts and discover videos (search, channel and playlist listings) via TranscriptAPI.
-- **[morluto/rea](https://github.com/morluto/rea/tree/main/skills/reverse-engineer-anything)** - Reverse-engineer binaries, applications, and runtimes with REA
+- **[morluto/rea](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything)** - Reverse-engineer binaries, applications, and runtimes with REA
 - **[apitube/news-api-skills](https://github.com/apitube/news-api-skills)** - Search worldwide news by keyword, entity, sentiment, source, date
 - **[zincio/universal-checkout](https://github.com/zincio/skills/tree/master/skills/universal-checkout)** - Official Zinc API (zinc.com) checkout across 50+ US retailers
 - **[swaylq/humanize-chinese](https://github.com/swaylq/humanize-chinese)** - Detect and rewrite AI-generated Chinese text, fully offline, no LLM
