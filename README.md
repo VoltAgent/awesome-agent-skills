@@ -75,7 +75,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) |
 | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) |
 | [Red Hat](#skills-by-redhat) | [Community](#community-skills) | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) |
-| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |  |  |
+| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) | [Ultralytics](#skills-by-ultralytics) |  |
 
 
 
@@ -1499,6 +1499,22 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[cypress-io/cypress-author](https://github.com/cypress-io/ai-toolkit/tree/main/skills/cypress-author)** - Creates, updates, and fixes Cypress E2E and component tests.
 - **[cypress-io/cypress-explain](https://github.com/cypress-io/ai-toolkit/tree/main/skills/cypress-explain)** - Explains Cypress E2E and component tests, and answers questions about Cypress use and behavior. 
 - **[cypress-io/cypress-docs](https://github.com/cypress-io/ai-toolkit/tree/main/skills/cypress-docs)** - Search and extract Cypress information from official documentation.
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Ultralytics</h3></summary>
+
+Official skills from the Ultralytics team for the full YOLO computer vision lifecycle (data, training, tuning, inference, and export) in Ultralytics Platform or locally with the `ultralytics` package. 8 skills.
+
+- **[ultralytics/yolo](https://github.com/ultralytics/skills/tree/main/skills/yolo)** - Route any YOLO or Ultralytics Platform task across the lifecycle
+- **[ultralytics/yolo-models](https://github.com/ultralytics/skills/tree/main/skills/yolo-models)** - Pick YOLO26, YOLO11, SAM, or RT-DETR models, sizes, and tasks
+- **[ultralytics/yolo-datasets](https://github.com/ultralytics/skills/tree/main/skills/yolo-datasets)** - Annotate, convert, and debug YOLO datasets in Platform or locally
+- **[ultralytics/yolo-training](https://github.com/ultralytics/skills/tree/main/skills/yolo-training)** - Train and validate YOLO on Platform cloud GPUs or locally
+- **[ultralytics/yolo-tuning](https://github.com/ultralytics/skills/tree/main/skills/yolo-tuning)** - Compare experiments and run YOLO hyperparameter search
+- **[ultralytics/yolo-inference](https://github.com/ultralytics/skills/tree/main/skills/yolo-inference)** - Run YOLO prediction, tracking, Solutions, and Platform endpoints
+- **[ultralytics/yolo-export](https://github.com/ultralytics/skills/tree/main/skills/yolo-export)** - Export YOLO to ONNX, TensorRT, CoreML, OpenVINO, and NPUs
+- **[ultralytics/platform-cli](https://github.com/ultralytics/skills/tree/main/skills/platform-cli)** - Script Ultralytics Platform datasets, training, and deployments with `ul`
 
 </details>
 
