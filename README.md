@@ -1606,6 +1606,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[GiaSip/giasip-research](https://github.com/GiaSip/giasip-skills/tree/main/skills/giasip-research)** - Source-linked research reports with explicit unresolved checks
 - **[tronghieu/agent-skills](https://github.com/tronghieu/agent-skills)** - 18 method-driven skills for knowledge work: strategy, research, writing
 - **[dmoshehun-prog/learn-from-materials](https://github.com/dmoshehun-prog/learn-from-materials)** - Turn documents into source-grounded interactive learning pages for AI agents
+- **[hunxuankai/wxpusher-integration](https://github.com/hunxuankai/wxpusher-integration/tree/67fdb08b4fa574f2c4c2213838dc142f837e9ea2/skills/wxpusher-integration)** - Integrate and troubleshoot WxPusher notifications using UID, Topic, and SPT
 
 </details>
 
