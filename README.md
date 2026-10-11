@@ -1607,6 +1607,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[tronghieu/agent-skills](https://github.com/tronghieu/agent-skills)** - 18 method-driven skills for knowledge work: strategy, research, writing
 - **[dmoshehun-prog/learn-from-materials](https://github.com/dmoshehun-prog/learn-from-materials)** - Turn documents into source-grounded interactive learning pages for AI agents
 - **[siril9/presentation-skill](https://github.com/siril9/presentation-skill)** - Generate editable PowerPoint decks from source with visual QA.
+- **[rijans/humanize-text](https://github.com/rijans/agent-skills/tree/main/skills/humanize-text)** - Rewrite AI-sounding prose into natural, specific human writing
 
 </details>
 
@@ -1717,6 +1718,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[half144/cutaway](https://github.com/half144/cutaway)** - Record polished demo videos of web flows with Playwright
 - **[kulchankas/paranoid](https://github.com/kulchankas/paranoid)** - Pentests your running app: find, prove, patch, re-verify
 - **[gal-a/qikly](https://github.com/gal-a/qikly/tree/main/.claude/skills/qikly)** - Writes pytest suites from criteria the coding agent never sees
+- **[rijans/use-telegram-serverless](https://github.com/rijans/agent-skills/tree/main/skills/use-telegram-serverless)** - Build Telegram bots and Mini Apps on Telegram Serverless
 
 </details>
 
