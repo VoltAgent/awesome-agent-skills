@@ -1813,6 +1813,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[ilyautov/small-business-ru](https://github.com/ilyautov/small-business-ru/tree/main/small-business-ru/skills)** - 34 skills for Russian small business: taxes, deadlines, counterparty checks
 - **[eatmoreduck/boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)** - BOSS Zhipin (zhipin.com) job scraper via Chrome CDP, plaintext salaries
 - **[elithril/blender-kiln](https://github.com/elithril/blender-kiln/tree/main/plugin)** - Text or photo to game-ready GLB through Blender MCP
+- **[hyperb1iss/unifly](https://github.com/hyperb1iss/unifly/tree/main/skills/unifly)** - Inspect and manage Ubiquiti UniFi networks through the unifly CLI
 
 </details>
 
