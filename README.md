@@ -1720,6 +1720,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[kulchankas/paranoid](https://github.com/kulchankas/paranoid)** - Pentests your running app: find, prove, patch, re-verify
 - **[gal-a/qikly](https://github.com/gal-a/qikly/tree/main/.claude/skills/qikly)** - Writes pytest suites from criteria the coding agent never sees
 - **[prisma/skills](https://github.com/prisma/skills)** - Official Prisma skills: ORM, Postgres, Compute and migrations
+- **[edonadei/evaluate-skill](https://github.com/edonadei/caliper/tree/main/skills/evaluate-skill)** - Measures skill reliability with repeated runs, with and without it
 
 </details>
 
