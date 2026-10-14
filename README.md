@@ -1814,6 +1814,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[ilyautov/small-business-ru](https://github.com/ilyautov/small-business-ru/tree/main/small-business-ru/skills)** - 34 skills for Russian small business: taxes, deadlines, counterparty checks
 - **[eatmoreduck/boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)** - BOSS Zhipin (zhipin.com) job scraper via Chrome CDP, plaintext salaries
 - **[elithril/blender-kiln](https://github.com/elithril/blender-kiln/tree/main/plugin)** - Text or photo to game-ready GLB through Blender MCP
+- **[api-freaks/apifreaks-platform](https://github.com/api-freaks/apifreaks-agent-skills/tree/main/skills/apifreaks-platform)** - Live WHOIS, DNS, IP, validation and screenshot data for agents
 
 </details>
 
