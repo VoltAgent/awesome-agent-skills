@@ -1721,6 +1721,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[kulchankas/paranoid](https://github.com/kulchankas/paranoid)** - Pentests your running app: find, prove, patch, re-verify
 - **[gal-a/qikly](https://github.com/gal-a/qikly/tree/main/.claude/skills/qikly)** - Writes pytest suites from criteria the coding agent never sees
 - **[prisma/skills](https://github.com/prisma/skills)** - Official Prisma skills: ORM, Postgres, Compute and migrations
+- **[NovaCode37/claude-security-skills](https://github.com/NovaCode37/claude-security-skills)** - Eight security review skills: secrets, Python SAST, vulnerable dependencies, Dockerfiles, HTTP headers, CORS, JWTs and prompt injection, standard library only and also runnable in CI
 
 </details>
 
