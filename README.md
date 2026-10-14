@@ -1590,6 +1590,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[siril9/presentation-skill](https://github.com/siril9/presentation-skill)** - Generate editable PowerPoint decks from source with visual QA.
 - **[voygr-tech/placecall](https://github.com/voygr-tech/placecall/tree/main/skills/placecall)** - Calls US businesses by phone and returns outcome and transcript
 - **[arifszn/slide-wright](https://github.com/arifszn/slide-wright)** - Generate themed HTML slide decks, export to PowerPoint or PDF
+- **[raunaqbn/html-docs](https://github.com/raunaqbn/html-docs-skill/tree/main/html-docs)** - Create cited documents, narrated videos, courses, and collaborative reviews
 
 </details>
 
