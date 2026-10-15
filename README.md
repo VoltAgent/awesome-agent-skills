@@ -75,7 +75,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) |
 | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) |
 | [Red Hat](#skills-by-redhat) | [Community](#community-skills) | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) |
-| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |  |  |
+| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) | [Taplio](#skills-by-taplio) |  |
 
 
 
@@ -383,6 +383,38 @@ Production-grade Agent Skills for every major test automation framework, maintai
 <summary><h3 style="display:inline">Skills by Typefully</h3></summary>
 
 - **[typefully/typefully](https://officialskills.sh/typefully/skills/typefully)** - Create, schedule, and publish social media content across X, LinkedIn, Threads, Bluesky, and Mastodon
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Taplio</h3></summary>
+
+- **[TaplioOfficial/linkedin-analytics-interpreter](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-analytics-interpreter)** - Interpret LinkedIn analytics and recommend next actions
+- **[TaplioOfficial/linkedin-audience-persona-builder](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-audience-persona-builder)** - Define a focused persona for your LinkedIn audience
+- **[TaplioOfficial/linkedin-carousel-builder](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-carousel-builder)** - Plan and write LinkedIn carousel content
+- **[TaplioOfficial/linkedin-comment-opportunity-finder](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-comment-opportunity-finder)** - Find and prioritize relevant LinkedIn posts to comment on
+- **[TaplioOfficial/linkedin-comment-reply-manager](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-comment-reply-manager)** - Draft and manage replies to LinkedIn post comments
+- **[TaplioOfficial/linkedin-connection-request-hook](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-connection-request-hook)** - Write personalized LinkedIn connection request notes
+- **[TaplioOfficial/linkedin-content-calendar-planner](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-content-calendar-planner)** - Plan a LinkedIn content calendar around your goals
+- **[TaplioOfficial/linkedin-content-pillars-builder](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-content-pillars-builder)** - Define LinkedIn content pillars and topic ideas
+- **[TaplioOfficial/linkedin-cta-optimizer](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-cta-optimizer)** - Improve calls to action in LinkedIn posts
+- **[TaplioOfficial/linkedin-daily-engagement-routine](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-daily-engagement-routine)** - Run a daily LinkedIn engagement workflow
+- **[TaplioOfficial/linkedin-dm-opener](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-dm-opener)** - Draft personalized LinkedIn direct message openers
+- **[TaplioOfficial/linkedin-engagement-tracker](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-engagement-tracker)** - Review LinkedIn comment activity and engagement results
+- **[TaplioOfficial/linkedin-engagement-watchlist-builder](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-engagement-watchlist-builder)** - Identify relevant LinkedIn creators for regular engagement
+- **[TaplioOfficial/linkedin-hook-generator](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-hook-generator)** - Generate opening hooks for LinkedIn posts
+- **[TaplioOfficial/linkedin-niche-creator-finder](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-niche-creator-finder)** - Find LinkedIn creators in your niche
+- **[TaplioOfficial/linkedin-niche-definer](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-niche-definer)** - Clarify your LinkedIn niche and positioning
+- **[TaplioOfficial/linkedin-post-performance-critic](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-post-performance-critic)** - Review LinkedIn drafts and suggest focused improvements
+- **[TaplioOfficial/linkedin-post-writer](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-post-writer)** - Write LinkedIn posts in your voice
+- **[TaplioOfficial/linkedin-profile-optimizer](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-profile-optimizer)** - Audit and improve your LinkedIn profile
+- **[TaplioOfficial/linkedin-repurposer](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-repurposer)** - Repurpose existing content into LinkedIn posts
+- **[TaplioOfficial/linkedin-smart-comment-writer](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-smart-comment-writer)** - Draft thoughtful LinkedIn comments with explicit approval before posting
+- **[TaplioOfficial/linkedin-story-extractor](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-story-extractor)** - Turn personal experiences into LinkedIn post ideas
+- **[TaplioOfficial/linkedin-swipe-file-builder](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-swipe-file-builder)** - Organize LinkedIn inspiration into a reusable swipe file
+- **[TaplioOfficial/linkedin-trending-topics-scanner](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-trending-topics-scanner)** - Find relevant trending topics for LinkedIn content
+- **[TaplioOfficial/linkedin-viral-post-analyzer](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-viral-post-analyzer)** - Analyze successful LinkedIn posts and extract useful patterns
+- **[TaplioOfficial/linkedin-warm-lead-finder](https://github.com/TaplioOfficial/taplio-linkedin-claude-skills/tree/main/skills/linkedin-warm-lead-finder)** - Identify promising leads among LinkedIn post commenters
 
 </details>
 
