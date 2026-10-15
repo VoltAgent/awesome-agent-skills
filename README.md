@@ -1795,6 +1795,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[eatmoreduck/boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)** - BOSS Zhipin (zhipin.com) job scraper via Chrome CDP, plaintext salaries
 - **[OptimNow/cloud-finops-skills](https://github.com/OptimNow/cloud-finops-skills/tree/main/skills/cloud-finops)** - FinOps knowledge: cloud billing mechanics, commitments, allocation, AI spend
 - **[elithril/blender-kiln](https://github.com/elithril/blender-kiln/tree/main/plugin)** - Text or photo to game-ready GLB through Blender MCP
+- **[MetaMask/metamask-agent-wallet](https://github.com/MetaMask/agent-skills/tree/main/skills/metamask-agent-wallet)** - Official MetaMask self-custodial wallet: swaps, bridges, perps, x402 payments
 
 </details>
 
