@@ -1704,6 +1704,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[gal-a/qikly](https://github.com/gal-a/qikly/tree/main/.claude/skills/qikly)** - Writes pytest suites from criteria the coding agent never sees
 - **[prisma/skills](https://github.com/prisma/skills)** - Official Prisma skills: ORM, Postgres, Compute and migrations
 - **[oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)** - Unlock AI design potential through UI exploration and visual review
+- **[skymanbp/cc-tree](https://github.com/skymanbp/cc-tree)** - Auditable radial-tree exploration for brainstorming, critique, design and code audit
 
 </details>
 
