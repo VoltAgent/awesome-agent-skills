@@ -1587,6 +1587,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[tronghieu/agent-skills](https://github.com/tronghieu/agent-skills)** - 18 method-driven skills for knowledge work: strategy, research, writing
 - **[dmoshehun-prog/learn-from-materials](https://github.com/dmoshehun-prog/learn-from-materials)** - Turn documents into source-grounded interactive learning pages for AI agents
 - **[siril9/presentation-skill](https://github.com/siril9/presentation-skill)** - Generate editable PowerPoint decks from source with visual QA.
+- **[AugustusW/audio-tldr](https://github.com/AugustusW/audio-tldr-skill/tree/main/skills/audio-tldr)** - Summarize videos and podcasts with local, cached transcription
 
 </details>
 
