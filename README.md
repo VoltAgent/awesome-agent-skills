@@ -1740,6 +1740,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[rebelytics/task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all)** - Meta-skill for continuous skill improvement & automatic skill creation.
 - **[archcore-ai/archcore](https://github.com/archcore-ai/archcore)** - Spec-driven development and context engineering for AI coding agents
 - **[Qiuner/birdview](https://github.com/Qiuner/birdview)** - Put architecture and constraints at the center of AI coding
+- **[JayPokale/chisle](https://github.com/JayPokale/Chisle/tree/main/skills/chisle)** - Cuts agent tokens: terse prose, lean code, trimmed tool output
 
 </details>
 
