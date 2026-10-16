@@ -1798,6 +1798,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[eatmoreduck/boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)** - BOSS Zhipin (zhipin.com) job scraper via Chrome CDP, plaintext salaries
 - **[OptimNow/cloud-finops-skills](https://github.com/OptimNow/cloud-finops-skills/tree/main/skills/cloud-finops)** - FinOps knowledge: cloud billing mechanics, commitments, allocation, AI spend
 - **[elithril/blender-kiln](https://github.com/elithril/blender-kiln/tree/main/plugin)** - Text or photo to game-ready GLB through Blender MCP
+- **[assafkip/claudemy](https://github.com/assafkip/claudemy)** - Any topic into 2-minute audio lessons with cited sources
 
 </details>
 
