@@ -1531,6 +1531,12 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Upload-Post/upload-post-skill](https://github.com/Upload-Post/upload-post-skill)** - Publish and schedule social media posts through one API
 - **[publora/skills](https://github.com/publora/skills)** - Draft, schedule and publish posts to ten social networks
 
+- **[moooai/takeout-coupon](https://github.com/moooai/takeout-coupon)** - Fetches food-delivery coupons for Meituan, Ele.me/Taobao Shangou and JD Waimai; returns promo codes, claim links and QR codes
+- **[moooai/trip-coupon](https://github.com/moooai/trip-coupon)** - Travel coupons: Didi ride-hailing bundles and hotel deals from Meituan, Tongcheng and Fliggy
+- **[moooai/movie-coupon](https://github.com/moooai/movie-coupon)** - Movie ticket coupons from Taopiaopiao and Maoyan, with claim links and QR codes
+- **[moooai/parcel-coupon](https://github.com/moooai/parcel-coupon)** - Courier coupons for SF Express, ZTO, YTO, Yunda, STO and Cainiao
+- **[moooai/obtain-coupons-all-in-one](https://github.com/moooai/obtain-coupons-all-in-one)** - All-in-one coupon fetcher covering takeout, travel, movie and parcel coupons
+
 </details>
 
 <details>
