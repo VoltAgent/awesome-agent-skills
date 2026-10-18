@@ -1489,6 +1489,14 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 </details>
 
+
+<details>
+<summary><h3 style="display:inline">Cognitive Skills (from classic books)</h3></summary>
+
+- **[Trustbaselab/trustbase-skills](https://github.com/Trustbaselab/trustbase-skills)** - 8 cognitive skills that turn classic books (Factfulness, Thinking Fast and Slow, Noise, Thinking in Systems, Scarcity + Deep Work, The Knowledge Illusion, Who Can You Trust?) into executable if-then rules, each shipping an evidence.md with before/after data from a real project (e.g. per-round context 141K tokens -> 5.6K). Also includes a meta `book-to-skill` skill: the book-to-skill method itself, packaged as a skill. Apache-2.0, bilingual (English + Chinese).
+
+</details>
+
 <details>
 <summary><h3 style="display:inline">Marketing</h3></summary>
 
