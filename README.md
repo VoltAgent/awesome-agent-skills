@@ -1530,6 +1530,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[nagameTW/formosa-humanizer](https://github.com/nagameTW/formosa-humanizer)** - Removes AI-writing markers from Taiwan Traditional Chinese text
 - **[Upload-Post/upload-post-skill](https://github.com/Upload-Post/upload-post-skill)** - Publish and schedule social media posts through one API
 - **[publora/skills](https://github.com/publora/skills)** - Draft, schedule and publish posts to ten social networks
+- **[brajendrak00068/agentic-ai-video-production](https://github.com/brajendrak00068/agentic-ai-video-production)** - Autonomous AI video editor skills & MCP server for viral clips, auto captions (114+ templates), 9:16 vertical reframing, silence removal, B-roll, motion graphics, multicam sync, and cloud MP4 export
 
 </details>
 
