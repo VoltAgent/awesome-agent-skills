@@ -1588,6 +1588,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[dmoshehun-prog/learn-from-materials](https://github.com/dmoshehun-prog/learn-from-materials)** - Turn documents into source-grounded interactive learning pages for AI agents
 - **[bablobanov/hermes-telegram-checklist](https://github.com/bablobanov/hermes-telegram-checklist)** - Create and manage native Telegram checklists with verified writes
 - **[siril9/presentation-skill](https://github.com/siril9/presentation-skill)** - Generate editable PowerPoint decks from source with visual QA.
+- **[radres/call-me](https://github.com/radres/call-me/tree/main/skill)** - Agent phones your iPhone and returns your spoken answer
 
 </details>
 
