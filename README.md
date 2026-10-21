@@ -1708,6 +1708,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[prisma/skills](https://github.com/prisma/skills)** - Official Prisma skills: ORM, Postgres, Compute and migrations
 - **[oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)** - Unlock AI design potential through UI exploration and visual review
 - **[moxno/privacyscrubber-guard](https://github.com/moxno/privacyscrubber-mcp/tree/main/skills/privacyscrubber-guard)** - Sanitize PII and secrets in RAM before agent calls
+- **[first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent)** - Harness skills linked into Claude Code, Codex, Cursor and more
 
 </details>
 
