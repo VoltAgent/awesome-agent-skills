@@ -1577,7 +1577,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[zapier/zapier-mcp](https://github.com/zapier/zapier-mcp)** - Official plugin distribution for the hosted Zapier MCP server. Connects Claude to thousands of apps — send messages, pull data, trigger workflows.
 - **[Neeeophytee/finding-unknowns-skills](https://github.com/Neeeophytee/finding-unknowns-skills)** - 8 meta-skills that make a coding agent surface your unknowns before they get expensive: blindspot pass, interview, reference hunt, implementation plan/notes, pitch packager, and a pre-merge change quiz. Works in Claude Code, Codex, and Cursor via the agentskills.io SKILL.md format
 - **[kgraph57/strategy-consulting-visualization](https://github.com/kgraph57/mckinsey-style-visualization-skill)** - McKinsey-style charts and consulting slide decks
-- **[vaibhavarora14/job-application-agent](https://github.com/vaibhavarora14/job-application-agent)** - Privacy-first job discovery and tracking
+- **[vaibhavarora14/job-application-agent](https://github.com/vaibhavarora14/job-application-agent)** - JobAppAgent: free MIT open-source job application agent, one verified résumé
 - **[wgwtest/novel-writing](https://github.com/wgwtest/novel-writing)** - Plans and revises fiction with viewpoint, dialogue, and style checks.
 - **[cyperx84/claude-skills-mental-models](https://github.com/cyperx84/claude-skills-mental-models)** - Drop your own mental models in as files; 21 included
 - **[manavmishra/zero-slop](https://github.com/manavmishra/ZeroSlop/blob/main/SKILL.md)** - Edits AI-sounding prose while preserving facts, voice, and formatting
