@@ -1530,6 +1530,24 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Upload-Post/upload-post-skill](https://github.com/Upload-Post/upload-post-skill)** - Publish and schedule social media posts through one API
 - **[yuwen-cool/yuwen-publish-precheck](https://github.com/yuwen-cool/yuwen-publish-precheck)** - Review Chinese social content before publishing, with source-backed corrections
 - **[publora/skills](https://github.com/publora/skills)** - Draft, schedule and publish posts to ten social networks
+- **[dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/social-auto-upload)** - Cross-platform publishing CLI and skills for 17 social platforms
+- **[dreammis/alipay-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/alipay-upload)** - Publish video posts to Alipay Life Services
+- **[dreammis/baijiahao-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/baijiahao-upload)** - Publish videos to Baijiahao
+- **[dreammis/bilibili-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/bilibili-upload)** - Upload videos to Bilibili with category selection
+- **[dreammis/dayu-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/dayu-upload)** - Publish videos and articles to Dayuhao
+- **[dreammis/douyin-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/douyin-upload)** - Publish videos and image-text posts to Douyin
+- **[dreammis/facebook-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/facebook-upload)** - Publish video and image posts to Facebook profiles
+- **[dreammis/hupu-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/hupu-upload)** - Publish video posts to Hupu
+- **[dreammis/instagram-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/instagram-upload)** - Publish Reels, images, and carousels to Instagram
+- **[dreammis/kuaishou-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/kuaishou-upload)** - Publish videos and image-text posts to Kuaishou
+- **[dreammis/meta-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/meta-upload)** - Schedule videos and image posts to Facebook Pages
+- **[dreammis/tencent-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/tencent-upload)** - Publish and schedule videos on WeChat Channels
+- **[dreammis/tiktok-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/tiktok-upload)** - Upload TikTok videos with the repository's Chrome uploader
+- **[dreammis/weibo-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/weibo-upload)** - Publish videos to Weibo
+- **[dreammis/xiaohongshu-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/xiaohongshu-upload)** - Publish videos and image-text posts to Xiaohongshu
+- **[dreammis/xueqiu-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/xueqiu-upload)** - Publish long-form articles to Xueqiu
+- **[dreammis/youtube-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/youtube-upload)** - Upload and schedule YouTube videos
+- **[dreammis/zhihu-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/zhihu-upload)** - Publish articles and videos to Zhihu
 
 </details>
 
