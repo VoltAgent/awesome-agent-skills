@@ -1711,7 +1711,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[skymanbp/cc-tree](https://github.com/skymanbp/cc-tree)** - Auditable radial-tree exploration for brainstorming, critique, design and code audit
 - **[moxno/privacyscrubber-guard](https://github.com/moxno/privacyscrubber-mcp/tree/main/skills/privacyscrubber-guard)** - Sanitize PII and secrets in RAM before agent calls
 - **[finom/vovk](https://github.com/finom/vovk/tree/main/skills)** - Next.js API routes as MCP tools and typed clients
-- **[aictrl-dev/code-review](https://github.com/aictrl-dev/skills/tree/main/skills/code-review)** - Review pull requests for defects with code and test evidence.
+- **[aictrl-dev/recording-product-demo](https://github.com/aictrl-dev/skills/tree/main/skills/recording-product-demo)** - Record narrated product demos with synchronized browser actions and captions.
 
 </details>
 
