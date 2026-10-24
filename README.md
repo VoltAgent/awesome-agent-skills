@@ -1530,6 +1530,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Upload-Post/upload-post-skill](https://github.com/Upload-Post/upload-post-skill)** - Publish and schedule social media posts through one API
 - **[yuwen-cool/yuwen-publish-precheck](https://github.com/yuwen-cool/yuwen-publish-precheck)** - Review Chinese social content before publishing, with source-backed corrections
 - **[publora/skills](https://github.com/publora/skills)** - Draft, schedule and publish posts to ten social networks
+- **[jiawood2006/de-ai-writer](https://github.com/jiawood2006/hermes-skills/tree/main/skills/de-ai-writer)** - Remove AI-writing tells from Simplified Chinese text, zero API key
 
 </details>
 
