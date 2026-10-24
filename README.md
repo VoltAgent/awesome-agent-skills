@@ -1530,6 +1530,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Upload-Post/upload-post-skill](https://github.com/Upload-Post/upload-post-skill)** - Publish and schedule social media posts through one API
 - **[yuwen-cool/yuwen-publish-precheck](https://github.com/yuwen-cool/yuwen-publish-precheck)** - Review Chinese social content before publishing, with source-backed corrections
 - **[publora/skills](https://github.com/publora/skills)** - Draft, schedule and publish posts to ten social networks
+- **[emotixco/claude-skills-founder](https://github.com/emotixco/claude-skills-founder)** - Validate ideas, research competitors, price, pitch, and plan launches.
 
 </details>
 
