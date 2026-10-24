@@ -75,7 +75,7 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) |
 | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) |
 | [Red Hat](#skills-by-redhat) | [Community](#community-skills) | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) |
-| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |  |  |
+| [Google Cloud](#skills-by-google-cloud) | [Capgo](#skills-by-capgo) | [Quality Standards](#skill-quality-standards) |  |
 
 
 
@@ -1450,6 +1450,24 @@ Official Google Cloud skills covering Firebase, BigQuery, Cloud Run, GKE, AlloyD
 - **[google/cloud/google-cloud-waf-reliability](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-reliability)** - Generates reliability-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Google Cloud Well-Architected Framework.
 - **[google/cloud/google-cloud-waf-security](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-security)** - Generates security-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Google Cloud Well-Architected Framework (WAF).
 - **[google/cloud/google-cloud-waf-sustainability](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-sustainability)** - Generates sustainability-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Google Cloud Well-Architected Framework (WAF).
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Capgo</h3></summary>
+
+Official agent skills from Capgo for building, upgrading, and shipping Capacitor apps.
+
+- **[cap-go/capacitor-best-practices](https://github.com/Cap-go/capgo-skills/tree/main/skills/capacitor-best-practices)** - Capacitor project structure, performance, and security practices
+- **[cap-go/capacitor-plugins](https://github.com/Cap-go/capgo-skills/tree/main/skills/capacitor-plugins)** - Pick, install, and verify Capacitor and Capgo plugins
+- **[cap-go/capacitor-app-upgrade-v8-to-v9](https://github.com/Cap-go/capgo-skills/tree/main/skills/capacitor-app-upgrade-v8-to-v9)** - Upgrade Capacitor apps from v8 to v9
+- **[cap-go/capacitor-uiscene-migration](https://github.com/Cap-go/capgo-skills/tree/main/skills/capacitor-uiscene-migration)** - Adopt iOS UIScene lifecycle required by Xcode 27
+- **[cap-go/debugging-capacitor](https://github.com/Cap-go/capgo-skills/tree/main/skills/debugging-capacitor)** - Debug Capacitor apps on iOS and Android
+- **[cap-go/capacitor-push-notifications](https://github.com/Cap-go/capgo-skills/tree/main/skills/capacitor-push-notifications)** - Push notifications with FCM and APNs
+- **[cap-go/capacitor-deep-linking](https://github.com/Cap-go/capgo-skills/tree/main/skills/capacitor-deep-linking)** - Universal Links and App Links for Capacitor apps
+- **[cap-go/capacitor-testing](https://github.com/Cap-go/capgo-skills/tree/main/skills/capacitor-testing)** - Unit, E2E, and on-device testing for Capacitor apps
+- **[cap-go/capgo-live-updates](https://github.com/Cap-go/capgo-skills/tree/main/skills/capgo-live-updates)** - Ship over-the-air updates with Capgo
+- **[cap-go/cordova-to-capacitor](https://github.com/Cap-go/capgo-skills/tree/main/skills/cordova-to-capacitor)** - Migrate Cordova or PhoneGap apps to Capacitor
 
 </details>
 
