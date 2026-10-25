@@ -1478,6 +1478,19 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[cypress-io/cypress-docs](https://github.com/cypress-io/ai-toolkit/tree/main/skills/cypress-docs)** - Search and extract Cypress information from official documentation.
 
 </details>
+<details>
+<summary><h3 style="display:inline">Skills by LuniumPay Team</h3></summary>
+
+- **[LuniumPay/luniumpay](https://github.com/LuniumPay/lunium-agent-skills/tree/main/luniumpay)** - Hub for Brazilian Pix ↔ stablecoin payments: decision tree, 7-step integration, states, errors, production checklist
+- **[LuniumPay/luniumpay-pix-charge](https://github.com/LuniumPay/lunium-agent-skills/tree/main/luniumpay-pix-charge)** - Accept a Pix payment and settle USDT/USDC to a wallet, with Next.js, Express, FastAPI and Supabase recipes
+- **[LuniumPay/luniumpay-custody](https://github.com/LuniumPay/lunium-agent-skills/tree/main/luniumpay-custody)** - BRL custody balance, per-customer sub-accounts, crypto withdrawals and Pix payouts
+- **[LuniumPay/luniumpay-webhooks](https://github.com/LuniumPay/lunium-agent-skills/tree/main/luniumpay-webhooks)** - Verify signed webhooks (HMAC over the raw body), deduplicate events, audit deliveries
+- **[LuniumPay/luniumpay-crypto-sale](https://github.com/LuniumPay/lunium-agent-skills/tree/main/luniumpay-crypto-sale)** - Pay a Pix key or copy-and-paste code with crypto: quote, accept, deposit, Central Bank receipt
+- **[LuniumPay/luniumpay-usdt-wallet](https://github.com/LuniumPay/lunium-agent-skills/tree/main/luniumpay-usdt-wallet)** - Hold USDT/USDC and pay Pix from it by key or copy-and-paste
+- **[LuniumPay/luniumpay-verify-payment](https://github.com/LuniumPay/lunium-agent-skills/tree/main/luniumpay-verify-payment)** - Prove a Brazilian Pix settled from its E2E id, with no API key
+
+</details>
+
 
 
 ### Community Skills
