@@ -1715,6 +1715,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[aurite-ai/agent-verifier](https://github.com/Aurite-ai/agent-verifier)** - Reviews AI agent code for secrets, unbounded loops, hallucinated tools
 - **[finom/vovk](https://github.com/finom/vovk/tree/main/skills)** - Next.js API routes as MCP tools and typed clients
 
+- **[xixi048/publish-to-all-skill-stores](https://github.com/xixi048/publish-to-all-skill-stores)** - Publish one SKILL.md skill to every agent-skill store at once (36 channels: public submit APIs, GitHub-PR registries, login-gated CLIs, platform-hosted stores). Ships a readiness check, a packager and a batch submitter; also exposes the tools over MCP.
 </details>
 
 <details>
