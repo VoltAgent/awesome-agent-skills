@@ -1815,6 +1815,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[assafkip/claudemy](https://github.com/assafkip/claudemy)** - Any topic into 2-minute audio lessons with cited sources
 - **[nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills)** - 150+ ecommerce skills for Amazon, Shopify, Etsy, TikTok sellers
 
+- **[xixi048/feeling-search-skill](https://github.com/xixi048/feeling-search-skill)** - Turn a vague feeling into concrete visual style: one colloquial sentence in, 762 feeling words and 598 visual styles out. Free on a local cached lexicon, with a paid cloud fallback only on explicit opt-in
 </details>
 
 <details>
