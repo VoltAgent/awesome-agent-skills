@@ -1598,6 +1598,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 <details>
 <summary><h3 style="display:inline">Development and Testing</h3></summary>
 
+- **[yangyongzhen/cj-tauri](https://github.com/yangyongzhen/cj-tauri)** - Agent skills for the cj-tauri framework (Cangjie + system WebView hybrid apps): environment setup and install guidance, app scaffolding with commands/plugins, real-device verification with evidence gathering, and a field-tested pitfall quick reference
 - **[VoDaiLocz/kilo-kit-mcp](https://github.com/VoDaiLocz/kilo-kit-mcp)** - Comprehensive library of 177 curated skills paired with an MCP runtime enforcing protocol-level C4 workflow gates, hard-gated command execution with security guardrails, and 5 cognitive reasoning engines (Tree of Thoughts DAG, Adversarial Grilling, 5-Whys Root Cause Tracer, Context Compactor, Self-Evolution) for Claude Code, Cursor, Antigravity, and Codex
 
 - **[hedralab/eskill](https://github.com/hedralab/eskill)** - Meta-skill to build top-tier Agent Skills: spec-compliant SKILL.md, eval loop, validator, market research, numbered-file pipeline
