@@ -1714,6 +1714,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[moxno/privacyscrubber-guard](https://github.com/moxno/privacyscrubber-mcp/tree/main/skills/privacyscrubber-guard)** - Sanitize PII and secrets in RAM before agent calls
 - **[aurite-ai/agent-verifier](https://github.com/Aurite-ai/agent-verifier)** - Reviews AI agent code for secrets, unbounded loops, hallucinated tools
 - **[finom/vovk](https://github.com/finom/vovk/tree/main/skills)** - Next.js API routes as MCP tools and typed clients
+- **[light-cloud-com/light-cloud-deploy](https://github.com/light-cloud-com/skills/tree/main/skills/light-cloud-deploy)** - Deploy apps, databases and domains on Light Cloud
 
 </details>
 
