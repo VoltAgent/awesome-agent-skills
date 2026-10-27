@@ -1750,6 +1750,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[rebelytics/task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all)** - Meta-skill for continuous skill improvement & automatic skill creation.
 - **[archcore-ai/archcore](https://github.com/archcore-ai/archcore)** - Spec-driven development and context engineering for AI coding agents
 - **[Qiuner/birdview](https://github.com/Qiuner/birdview)** - Put architecture and constraints at the center of AI coding
+- **[ctxfst/skill-line-coach](https://github.com/ctxfst/skill-line-coach)** - Coach Markdown notes and diary entries at write time across four problem-line slots (Actor, Action + Object, Concrete Blocker, Outcome) and link recurring problem shapes across years with embedding probes
 
 </details>
 
