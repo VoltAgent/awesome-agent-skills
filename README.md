@@ -77,6 +77,14 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Red Hat](#skills-by-redhat) | [Community](#community-skills) | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) |
 | [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |  |  |
 
+<br/>
+
+<a href="https://getdesign.md/website-starter-kit">
+<img src="https://cdn.voltagent.dev/awesome-repo/website-starter-kit-banner-dark-0315e5f9c1.png" alt="launchkit"  /><br/>
+</a>
+
+<br/>
+
 
 
 
@@ -1512,7 +1520,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills)** - 69 marketing skills across SEO/GEO, influencer, paid ads, and email on one shared contract, with 5 benchmark-driven auditor gates (CORE-EEAT, CITE, C³, ROAS, SEND) and keyless data connectors
 - **[gooseworks-ai/goose-skills](https://github.com/gooseworks-ai/goose-skills)** - 125 growth and GTM skills: ads, content, lead gen, SEO
 - **[sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills)** - LinkedIn marketing skills: viral hooks, comment drafting, algorithm audit, humanizer
-- **[Vladimir-Human/humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru)** - Removes AI-writing markers from Russian text
+- **[Vladimir-Human/humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru)** - Rewrites AI-written Russian text while preserving numbers, dates, and names
 - **[Bomx/distribb-skill](https://github.com/Bomx/distribb-skill)** - SEO articles, keyword research, CMS publishing, high-DR backlink exchange
 - **[Citlyze/citlyze-skills](https://github.com/citlyze/citlyze-skills)** - AI search visibility skills from the Citlyze team: window-over-window visibility reports, citation gap analysis, prompt audits, and action plans via the Citlyze MCP server, plus a standalone AEO page audit that grades any URL without an account
 - **[AIDevGTM/gtm-cofounder](https://github.com/AIDevGTM/gtm-cofounder)** - 18 go-to-market skills for solo technical founders: positioning, first users, launch, pricing, and founder-led sales; grounded in Adam Frankl and Jakub Czakon
@@ -1521,7 +1529,6 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[SupercmoHQ/superCMO-skills](https://github.com/SupercmoHQ/superCMO-skills)** - Open-source skills + local MCP server for marketing video & image production: UGC videos, ad videos, product photography, and image ads from a product photo and a brief; casts AI actors, picks the best image/video models, edits any-length clips with consistent actor and product, and researches competitor ads. BYO or managed keys, Apache-2.0
 - **[sandbaseai/sandbase-skills/multi-source-search](https://github.com/sandbaseai/sandbase-skills/tree/main/research/multi-source-search)** - Evidence-led multi-source research with offline validation
 - **[Nanako0129/sepia](https://github.com/Nanako0129/sepia)** - De-AI writing skill fixing narrative structure before word choice
-- **[axelfreeman/marketing-mindset](https://github.com/axelfreeman/marketing-mindset)** - Marketing OS for AI agents — think like a marketer first, get tactics as the output
 - **[ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills)** - Research social outliers, comments, competitors, ads, and trends
 - **[ilyautov/humanizer-ru](https://github.com/ilyautov/humanizer-ru/tree/main/skills/humanizer-ru)** - Removes 64 AI-writing markers from Russian text, with scanner
 - **[vanshyadav1408/linkedin-outreach](https://github.com/vanshyadav1408/Omentir/tree/main/plugins/omentir/skills/linkedin-outreach)** - LinkedIn prospecting, scoring, and outreach drafts through Omentir MCP
@@ -1529,8 +1536,12 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[explorium-ai/vibe-prospecting](https://github.com/explorium-ai/vibeprospecting-plugin/tree/main/skills/vibe-prospecting)** - B2B prospecting enrichment and GTM data workflows
 - **[nagameTW/formosa-humanizer](https://github.com/nagameTW/formosa-humanizer)** - Removes AI-writing markers from Taiwan Traditional Chinese text
 - **[Upload-Post/upload-post-skill](https://github.com/Upload-Post/upload-post-skill)** - Publish and schedule social media posts through one API
+- **[AbubakrChan/product-launch-motion](https://github.com/AbubakrChan/product-launch-motion)** - Website URL to 60 fps launch video with music.
 - **[yuwen-cool/yuwen-publish-precheck](https://github.com/yuwen-cool/yuwen-publish-precheck)** - Review Chinese social content before publishing, with source-backed corrections
 - **[publora/skills](https://github.com/publora/skills)** - Draft, schedule and publish posts to ten social networks
+- **[emotixco/claude-skills-founder](https://github.com/emotixco/claude-skills-founder)** - Validate ideas, research competitors, price, pitch, and plan launches.
+- **[karero/croftweaver](https://github.com/karero/croftweaver)** - Builds small-business websites, then keeps improving their SEO and GEO
+- **[harshmaur/apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper)** - Scrape Reddit posts, comments and subreddits without an API key
 
 </details>
 
@@ -1568,7 +1579,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Digidai/product-manager-skills](https://github.com/Digidai/product-manager-skills)** - Senior PM agent with 30+ frameworks and SaaS metrics
 - **[deusyu/translate-book](https://github.com/deusyu/translate-book)** - Translate books (PDF/DOCX/EPUB) via parallel sub-agents with resume
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** - Research any topic across Reddit, X, YouTube, HN, Polymarket, and the web, ranked by upvotes, likes, and real money instead of editors
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** - 14-skill collection for AI-powered job search: JD evaluation with A-F scoring, ATS-optimized PDF generation, portal scanners (Greenhouse/Ashby/Lever), interview prep with STAR+R, batch processing, and a Go dashboard TUI
+- **[career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)** - Scores jobs against your CV, tailors resumes, tracks applications
 - **[Linked-API/linkedin](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin)** - Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf.
 - **[pattern-ai-labs/agentcall](https://github.com/pattern-ai-labs/agentcall)** - Let your AI agents join Google Meet, Zoom, Teams calls and collaborate like a real team-mate.
 - **[Sendmux/skills](https://github.com/Sendmux/skills)** - Sendmux email and mailbox workflows for agents
@@ -1587,9 +1598,16 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[GiaSip/giasip-research](https://github.com/GiaSip/giasip-skills/tree/main/skills/giasip-research)** - Source-linked research reports with explicit unresolved checks
 - **[tronghieu/agent-skills](https://github.com/tronghieu/agent-skills)** - 18 method-driven skills for knowledge work: strategy, research, writing
 - **[dmoshehun-prog/learn-from-materials](https://github.com/dmoshehun-prog/learn-from-materials)** - Turn documents into source-grounded interactive learning pages for AI agents
+- **[chrisryugj/kordoc](https://github.com/chrisryugj/kordoc/tree/main/plugins/kordoc/skills/kordoc)** - Convert Korean HWP/HWPX documents to Markdown, fill forms, generate HWPX
 - **[bablobanov/hermes-telegram-checklist](https://github.com/bablobanov/hermes-telegram-checklist)** - Create and manage native Telegram checklists with verified writes
 - **[siril9/presentation-skill](https://github.com/siril9/presentation-skill)** - Generate editable PowerPoint decks from source with visual QA.
 - **[luchasarie/bro](https://github.com/luchasarie/bro-skill)** - Re-explains the last reply in plain language
+- **[radres/call-me](https://github.com/radres/call-me/tree/main/skill)** - Agent phones your iPhone and returns your spoken answer
+- **[ysskrishna/ai-agent-skills](https://github.com/ysskrishna/ai-agent-skills)** - Structured thinking skills: five whys, pre-mortem, trade-offs
+- **[AugustusW/audio-tldr](https://github.com/AugustusW/audio-tldr-skill/tree/main/skills/audio-tldr)** - Summarize videos and podcasts with local, cached transcription
+- **[voygr-tech/placecall](https://github.com/voygr-tech/placecall/tree/main/skills/placecall)** - Calls US businesses by phone and returns outcome and transcript
+- **[arifszn/slide-wright](https://github.com/arifszn/slide-wright)** - Generate themed HTML slide decks, export to PowerPoint or PDF
+- **[kklimuk/docx-cli](https://github.com/kklimuk/docx-cli)** - Work on .docx files at ~1/2 cost of other skills.
 
 </details>
 
@@ -1706,9 +1724,18 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[half144/cutaway](https://github.com/half144/cutaway)** - Record polished demo videos of web flows with Playwright
 - **[kulchankas/paranoid](https://github.com/kulchankas/paranoid)** - Pentests your running app: find, prove, patch, re-verify
 - **[gal-a/qikly](https://github.com/gal-a/qikly/tree/main/.claude/skills/qikly)** - Writes pytest suites from criteria the coding agent never sees
+- **[supercorp-ai/supercov](https://github.com/supercorp-ai/supercov/tree/main/plugins/supercov/skills/supercov)** - Measure test coverage and write tests for untested code
 - **[prisma/skills](https://github.com/prisma/skills)** - Official Prisma skills: ORM, Postgres, Compute and migrations
+- **[edonadei/evaluate-skill](https://github.com/edonadei/caliper/tree/main/skills/evaluate-skill)** - Measures skill reliability with repeated runs, with and without it
+- **[tushaarmehtaa/tushar-skills](https://github.com/tushaarmehtaa/tushar-skills)** - 34 workflow skills for deploys, outreach, fundraising, specs, launches
 - **[oil-oil/oil-ui](https://github.com/oil-oil/oil-ui)** - Unlock AI design potential through UI exploration and visual review
+- **[skymanbp/cc-tree](https://github.com/skymanbp/cc-tree)** - Auditable radial-tree exploration for brainstorming, critique, design and code audit
 - **[moxno/privacyscrubber-guard](https://github.com/moxno/privacyscrubber-mcp/tree/main/skills/privacyscrubber-guard)** - Sanitize PII and secrets in RAM before agent calls
+- **[rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)** - Workflow skills, project memory, and model routing for Hermes Agent
+- **[fullselfbrowsing/fsb](https://github.com/fullselfbrowsing/FSB/tree/main/skills/fsb)** - Drive your signed-in Chromium browser through FSB's MCP tools
+- **[first-fluke/oh-my-agent](https://github.com/first-fluke/oh-my-agent)** - Harness skills linked into Claude Code, Codex, Cursor and more
+- **[aurite-ai/agent-verifier](https://github.com/Aurite-ai/agent-verifier)** - Reviews AI agent code for secrets, unbounded loops, hallucinated tools
+- **[finom/vovk](https://github.com/finom/vovk/tree/main/skills)** - Next.js API routes as MCP tools and typed clients
 
 </details>
 
@@ -1745,6 +1772,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[rebelytics/task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all)** - Meta-skill for continuous skill improvement & automatic skill creation.
 - **[archcore-ai/archcore](https://github.com/archcore-ai/archcore)** - Spec-driven development and context engineering for AI coding agents
 - **[Qiuner/birdview](https://github.com/Qiuner/birdview)** - Put architecture and constraints at the center of AI coding
+- **[JayPokale/chisle](https://github.com/JayPokale/Chisle/tree/main/skills/chisle)** - Cuts agent tokens: terse prose, lean code, trimmed tool output
 
 </details>
 
@@ -1792,7 +1820,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[GarethManning/progressive-hint-ladder](https://github.com/GarethManning/education-agent-skills/tree/main/skills/student-learning/progressive-hint-ladder)** - Provides graduated hints while preserving learner thinking and agency
 - **[GarethManning/competency-unpacker](https://github.com/GarethManning/education-agent-skills/tree/main/skills/curriculum-assessment/competency-unpacker)** - Unpacks broad competencies into assessable sub-skills and success criteria
 - **[ZeroPointRepo/youtube-skills](https://github.com/ZeroPointRepo/youtube-skills)** - Agent skills for YouTube: pull video transcripts and discover videos (search, channel and playlist listings) via TranscriptAPI.
-- **[morluto/rea](https://github.com/morluto/rea/tree/main/skills/reverse-engineer-anything)** - Reverse-engineer binaries, applications, and runtimes with REA
+- **[morluto/rea](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything)** - Reverse-engineer binaries, applications, and runtimes with REA
 - **[apitube/news-api-skills](https://github.com/apitube/news-api-skills)** - Search worldwide news by keyword, entity, sentiment, source, date
 - **[zincio/universal-checkout](https://github.com/zincio/skills/tree/master/skills/universal-checkout)** - Official Zinc API (zinc.com) checkout across 50+ US retailers
 - **[swaylq/humanize-chinese](https://github.com/swaylq/humanize-chinese)** - Detect and rewrite AI-generated Chinese text, fully offline, no LLM
@@ -1805,7 +1833,11 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[yang0/handraw-style](https://github.com/yang0/handraw-style)** - Hand-drawn illustration styles, layouts, and prompts for image generation
 - **[OptimNow/cloud-finops-skills](https://github.com/OptimNow/cloud-finops-skills/tree/main/skills/cloud-finops)** - FinOps knowledge: cloud billing mechanics, commitments, allocation, AI spend
 - **[elithril/blender-kiln](https://github.com/elithril/blender-kiln/tree/main/plugin)** - Text or photo to game-ready GLB through Blender MCP
+- **[wiltodelta/remove-ai-watermarks](https://github.com/wiltodelta/remove-ai-watermarks/tree/main/skills/remove-ai-watermarks)** - Remove AI watermarks and provenance metadata from images you own
+- **[hyperb1iss/unifly](https://github.com/hyperb1iss/unifly/tree/main/skills/unifly)** - Inspect and manage Ubiquiti UniFi networks through the unifly CLI
+- **[MetaMask/metamask-agent-wallet](https://github.com/MetaMask/agent-skills/tree/main/skills/metamask-agent-wallet)** - Official MetaMask self-custodial wallet: swaps, bridges, perps, x402 payments
 - **[assafkip/claudemy](https://github.com/assafkip/claudemy)** - Any topic into 2-minute audio lessons with cited sources
+- **[nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills)** - 150+ ecommerce skills for Amazon, Shopify, Etsy, TikTok sellers
 
 </details>
 
