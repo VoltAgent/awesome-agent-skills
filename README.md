@@ -1717,6 +1717,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[moxno/privacyscrubber-guard](https://github.com/moxno/privacyscrubber-mcp/tree/main/skills/privacyscrubber-guard)** - Sanitize PII and secrets in RAM before agent calls
 - **[aurite-ai/agent-verifier](https://github.com/Aurite-ai/agent-verifier)** - Reviews AI agent code for secrets, unbounded loops, hallucinated tools
 - **[finom/vovk](https://github.com/finom/vovk/tree/main/skills)** - Next.js API routes as MCP tools and typed clients
+- **[desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm/tree/main/skills/agent-swarm)** - Install, self-host, deploy, and operate agent-swarm
 
 </details>
 
