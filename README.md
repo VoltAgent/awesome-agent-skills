@@ -79,7 +79,7 @@ The most contributed Agent Skills repository, built and maintained together with
 
 <br/>
 
-<a href="https://launchkit.getdesign.md/">
+<a href="https://getdesign.md/website-starter-kit">
 <img src="https://cdn.voltagent.dev/awesome-repo/website-starter-kit-banner-dark-0315e5f9c1.png" alt="launchkit"  /><br/>
 </a>
 
