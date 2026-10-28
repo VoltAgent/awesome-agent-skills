@@ -1836,6 +1836,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[MetaMask/metamask-agent-wallet](https://github.com/MetaMask/agent-skills/tree/main/skills/metamask-agent-wallet)** - Official MetaMask self-custodial wallet: swaps, bridges, perps, x402 payments
 - **[assafkip/claudemy](https://github.com/assafkip/claudemy)** - Any topic into 2-minute audio lessons with cited sources
 - **[nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills)** - 150+ ecommerce skills for Amazon, Shopify, Etsy, TikTok sellers
+- **[ajnart/self-host](https://github.com/ajnart/self-host)** - Installs self-hosted apps and sets up accounts, API keys
 
 </details>
 
