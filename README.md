@@ -1753,6 +1753,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[rebelytics/task-observer](https://github.com/rebelytics/one-skill-to-rule-them-all)** - Meta-skill for continuous skill improvement & automatic skill creation.
 - **[archcore-ai/archcore](https://github.com/archcore-ai/archcore)** - Spec-driven development and context engineering for AI coding agents
 - **[Qiuner/birdview](https://github.com/Qiuner/birdview)** - Put architecture and constraints at the center of AI coding
+- **[swenbo1-web/agents-learning](https://github.com/swenbo1-web/agents-learning/tree/main/skills)** - Governed local SQLite project memory for Codex, Antigravity, and DSH
 
 </details>
 
