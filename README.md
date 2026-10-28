@@ -1593,6 +1593,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[AugustusW/audio-tldr](https://github.com/AugustusW/audio-tldr-skill/tree/main/skills/audio-tldr)** - Summarize videos and podcasts with local, cached transcription
 - **[voygr-tech/placecall](https://github.com/voygr-tech/placecall/tree/main/skills/placecall)** - Calls US businesses by phone and returns outcome and transcript
 - **[arifszn/slide-wright](https://github.com/arifszn/slide-wright)** - Generate themed HTML slide decks, export to PowerPoint or PDF
+- **[aleksandrermolov87-cloud/journey-audit](https://github.com/aleksandrermolov87-cloud/journey-audit)** - Audit customer journey maps: logic, edge cases, cognitive load
 
 </details>
 
