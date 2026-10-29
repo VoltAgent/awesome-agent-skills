@@ -1502,6 +1502,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 - **[BrianRWagner/ai-marketing-claude-code-skills](https://github.com/BrianRWagner/ai-marketing-claude-code-skills)** - 17 marketing frameworks for cold outreach, homepage audit, social cards, and more
 - **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)** - Universal SEO skill for comprehensive website analysis and optimization
+- **[vaneform/website-traffic-lookup](https://github.com/vaneform/vaneform-mcp/blob/main/skills/website-traffic-lookup/SKILL.md)** - Look up website traffic estimates and compare competitors via Vaneform MCP (visits, rank, sources, countries)
 - **[wshuyi/x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** - Publish articles to X/Twitter
 - **[CosmoBlk/email-marketing-bible](https://github.com/CosmoBlk/email-marketing-bible)** - 55K-word email marketing guide as an AI skill
 - **[smixs/creative-director-skill](https://github.com/smixs/creative-director-skill)** - AI creative director with recursive self-assessment: 20+ methodologies (SIT, TRIZ, Bisociation, SCAMPER, Synectics), 3-axis evaluation calibrated against Cannes/D&AD/HumanKind, 5-phase process from brief to presentation
