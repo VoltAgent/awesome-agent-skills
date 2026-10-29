@@ -1779,6 +1779,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[beastlabai/multi-llm](https://github.com/beastlabai/multi-llm-plugin/tree/master/skills/multi-llm)** - Reviews plans, code, and commits with multiple coding CLIs.
 - **[EricJujianZou/rederive](https://github.com/EricJujianZou/rederive)** - Understand any codebase by re-designing its decisions from first principles
 - **[laolaoshiren/zh-code-reviewer](https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/zh-code-reviewer)** - Chinese-output code review skill with structured findings and fix suggestions
+- **[GabrieleDattile/agent-superpowers](https://github.com/GabrieleDattile/agent-superpowers)** - Autonomous engineering skills for TDD, fuzzing, and sandbox isolation
 
 </details>
 
