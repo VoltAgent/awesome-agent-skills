@@ -1487,6 +1487,18 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 </details>
 
+<details>
+<summary><h3 style="display:inline">Skills by Browser Use</h3></summary>
+
+Official skills from the Browser Use team for driving real browsers from coding agents, locally or on Browser Use Cloud.
+
+- **[browser-use/browser-use](https://github.com/browser-use/browser-use/tree/main/skills/browser-use)** - Direct browser control via CDP for automation, scraping, testing
+- **[browser-use/remote-browser](https://github.com/browser-use/browser-use/tree/main/skills/remote-browser)** - Control an isolated Browser Use Cloud browser from a sandbox
+- **[browser-use/cloud](https://github.com/browser-use/browser-use/tree/main/skills/cloud)** - Reference for the Browser Use Cloud API and SDK
+- **[browser-use/open-source](https://github.com/browser-use/browser-use/tree/main/skills/open-source)** - Reference for the open-source browser-use Python library
+
+</details>
+
 
 ### Community Skills
 
