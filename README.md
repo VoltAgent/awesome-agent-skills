@@ -376,6 +376,7 @@ Production-grade Agent Skills for every major test automation framework, maintai
 - **[firecrawl/firecrawl-build-onboarding](https://officialskills.sh/firecrawl/skills/firecrawl-build-onboarding)** - Set up Firecrawl credentials and SDK in a project for the first integration
 - **[firecrawl/firecrawl-build-scrape](https://officialskills.sh/firecrawl/skills/firecrawl-build-scrape)** - Integrate Firecrawl `/scrape` for single-page extraction from product code
 - **[firecrawl/firecrawl-build-search](https://officialskills.sh/firecrawl/skills/firecrawl-build-search)** - Integrate Firecrawl `/search` for query-first discovery with optional content hydration
+- **[firecrawl/firecrawl-alexandria](https://github.com/firecrawl/cli/tree/main/skills/firecrawl-alexandria)** - Find and run Firecrawl Alexandria tools for structured data
 
 </details>
 
