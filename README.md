@@ -1846,6 +1846,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[archcore-ai/archcore](https://github.com/archcore-ai/archcore)** - Spec-driven development and context engineering for AI coding agents
 - **[Qiuner/birdview](https://github.com/Qiuner/birdview)** - Put architecture and constraints at the center of AI coding
 - **[JayPokale/chisle](https://github.com/JayPokale/Chisle/tree/main/skills/chisle)** - Cuts agent tokens: terse prose, lean code, trimmed tool output
+- **[tinqiao-oss/engramory](https://github.com/tinqiao-oss/engramory)** - Curated plain-Markdown long-term memory with a size-capped index
 
 </details>
 
