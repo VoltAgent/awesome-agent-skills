@@ -1910,7 +1910,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[assafkip/claudemy](https://github.com/assafkip/claudemy)** - Any topic into 2-minute audio lessons with cited sources
 - **[verdikta/verdikta-bounties-onboarding](https://github.com/verdikta/verdikta-applications/tree/main/skills/verdikta-bounties-onboarding)** - Hunt and post AI-judged escrow bounties on Base
 - **[nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills)** - 150+ ecommerce skills for Amazon, Shopify, Etsy, TikTok sellers
-- **[jgsystemsconsulting/jgs-se-knowledge-packs](https://github.com/jgsystemsconsulting/jgs-se-knowledge-packs)** - 71 licence-vetted systems-engineering reference packs for coding agents
+- **[jgsystemsconsulting/jgs-se-knowledge-packs](https://github.com/jgsystemsconsulting/jgs-se-knowledge-packs)** - 74 licence-vetted systems-engineering reference packs for coding agents
 - **[KalarisLabs/research-agent-skills](https://github.com/KalarisLabs/research-agent-skills)** - 280+ skills for literature review, analysis, and paper writing
 
 </details>
