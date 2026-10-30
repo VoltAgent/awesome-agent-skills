@@ -1675,6 +1675,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[kklimuk/docx-cli](https://github.com/kklimuk/docx-cli)** - Work on .docx files at ~1/2 cost of other skills.
 - **[777genius/agent-notifications](https://github.com/777genius/agent-notifications/tree/main/skills/agent-notifications)** - Send desktop attention and progress alerts during agent tasks
 - **[kochetkov-ma/brewpage-publish](https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish)** - Publish pages, files or folder sites to shareable brewpage.app links
+- **[amirimi/decipher](https://github.com/amirimi/decipher/tree/main/skills/decipher)** - Rewrites agent-written specs into plain English, gist first
 
 </details>
 
