@@ -102,7 +102,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) |
 | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) |
 | [Red Hat](#skills-by-redhat) | [Community](#community-skills) | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) |
-| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |  |  |
+| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) | [Taskade](#skills-by-taskade) |  |
 
 <br/>
 
@@ -1408,6 +1408,15 @@ Official skills from Notion's repositories — workspace-aware skills for captur
 - **[makenotion/meeting-intelligence](https://officialskills.sh/makenotion/skills/meeting-intelligence)** - Prepare meeting materials by gathering Notion context and creating pre-reads and agendas
 - **[makenotion/research-documentation](https://officialskills.sh/makenotion/skills/research-documentation)** - Search Notion workspace, synthesize findings, and create comprehensive research reports
 - **[makenotion/spec-to-implementation](https://officialskills.sh/makenotion/skills/spec-to-implementation)** - Turn product/tech specs into concrete Notion tasks with acceptance criteria and progress tracking
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by Taskade</h3></summary>
+
+Official skill from Taskade — the build ledger a coding agent keeps. What was asked, what was decided, and what was built with evidence. AGENTS.md says how to work. TASKS.md says what happened.
+
+- **[taskade/tasks.md](https://github.com/taskade/tasks.md)** - Spec + skill. File every clause as OPEN, close it only with evidence, and resume from the file. Install with `npx skills add taskade/tasks.md`.
 
 </details>
 
