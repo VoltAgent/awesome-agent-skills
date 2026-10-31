@@ -1760,7 +1760,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[agiwhitelist/auteur](https://github.com/agiwhitelist/auteur)** - Builds websites gated by an anti-slop linter and motion QA
 - **[JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills)** - Design, UI polish, code review grading, AI evals, SEO audits.
 - **[superdesigndev/superdesign-skill](https://github.com/superdesigndev/superdesign-skill)** - Creates design systems from existing codebases and iterates UI drafts
-- **[Ryan-yang125/motion-lexicon](https://github.com/Ryan-yang125/motion-lexicon/tree/main/skills/motion-lexicon)** - Build and review product motion with installable React components
+- **[krisyangdev/motionboard](https://github.com/krisyangdev/motionboard/tree/main/skills/motionboard)** - Make product launch films from 38 Apple/Linear-style shot recipes.
 - **[Maksim-Burtsev/simple-man](https://github.com/Maksim-Burtsev/simple-man)** - Strips praise, recaps and filler from agent answers while keeping every fact you act on: findings carry location and fix, refusals carry the safe procedure, tutorials stay long-form. Benchmarked on 1,793 preregistered live calls with raw records committed. Works with Claude Code, Codex, Gemini CLI, Cursor
 - **[aeonfun/aeon](https://github.com/aeonfun/aeon)** - 70+ Claude Code skills + autonomous GitHub Actions agent framework
 - **[KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template)** - Plan MVPs into PRD, tech design, and AGENTS.md
