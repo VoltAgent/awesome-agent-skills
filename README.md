@@ -1811,6 +1811,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[beastlabai/multi-llm](https://github.com/beastlabai/multi-llm-plugin/tree/master/skills/multi-llm)** - Reviews plans, code, and commits with multiple coding CLIs.
 - **[EricJujianZou/rederive](https://github.com/EricJujianZou/rederive)** - Understand any codebase by re-designing its decisions from first principles
 - **[laolaoshiren/zh-code-reviewer](https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/zh-code-reviewer)** - Chinese-output code review skill with structured findings and fix suggestions
+- **[GAURAV-1313/codecall](https://github.com/GAURAV-1313/codecall/tree/main/plugins/codecall/skills/codecall)** - Quizzes you on agent-written code, traces flows, runs debugging drills
 - **[9929y/mesh-gradient-generation](https://github.com/9929y/mesh-gradient-generation)** - Create editable mesh gradients with Figma and SVG workflows
 - **[mobbin/redesign-screen](https://github.com/mobbin/skills/tree/main/skills/redesign-screen)** - Redesign screens using patterns from real shipped apps
 - **[mobbin/search](https://github.com/mobbin/skills/tree/main/skills/search)** - Search 600k+ real app screens, flows and sections
