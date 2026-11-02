@@ -71,11 +71,6 @@ You ship products with AI, but every launch still dies quietly because nobody po
 
 <br/>
 
-
-<a href="https://mobile-starterkit.getdesign.md/">
-<img src="https://cdn.voltagent.dev/awesome-repo/mobile-starter-kit-banner-light-450ba0a9b0.png" alt="mobilekit"  /><br/>
-</a>
-
 <br/>
 
 
@@ -106,11 +101,6 @@ You ship products with AI, but every launch still dies quietly because nobody po
 
 <br/>
 
-<a href="https://getdesign.md/website-starter-kit">
-<img src="https://cdn.voltagent.dev/awesome-repo/website-starter-kit-banner-dark-0315e5f9c1.png" alt="launchkit"  /><br/>
-</a>
-
-<br/>
 
 
 
