@@ -1668,6 +1668,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[777genius/agent-notifications](https://github.com/777genius/agent-notifications/tree/main/skills/agent-notifications)** - Send desktop attention and progress alerts during agent tasks
 - **[kochetkov-ma/brewpage-publish](https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish)** - Publish pages, files or folder sites to shareable brewpage.app links
 - **[MetcalfSolutions/Satori](https://github.com/MetcalfSolutions/Satori)** - Open-source wisdom companion skill (Apache 2.0) for coding agents and web chat, built to be outgrown: one lens per turn, a local SQLite memory vault, and trigger discipline that stays silent during pure coding work.
+- **[pachca/pachca](https://github.com/pachca/openapi/tree/main/plugins/pachca/skills/pachca)** - Connect agents to Pachca and troubleshoot MCP authentication and permissions
 
 </details>
 
