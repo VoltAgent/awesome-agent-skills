@@ -1547,7 +1547,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[SHADOWPR0/beautiful_prose](https://github.com/SHADOWPR0/beautiful_prose)** - Hard-edged writing style contract for timeless, forceful English prose without AI tics
 - **[blader/humanizer](https://github.com/blader/humanizer)** - Remove signs of AI-generated writing from text, making it sound more natural and human
 - **[MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop)** - Removes named AI writing tells (tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocab like "delve"/"crucial"). Split lint/rewrite modes for auditing your own text without auto-rewriting. Five intensity levels, MIT
-- **[Eronred/aso-skills](https://github.com/Eronred/aso-skills)** - 30+ App Store Optimization skills for keyword research, metadata optimization, competitor analysis, creative optimization, and mobile growth strategies via Appeeky API
+- **[appeeky/aso-skills](https://github.com/appeeky/aso-skills)** - 30+ App Store Optimization skills for keyword research, metadata optimization, competitor analysis, creative optimization, and mobile growth strategies via Appeeky API
 - **[degausai/wonda](https://github.com/degausai/wonda)** - AI content creation: images, video, music, audio, editing, publishing
 - **[gitroomhq/postiz-agent](https://github.com/gitroomhq/postiz-agent)** - Schedule social media posts across 28+ platforms programmatically
 - **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** - Write videos as HTML and render them to MP4: launch films, explainers, captions, charts and 450+ ready-made blocks, by HeyGen
@@ -1647,7 +1647,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[pattern-ai-labs/agentcall](https://github.com/pattern-ai-labs/agentcall)** - Let your AI agents join Google Meet, Zoom, Teams calls and collaborate like a real team-mate.
 - **[Sendmux/skills](https://github.com/Sendmux/skills)** - Sendmux email and mailbox workflows for agents
 - **[tjboudreaux/cc-thinking-skills](https://github.com/tjboudreaux/cc-thinking-skills)** - 28 eval-informed mental models for decisions, debugging, systems, and strategy
-- **[JimmySadek/youtube-fetcher](https://github.com/JimmySadek/youtube-fetcher-to-markdown)** - Create Obsidian-ready Markdown notes from YouTube videos
+- **[JimmySadek/video-fetcher-to-markdown](https://github.com/JimmySadek/video-fetcher-to-markdown)** - Create Obsidian-ready Markdown notes from YouTube videos
 - **[zapier/zapier-mcp](https://github.com/zapier/zapier-mcp)** - Official plugin distribution for the hosted Zapier MCP server. Connects Claude to thousands of apps — send messages, pull data, trigger workflows.
 - **[Neeeophytee/finding-unknowns-skills](https://github.com/Neeeophytee/finding-unknowns-skills)** - 8 meta-skills that make a coding agent surface your unknowns before they get expensive: blindspot pass, interview, reference hunt, implementation plan/notes, pitch packager, and a pre-merge change quiz. Works in Claude Code, Codex, and Cursor via the agentskills.io SKILL.md format
 - **[kgraph57/strategy-consulting-visualization](https://github.com/kgraph57/mckinsey-style-visualization-skill)** - McKinsey-style charts and consulting slide decks
@@ -1662,7 +1662,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[tronghieu/agent-skills](https://github.com/tronghieu/agent-skills)** - 18 method-driven skills for knowledge work: strategy, research, writing
 - **[dmoshehun-prog/learn-from-materials](https://github.com/dmoshehun-prog/learn-from-materials)** - Turn documents into source-grounded interactive learning pages for AI agents
 - **[chrisryugj/kordoc](https://github.com/chrisryugj/kordoc/tree/main/plugins/kordoc/skills/kordoc)** - Convert Korean HWP/HWPX documents to Markdown, fill forms, generate HWPX
-- **[bablobanov/hermes-telegram-checklist](https://github.com/bablobanov/hermes-telegram-checklist)** - Create and manage native Telegram checklists with verified writes
+- **[bablobanov/hermes-agent-telegram-checklist](https://github.com/bablobanov/hermes-agent-telegram-checklist)** - Create and manage native Telegram checklists with verified writes
 - **[siril9/presentation-skill](https://github.com/siril9/presentation-skill)** - Generate editable PowerPoint decks from source with visual QA.
 - **[teableio/teable-assistant-ops](https://github.com/teableio/agent-skills/tree/main/skills/teable-assistant-ops)** - Manage [Teable](https://teable.ai) data, SQL queries, automations, and apps.
 - **[cbrock84/headcount](https://github.com/cbrock84/headcount)** - Company departments as installable skills, each citing its sources
@@ -1789,7 +1789,6 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[allxsmith/bestax](https://github.com/allxsmith/bestax/tree/main/skills)** - Build Bulma React pages, forms, and themes with Bestax
 - **[marvkr/better-design](https://github.com/marvkr/better-design/tree/main/skills/better-design)** - Build and review interfaces with Better Design design systems
 - **[UiPath/task](https://github.com/UiPath/coder_eval/tree/main/plugins/coder-eval/skills/task)** - Turns plain English into validated eval tasks for coding agents
-- **[half144/cutaway](https://github.com/half144/cutaway)** - Record polished demo videos of web flows with Playwright
 - **[kulchankas/paranoid](https://github.com/kulchankas/paranoid)** - Pentests your running app: find, prove, patch, re-verify
 - **[gal-a/qikly](https://github.com/gal-a/qikly/tree/main/.claude/skills/qikly)** - Writes pytest suites from criteria the coding agent never sees
 - **[supercorp-ai/supercov](https://github.com/supercorp-ai/supercov/tree/main/plugins/supercov/skills/supercov)** - Measure test coverage and write tests for untested code
@@ -1824,7 +1823,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[muratcankoylan/tool-design](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/tool-design)** - Build tools that agents can use effectively, including architectural reduction patterns
 - **[muratcankoylan/evaluation](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/evaluation)** - Build evaluation frameworks for agent systems
 - **[k-kolomeitsev/data-structure-protocol](https://github.com/k-kolomeitsev/data-structure-protocol)** - Graph-based long-term memory skill for AI (LLM) coding agents — faster context, fewer tokens, safer refactors
-- **[awrshift/claude-memory-kit](https://github.com/awrshift/claude-memory-kit)** - Persistent memory with hooks, wiki, and daily synthesis for multi-project workflows
+- **[awrshift/agent-memory-kit](https://github.com/awrshift/agent-memory-kit)** - Persistent memory with hooks, wiki, and daily synthesis for multi-project workflows
 - **[NeoLabHQ/prompt-engineering](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/prompt-engineering)** - Widely used prompt engineering techniques and patterns, including Anthropic best practices and agent persuasion principles.
 - **[sametbrr/llm-wiki-manager](https://github.com/sametbrr/llm-wiki-manager)** - Persistent LLM-managed personal wiki — the model writes, cross-references, and maintains the knowledge base while you curate sources. Implements Karpathy's LLM Wiki pattern with 8 operating modes.
 - **[dankofly/perfectify](https://github.com/dankofly/perfectify)** - Self-improving control kernel (DAGx AGI Kernel): hard approval stops for irreversible actions, evidence-gated completion, and a self-learning playbook with drift governance. Behaviorally evaluated; works across Claude Code, Codex, Hermes, and OpenCode
