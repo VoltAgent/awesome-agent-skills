@@ -1805,6 +1805,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[9929y/mesh-gradient-generation](https://github.com/9929y/mesh-gradient-generation)** - Create editable mesh gradients with Figma and SVG workflows
 - **[mobbin/redesign-screen](https://github.com/mobbin/skills/tree/main/skills/redesign-screen)** - Redesign screens using patterns from real shipped apps
 - **[mobbin/search](https://github.com/mobbin/skills/tree/main/skills/search)** - Search 600k+ real app screens, flows and sections
+- **[celo-org/celopedia](https://github.com/celo-org/celopedia-skills/tree/main/skills/celopedia-skill)** - Verified Celo contracts, protocols, MiniPay, grants, and agent tooling
 
 </details>
 
