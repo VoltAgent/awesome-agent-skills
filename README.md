@@ -1932,6 +1932,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 
 
 
+- **[macek166/synproof-syntropy](https://github.com/macek166/synproof-syntropy)** - Deterministic 5-sieve dialectical verification engine, Small Worlds axiom library (GDPR, Civil Code, Insolvency, ISDA/BRRD, Clinical Pharmacology), and Axiomat contract-to-axiom compiler (`npx skills add macek166/synproof-syntropy` | [synproof.ai](https://synproof.ai)).
+
 ## 🔒 Security Notice
 
 Skills in this list are curated, not audited. They may be updated, modified, or replaced by their original maintainers at any time after being added here.
