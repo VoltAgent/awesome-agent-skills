@@ -1589,6 +1589,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[dreammis/xueqiu-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/xueqiu-upload)** - Publish long-form articles to Xueqiu
 - **[dreammis/youtube-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/youtube-upload)** - Upload and schedule YouTube videos
 - **[dreammis/zhihu-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/zhihu-upload)** - Publish articles and videos to Zhihu
+- **[gybin02/easypost](https://github.com/gybin02/easypost/tree/main/skills/easypost)** - Cross-platform social media auto-publishing and scheduled multi-distribution skill (Xiaohongshu, Douyin, WeChat Channels, Bilibili, Kuaishou, Weibo, X, Instagram) with zero risk using native Chrome session
 - **[checkout-page/ecommerce-skills](https://github.com/checkout-page/ecommerce-skills)** - 19 research-based skills for ecommerce pricing, discounts, and checkout
 - **[shalintripathi/saas-marketing-agents](https://github.com/shalintripathi/saas-marketing-agents)** - B2B SaaS marketing team: 90 agents, one orchestrator
 - **[emotixco/claude-skills-founder](https://github.com/emotixco/claude-skills-founder)** - Validate ideas, research competitors, price, pitch, and plan launches.
