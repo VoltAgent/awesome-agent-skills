@@ -1596,6 +1596,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[harshmaur/apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper)** - Scrape Reddit posts, comments and subreddits without an API key
 - **[coupler-io/skills](https://github.com/coupler-io/skills)** - Marketing, sales and finance analytics with live business data
 - **[arcmira/find-quotes](https://github.com/arcmira/mcp/tree/master/plugins/arcmira/skills/find-quotes)** - Find timestamped quotes and clips in YouTube and podcast transcripts
+- **[aniiawi/gtm-strategy-canvas](https://github.com/aniiawi/gtm-strategy-canvas)** - Evidence-led GTM strategy development using an adaptive 12-block canvas
 
 </details>
 
