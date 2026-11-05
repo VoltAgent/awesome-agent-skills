@@ -1596,6 +1596,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[harshmaur/apify-reddit-scraper](https://github.com/apify/awesome-skills/tree/main/skills/apify-reddit-scraper)** - Scrape Reddit posts, comments and subreddits without an API key
 - **[coupler-io/skills](https://github.com/coupler-io/skills)** - Marketing, sales and finance analytics with live business data
 - **[arcmira/find-quotes](https://github.com/arcmira/mcp/tree/master/plugins/arcmira/skills/find-quotes)** - Find timestamped quotes and clips in YouTube and podcast transcripts
+- **[Aboudjem/humanizer-skill](https://github.com/Aboudjem/humanizer-skill)** - Rewrites AI-sounding text, flagging 55 writing patterns
+- **[zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar)** - Daily radar of new AI names and their search demand
 
 </details>
 
@@ -1669,6 +1671,9 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[kochetkov-ma/brewpage-publish](https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish)** - Publish pages, files or folder sites to shareable brewpage.app links
 - **[MetcalfSolutions/Satori](https://github.com/MetcalfSolutions/Satori)** - Open-source wisdom companion skill (Apache 2.0) for coding agents and web chat, built to be outgrown: one lens per turn, a local SQLite memory vault, and trigger discipline that stays silent during pure coding work.
 - **[pachca/pachca](https://github.com/pachca/openapi/tree/main/plugins/pachca/skills/pachca)** - Connect agents to Pachca and troubleshoot MCP authentication and permissions
+- **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html/tree/main/skills/answer-me-with-html)** - Answers hard questions as readable, self-contained HTML pages
+- **[Koloyaaa/foreign-academic-translator](https://github.com/Koloyaaa/foreign-academic-translator-skill/tree/main/skills/foreign-academic-translator)** - Translate foreign academic handouts into Chinese with subject glossaries
+- **[duyunzhoudyz/dyz-gongwen-skills](https://github.com/duyunzhoudyz/dyz-gongwen-skills)** - Chinese official document drafting, review and GB/T 9704 formatting
 
 </details>
 
@@ -1806,6 +1811,10 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[9929y/mesh-gradient-generation](https://github.com/9929y/mesh-gradient-generation)** - Create editable mesh gradients with Figma and SVG workflows
 - **[mobbin/redesign-screen](https://github.com/mobbin/skills/tree/main/skills/redesign-screen)** - Redesign screens using patterns from real shipped apps
 - **[mobbin/search](https://github.com/mobbin/skills/tree/main/skills/search)** - Search 600k+ real app screens, flows and sections
+- **[celo-org/celopedia](https://github.com/celo-org/celopedia-skills/tree/main/skills/celopedia-skill)** - Verified Celo contracts, protocols, MiniPay, grants, and agent tooling
+- **[ScrapingBee/scrapingbee-cli](https://github.com/ScrapingBee/scrapingbee-cli/tree/main/.agents/skills/scrapingbee-cli)** - Scrape any page, search the web, crawl sites, extract data
+- **[0design/unslop-skill](https://github.com/0design/unslop-skill)** - Audit plugin for Claude Code and Codex
+- **[swiftlysingh/excalidraw-cli](https://github.com/swiftlysingh/excalidraw-cli/tree/main/skills/excalidraw-cli)** - Turn text, JSON, or Graphviz DOT into editable Excalidraw diagrams
 
 </details>
 
@@ -1913,6 +1922,11 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills)** - 150+ ecommerce skills for Amazon, Shopify, Etsy, TikTok sellers
 - **[jgsystemsconsulting/jgs-se-knowledge-packs](https://github.com/jgsystemsconsulting/jgs-se-knowledge-packs)** - 74 licence-vetted systems-engineering reference packs for coding agents
 - **[KalarisLabs/research-agent-skills](https://github.com/KalarisLabs/research-agent-skills)** - 280+ skills for literature review, analysis, and paper writing
+- **[federicodeponte/autonomous-research](https://github.com/federicodeponte/opendraft/tree/master/skills/autonomous-research)** - One topic line to a cited paper, every DOI checked
+- **[antvis/ava](https://github.com/antvis/AVA/tree/ai/skills/ava)** - Analyze files and databases, reuse definitions, render interactive charts
+- **[kinprove/genealogy-research-recipes](https://github.com/Kinprove/genealogy-research-recipes)** - Fact-checked recipes for DNA evidence and genealogy record searches
+- **[ChatCut-Inc/talking-head-guide](https://github.com/ChatCut-Inc/agent-plugin/tree/main/codex/skills/talking-head-guide)** - Edit talking-head videos: remove fillers, pauses, retakes; add captions, B-roll
+- **[ChatCut-Inc/create-motion-graphics](https://github.com/ChatCut-Inc/agent-plugin/tree/main/codex/skills/create-motion-graphics)** - Create editable motion graphics for video: titles, lower thirds, overlays
 
 </details>
 
