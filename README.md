@@ -1668,6 +1668,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[777genius/agent-notifications](https://github.com/777genius/agent-notifications/tree/main/skills/agent-notifications)** - Send desktop attention and progress alerts during agent tasks
 - **[kochetkov-ma/brewpage-publish](https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish)** - Publish pages, files or folder sites to shareable brewpage.app links
 - **[MetcalfSolutions/Satori](https://github.com/MetcalfSolutions/Satori)** - Open-source wisdom companion skill (Apache 2.0) for coding agents and web chat, built to be outgrown: one lens per turn, a local SQLite memory vault, and trigger discipline that stays silent during pure coding work.
+- **[Koloyaaa/foreign-academic-translator](https://github.com/Koloyaaa/foreign-academic-translator-skill/tree/main/skills/foreign-academic-translator)** - Translate foreign academic handouts into Chinese with subject glossaries
 - **[duyunzhoudyz/dyz-gongwen-skills](https://github.com/duyunzhoudyz/dyz-gongwen-skills)** - Chinese official document drafting, review and GB/T 9704 formatting
 
 </details>
@@ -1916,6 +1917,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[jgsystemsconsulting/jgs-se-knowledge-packs](https://github.com/jgsystemsconsulting/jgs-se-knowledge-packs)** - 74 licence-vetted systems-engineering reference packs for coding agents
 - **[KalarisLabs/research-agent-skills](https://github.com/KalarisLabs/research-agent-skills)** - 280+ skills for literature review, analysis, and paper writing
 - **[antvis/ava](https://github.com/antvis/AVA/tree/ai/skills/ava)** - Analyze files and databases, reuse definitions, render interactive charts
+- **[kinprove/genealogy-research-recipes](https://github.com/Kinprove/genealogy-research-recipes)** - Fact-checked recipes for DNA evidence and genealogy record searches
 - **[ChatCut-Inc/talking-head-guide](https://github.com/ChatCut-Inc/agent-plugin/tree/main/codex/skills/talking-head-guide)** - Edit talking-head videos: remove fillers, pauses, retakes; add captions, B-roll
 - **[ChatCut-Inc/create-motion-graphics](https://github.com/ChatCut-Inc/agent-plugin/tree/main/codex/skills/create-motion-graphics)** - Create editable motion graphics for video: titles, lower thirds, overlays
 
