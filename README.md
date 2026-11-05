@@ -1668,6 +1668,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[777genius/agent-notifications](https://github.com/777genius/agent-notifications/tree/main/skills/agent-notifications)** - Send desktop attention and progress alerts during agent tasks
 - **[kochetkov-ma/brewpage-publish](https://github.com/kochetkov-ma/claude-brewcode/tree/main/skills/brewpage-publish)** - Publish pages, files or folder sites to shareable brewpage.app links
 - **[MetcalfSolutions/Satori](https://github.com/MetcalfSolutions/Satori)** - Open-source wisdom companion skill (Apache 2.0) for coding agents and web chat, built to be outgrown: one lens per turn, a local SQLite memory vault, and trigger discipline that stays silent during pure coding work.
+- **[duyunzhoudyz/dyz-gongwen-skills](https://github.com/duyunzhoudyz/dyz-gongwen-skills)** - Chinese official document drafting, review and GB/T 9704 formatting
 
 </details>
 
@@ -1805,6 +1806,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[9929y/mesh-gradient-generation](https://github.com/9929y/mesh-gradient-generation)** - Create editable mesh gradients with Figma and SVG workflows
 - **[mobbin/redesign-screen](https://github.com/mobbin/skills/tree/main/skills/redesign-screen)** - Redesign screens using patterns from real shipped apps
 - **[mobbin/search](https://github.com/mobbin/skills/tree/main/skills/search)** - Search 600k+ real app screens, flows and sections
+- **[0design/unslop-skill](https://github.com/0design/unslop-skill)** - Audit plugin for Claude Code and Codex
+- **[swiftlysingh/excalidraw-cli](https://github.com/swiftlysingh/excalidraw-cli/tree/main/skills/excalidraw-cli)** - Turn text, JSON, or Graphviz DOT into editable Excalidraw diagrams
 
 </details>
 
@@ -1913,6 +1916,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[jgsystemsconsulting/jgs-se-knowledge-packs](https://github.com/jgsystemsconsulting/jgs-se-knowledge-packs)** - 74 licence-vetted systems-engineering reference packs for coding agents
 - **[KalarisLabs/research-agent-skills](https://github.com/KalarisLabs/research-agent-skills)** - 280+ skills for literature review, analysis, and paper writing
 - **[antvis/ava](https://github.com/antvis/AVA/tree/ai/skills/ava)** - Analyze files and databases, reuse definitions, render interactive charts
+- **[ChatCut-Inc/talking-head-guide](https://github.com/ChatCut-Inc/agent-plugin/tree/main/codex/skills/talking-head-guide)** - Edit talking-head videos: remove fillers, pauses, retakes; add captions, B-roll
+- **[ChatCut-Inc/create-motion-graphics](https://github.com/ChatCut-Inc/agent-plugin/tree/main/codex/skills/create-motion-graphics)** - Create editable motion graphics for video: titles, lower thirds, overlays
 
 </details>
 
