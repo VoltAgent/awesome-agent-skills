@@ -1916,6 +1916,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[nexscope-ai/eCommerce-Skills](https://github.com/nexscope-ai/eCommerce-Skills)** - 150+ ecommerce skills for Amazon, Shopify, Etsy, TikTok sellers
 - **[jgsystemsconsulting/jgs-se-knowledge-packs](https://github.com/jgsystemsconsulting/jgs-se-knowledge-packs)** - 74 licence-vetted systems-engineering reference packs for coding agents
 - **[KalarisLabs/research-agent-skills](https://github.com/KalarisLabs/research-agent-skills)** - 280+ skills for literature review, analysis, and paper writing
+- **[kinprove/genealogy-research-recipes](https://github.com/Kinprove/genealogy-research-recipes)** - Fact-checked recipes for DNA evidence and genealogy record searches
 - **[ChatCut-Inc/talking-head-guide](https://github.com/ChatCut-Inc/agent-plugin/tree/main/codex/skills/talking-head-guide)** - Edit talking-head videos: remove fillers, pauses, retakes; add captions, B-roll
 - **[ChatCut-Inc/create-motion-graphics](https://github.com/ChatCut-Inc/agent-plugin/tree/main/codex/skills/create-motion-graphics)** - Create editable motion graphics for video: titles, lower thirds, overlays
 
