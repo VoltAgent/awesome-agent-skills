@@ -1854,6 +1854,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Qiuner/birdview](https://github.com/Qiuner/birdview)** - Put architecture and constraints at the center of AI coding
 - **[JayPokale/chisle](https://github.com/JayPokale/Chisle/tree/main/skills/chisle)** - Cuts agent tokens: terse prose, lean code, trimmed tool output
 - **[tinqiao-oss/engramory](https://github.com/tinqiao-oss/engramory)** - Curated plain-Markdown long-term memory with a size-capped index
+- **[luchtan-GIT/music-for-robots](https://github.com/luchtan-GIT/m4r-data/tree/main/skills/music-for-robots)** - Breaks autoregressive lock-in and induction-head complacency without wiping or compacting context by ingesting compact, unquantized human musical compositions (`.mp3`) that break prediction without breaking coherence
 
 </details>
 
