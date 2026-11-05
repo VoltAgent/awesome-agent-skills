@@ -1809,6 +1809,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[9929y/mesh-gradient-generation](https://github.com/9929y/mesh-gradient-generation)** - Create editable mesh gradients with Figma and SVG workflows
 - **[mobbin/redesign-screen](https://github.com/mobbin/skills/tree/main/skills/redesign-screen)** - Redesign screens using patterns from real shipped apps
 - **[mobbin/search](https://github.com/mobbin/skills/tree/main/skills/search)** - Search 600k+ real app screens, flows and sections
+- **[celo-org/celopedia](https://github.com/celo-org/celopedia-skills/tree/main/skills/celopedia-skill)** - Verified Celo contracts, protocols, MiniPay, grants, and agent tooling
 - **[ScrapingBee/scrapingbee-cli](https://github.com/ScrapingBee/scrapingbee-cli/tree/main/.agents/skills/scrapingbee-cli)** - Scrape any page, search the web, crawl sites, extract data
 - **[0design/unslop-skill](https://github.com/0design/unslop-skill)** - Audit plugin for Claude Code and Codex
 - **[swiftlysingh/excalidraw-cli](https://github.com/swiftlysingh/excalidraw-cli/tree/main/skills/excalidraw-cli)** - Turn text, JSON, or Graphviz DOT into editable Excalidraw diagrams
