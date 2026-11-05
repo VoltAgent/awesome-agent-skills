@@ -1845,7 +1845,9 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[thousandflowers/skillreaper](https://github.com/thousandflowers/skillreaper)** - Prunes unused skills, MCP servers, and subagents from transcript evidence
 - **[orziz/odai](https://github.com/orziz/odai/tree/main/skills/odai)** - Govern evidence, responsibility routing, safety boundaries, and verified delivery
 - **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** - Compresses and persists agent memory across sessions
-- **[vshulcz/deja-history](https://github.com/vshulcz/deja-vu/tree/main/claude-plugin/skills/deja-history)** - Searches your own past sessions across 20 coding agents
+- **[vshulcz/deja-history](https://github.com/vshulcz/deja-vu/tree/main/claude-plugin/skills/deja-history)** - Searches your own past sessions across 43 coding agents
+- **[vshulcz/deja-search](https://github.com/vshulcz/deja-vu/tree/main/skills/deja-search)** - CLI session recall and blame across 43 coding agents
+- **[vshulcz/deja-reflect](https://github.com/vshulcz/deja-vu/tree/main/skills/deja-reflect)** - Distill recurring agent fixes into project rules files
 - **[ruslanlap/cavemenko](https://github.com/ruslanlap/cavemenko/tree/main/skills/cavemenko)** - Ukrainian pro-drop reply style, measured -49% tokens
 - **[RAKKUNN/vicem](https://github.com/RAKKUNN/vicem)** - Cross-agent context baton and 80-90% lossless code skeletonizer
 - **[amirkiarafiei/subagent-cli-skills](https://github.com/amirkiarafiei/subagent-cli-skills/tree/main/skills)** - Delegate heavy work to 15 other agent CLIs as subagents
