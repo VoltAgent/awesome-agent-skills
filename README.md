@@ -1908,6 +1908,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[renezander030/capcut-edit](https://github.com/renezander030/capcut-cli/tree/master/skills/capcut-edit)** - Edit CapCut and JianYing video projects from any agent
 - **[MartinDelophy/edit-timeline-studio](https://github.com/MartinDelophy/ai-video-editor/tree/main/skills/edit-timeline-studio)** - Create editable video timelines with captions, voiceovers, and verified exports.
 - **[Tencent/aig-agent-redteam](https://github.com/Tencent/AI-Infra-Guard/tree/main/skills/aig-agent-redteam)** - One-command Agent red-team security assessment skill
+- **[tunguyen1993/kintsugi-core-guard-free](https://github.com/tunguyen1993/kintsugi-harness/tree/main/free-skill-pack)** - Deterministic PreToolUse AST/Regex guardrails, @KML/1 symbolic skill compression, and prompt-injection/SSRF defense
 - **[ilyautov/small-business-ru](https://github.com/ilyautov/small-business-ru/tree/main/small-business-ru/skills)** - 34 skills for Russian small business: taxes, deadlines, counterparty checks
 - **[eatmoreduck/boss-zhipin-scraper](https://github.com/eatmoreduck/boss-zhipin-scraper)** - BOSS Zhipin (zhipin.com) job scraper via Chrome CDP, plaintext salaries
 - **[AceDataCloud/fish-audio](https://github.com/AceDataCloud/Skills/tree/main/skills/fish-audio)** - Generate speech and clone voices with Fish Audio
