@@ -1927,6 +1927,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[kinprove/genealogy-research-recipes](https://github.com/Kinprove/genealogy-research-recipes)** - Fact-checked recipes for DNA evidence and genealogy record searches
 - **[ChatCut-Inc/talking-head-guide](https://github.com/ChatCut-Inc/agent-plugin/tree/main/codex/skills/talking-head-guide)** - Edit talking-head videos: remove fillers, pauses, retakes; add captions, B-roll
 - **[ChatCut-Inc/create-motion-graphics](https://github.com/ChatCut-Inc/agent-plugin/tree/main/codex/skills/create-motion-graphics)** - Create editable motion graphics for video: titles, lower thirds, overlays
+- **[krumof/bg-tech-shopping](https://github.com/krumof/awesome-agent-skills/tree/add-bg-tech-shopping/skills/bg-tech-shopping)** - Compare Bulgarian tech prices, including cross-border Germany/UK landed costs
 
 </details>
 
