@@ -1515,6 +1515,20 @@ Official skills published by Cypress to help create, maintain, understand, and f
 </details>
 
 
+<details>
+<summary><h3 style="display:inline">Skills by Tuist</h3></summary>
+
+Official skills published by Tuist for Xcode and Gradle projects. 5 skills.
+
+- **[tuist/migrate](https://github.com/tuist/agent-skills/tree/main/skills/migrate)** - Migrate Xcode projects to Tuist-generated workspaces with validation
+- **[tuist/generated-projects](https://github.com/tuist/agent-skills/tree/main/skills/generated-projects)** - Work day to day in Tuist-generated Xcode workspaces
+- **[tuist/fix-flaky-tests](https://github.com/tuist/agent-skills/tree/main/skills/fix-flaky-tests)** - Fix flaky tests using Tuist test insights
+- **[tuist/compare-builds](https://github.com/tuist/agent-skills/tree/main/skills/compare-builds)** - Compare Xcode builds for regressions and cache changes
+- **[tuist/compare-gradle-builds](https://github.com/tuist/agent-skills/tree/main/skills/compare-gradle-builds)** - Compare Gradle builds for duration and cache regressions
+
+</details>
+
+
 ### Community Skills
 
 <details>
