@@ -18,11 +18,41 @@ Main failure modes prevented:
 
 Execution approach:
 - Run parallel `web_search` calls per retailer group (chains, specialists, cross-border)
-- Use `scrape_url_content` for specific product pages
+- Fetch specific product/search pages through the **Fetch → markitdown → extract** pipeline (see below); `scrape_url_content` remains an acceptable alternative
 - Use `computer_automation` only if a site is JS-heavy and doesn't respond to scraping
 - Synthesise all results into a comparison table in chat
 
 Reserve `perform_subtask_topical_research` only when the user explicitly asks for a written report or PDF.
+
+## Setup (one-time)
+
+This skill uses Microsoft's [markitdown](https://github.com/microsoft/markitdown) to convert retailer HTML into compact Markdown before reading it. Check and install once per environment:
+
+```bash
+python3 -c "import markitdown" 2>/dev/null || pip install markitdown
+```
+
+## Page fetch pipeline: Fetch → markitdown → extract
+
+Never read raw retailer HTML — navigation menus, scripts, tracking tags and ads dominate the token count. Instead:
+
+1. **Fetch + convert** the product or search page to Markdown:
+   - CLI: `markitdown "<URL>" > /tmp/page.md` (save to a file, then read/grep it)
+   - Python:
+     ```python
+     from markitdown import MarkItDown
+     md = MarkItDown()
+     result = md.convert_url(url)   # or md.convert(url) on older versions
+     text = result.text_content
+     ```
+2. **Extract** only the relevant lines: scan the Markdown for price patterns — `лв`, `лв.`, `BGN`, `EUR`, `€`, `£` — plus the product title, model number and availability text (e.g. `В наличност`, `Наличен`, `Изчерпан`, `In stock`). Grep for these instead of reading the whole file, e.g.:
+   ```bash
+   grep -nE "(лв|BGN|EUR|€|£|наличн|Изчерпан|In stock)" /tmp/page.md | head -40
+   ```
+3. **Record** price (BGN + EUR), URL and availability label in the comparison table.
+
+**JavaScript / SPA fallback:** if the Markdown output is tiny (roughly < 2 KB) or contains no product names/prices, the page is rendered client-side. Do **not** retry scraping — fall back to a site-scoped `web_search` (e.g. `site:technopolis.bg Tapo C100`) and take the price from the result snippet or the retailer's search URL. Use browser automation only as a last resort.
+
 
 ## Retailer list
 
@@ -49,6 +79,8 @@ Do not check all retailers for every query. Use this table to scope the search:
 
 Always add the user's explicitly preferred stores regardless of category.
 
+**Token budget:** use markitdown on fetched pages to strip navigation/ads/scripts before reading — typically reduces page token cost by 60–80 % (e.g. a JMT homepage drops from ~237 KB HTML to ~54 KB Markdown). Grep the converted Markdown for price lines rather than reading it in full.
+
 ## Search protocol
 
 1. **Read `retailers.md`** for the current retailer list and URLs.
@@ -56,7 +88,7 @@ Always add the user's explicitly preferred stores regardless of category.
 3. **Check dalavera.com or pazaruvaj.com** for Bulgarian market overview and price range.
 4. **Check idealo.de** (and LIMANGO if relevant) for the EU/Germany benchmark price.
 5. **Check Amazon.co.uk** if the user shops from the UK or the product is notably cheaper there.
-6. **Visit each relevant Bulgarian retailer directly by URL** — never rely solely on Google results (big chains outrank specialists on SEO, not price).
+6. **Visit each relevant Bulgarian retailer directly by URL** — never rely solely on Google results (big chains outrank specialists on SEO, not price). Fetch each page via the **Fetch → markitdown → extract** pipeline; for JS-rendered sites use the site-scoped `web_search` fallback.
 7. For every retailer in scope, record exactly one of:
    - Price (BGN + EUR), product URL, availability label
    - **Not listed** — product absent from that retailer's catalogue
