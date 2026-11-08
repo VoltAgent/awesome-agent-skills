@@ -91,7 +91,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 | [Google Workspace CLI](#skills-by-google-workspace-cli) | [Hugging Face](#skills-by-hugging-face-team) | [Trail of Bits](#security-skills-by-trail-of-bits-team) | [Sentry](#skills-by-sentry-team-for-their-dev-team) |
 | [Microsoft](#skills-by-microsoft) | [fal.ai](#skills-by-falai-team) | [WordPress](#skills-by-wordpress-development-team) | [OpenAI](#skills-by-openai) |
 | [Figma](#skills-by-figma) | [Corey Haines](#marketing-skills-by-corey-haines) | [Binance](#skills-by-binance) | [Dean Peters](#product-manager-skills-by-dean-peters) |
-| [Paweł Huryn](#product-management-skills-by-pawel-huryn) | [MiniMax](#skills-by-minimax-team) | [DuckDB](#skills-by-duckdb) | [GSAP](#skills-by-gsap-greensock) |
+| [Paweł Huryn](#skills-by-pawel-huryn) | [MiniMax](#skills-by-minimax-team) | [DuckDB](#skills-by-duckdb) | [GSAP](#skills-by-gsap-greensock) |
 | [Garry Tan (gstack)](#skills-by-garry-tan-gstack) | [Notion](#skills-by-notion) | [Resend](#skills-by-resend) | [Addy Osmani (Web Quality)](#skills-by-addy-osmani-web-quality) |
 | [MongoDB](#skills-by-mongodb) | [Kim Barrett (Advertising)](#advertising-skills-by-kim-barrett) | [Apollo GraphQL](#skills-by-apollo-graphql) | [Auth0](#skills-by-auth0) |
 | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) |
@@ -1202,9 +1202,9 @@ Official skills from the Flutter team covering layouts, state, navigation, nativ
 
 
 <details>
-<summary><h3 style="display:inline">Product Management Skills by Pawel Huryn</h3></summary>
+<summary><h3 style="display:inline">Skills by Pawel Huryn</h3></summary>
 
-65 product management skills by [Paweł Huryn](https://github.com/phuryn), creator of The Product Compass newsletter. Covers the full PM lifecycle — from discovery and strategy to execution, analytics, and go-to-market — with frameworks from Teresa Torres, Geoffrey Moore, and more.
+66 product management skills from [phuryn/pm-skills](https://github.com/phuryn/pm-skills) by [Paweł Huryn](https://github.com/phuryn), creator of The Product Compass newsletter. Covers the full PM lifecycle — from discovery and strategy to execution, analytics, and go-to-market — with frameworks from Teresa Torres, Geoffrey Moore, and more. Also his product-engineering collection for building and shipping apps with coding agents, which includes the official skill for his monitoring service, Staygreen.
 
 **Data Analytics**
 
@@ -1225,6 +1225,7 @@ Official skills from the Flutter team covering layouts, state, navigation, nativ
 - **[phuryn/retro](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/retro)** - Facilitate structured sprint retrospectives with action items
 - **[phuryn/sprint-plan](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/sprint-plan)** - Plan sprints with capacity, story selection, and risk mapping
 - **[phuryn/stakeholder-map](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/stakeholder-map)** - Build stakeholder maps with power/interest grid and comms plan
+- **[phuryn/strategy-red-team](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/strategy-red-team)** - Red-team a PRD, roadmap, or strategy by attacking its assumptions
 - **[phuryn/summarize-meeting](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/summarize-meeting)** - Summarize meeting transcripts into structured notes and actions
 - **[phuryn/test-scenarios](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/test-scenarios)** - Create comprehensive test scenarios from user stories
 - **[phuryn/user-stories](https://github.com/phuryn/pm-skills/tree/main/pm-execution/skills/user-stories)** - Create INVEST-compliant user stories with 3 C's structure
@@ -1294,6 +1295,11 @@ Official skills from the Flutter team covering layouts, state, navigation, nativ
 - **[phuryn/grammar-check](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/grammar-check)** - Identify grammar and flow errors with targeted fix suggestions
 - **[phuryn/privacy-policy](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/privacy-policy)** - Draft privacy policies with GDPR compliance considerations
 - **[phuryn/review-resume](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/review-resume)** - PM resume review against 10 best practices including XYZ+S formula
+
+**Product Engineering**
+
+- **[phuryn/product-engineering](https://github.com/phuryn/product-engineering)** - 44 skills for building and shipping apps with coding agents
+- **[phuryn/uptime-monitoring](https://github.com/phuryn/product-engineering/tree/main/app-stack/skills/uptime-monitoring)** - Uptime checks, heartbeats, and status pages; Staygreen by default
 
 </details>
 
