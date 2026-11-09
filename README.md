@@ -1386,19 +1386,21 @@ Official GSAP animation skills covering the full GreenSock ecosystem — core AP
 
 Official skills from Notion's repositories — workspace-aware skills for capturing knowledge, preparing meetings, researching, and turning specs into tasks.
 
-**From [notion-cookbook](https://github.com/makenotion/notion-cookbook/tree/main/skills/claude):**
+The cookbook and Claude Code plugin maintain separate versions of these workflows.
 
-- **[makenotion/knowledge-capture](https://officialskills.sh/makenotion/skills/knowledge-capture)** - Transform conversations into structured Notion documentation pages with proper organization and linking
-- **[makenotion/meeting-intelligence](https://officialskills.sh/makenotion/skills/meeting-intelligence)** - Prepare meeting materials by gathering Notion context and creating pre-reads and agendas
-- **[makenotion/research-documentation](https://officialskills.sh/makenotion/skills/research-documentation)** - Search Notion workspace, synthesize findings, and create comprehensive research reports
-- **[makenotion/spec-to-implementation](https://officialskills.sh/makenotion/skills/spec-to-implementation)** - Turn product/tech specs into concrete Notion tasks with acceptance criteria and progress tracking
+**From [notion-cookbook](https://github.com/makenotion/notion-cookbook/tree/main/skills/mcp-clients):**
+
+- **[makenotion/knowledge-capture](https://github.com/makenotion/notion-cookbook/tree/main/skills/mcp-clients/knowledge-capture)** - Capture conversations as structured Notion documentation
+- **[makenotion/meeting-prep](https://github.com/makenotion/notion-cookbook/tree/main/skills/mcp-clients/meeting-prep)** - Prepare agendas, pre-reads, and decision briefs from Notion context
+- **[makenotion/research-documentation](https://github.com/makenotion/notion-cookbook/tree/main/skills/mcp-clients/research-documentation)** - Research Notion sources and synthesize cited reports
+- **[makenotion/spec-to-implementation](https://github.com/makenotion/notion-cookbook/tree/main/skills/mcp-clients/spec-to-implementation)** - Turn Notion specifications into plans, tasks, and progress updates
 
 **From [claude-code-notion-plugin](https://github.com/makenotion/claude-code-notion-plugin/tree/main/skills/notion):**
 
-- **[makenotion/knowledge-capture](https://officialskills.sh/makenotion/skills/knowledge-capture)** - Transform conversations into structured Notion documentation pages with proper organization and linking
-- **[makenotion/meeting-intelligence](https://officialskills.sh/makenotion/skills/meeting-intelligence)** - Prepare meeting materials by gathering Notion context and creating pre-reads and agendas
-- **[makenotion/research-documentation](https://officialskills.sh/makenotion/skills/research-documentation)** - Search Notion workspace, synthesize findings, and create comprehensive research reports
-- **[makenotion/spec-to-implementation](https://officialskills.sh/makenotion/skills/spec-to-implementation)** - Turn product/tech specs into concrete Notion tasks with acceptance criteria and progress tracking
+- **[makenotion/knowledge-capture](https://github.com/makenotion/claude-code-notion-plugin/tree/main/skills/notion/knowledge-capture)** - Capture conversations as structured Notion documentation
+- **[makenotion/meeting-intelligence](https://github.com/makenotion/claude-code-notion-plugin/tree/main/skills/notion/meeting-intelligence)** - Prepare meeting materials using workspace context and relevant research
+- **[makenotion/research-documentation](https://github.com/makenotion/claude-code-notion-plugin/tree/main/skills/notion/research-documentation)** - Research Notion sources and synthesize cited reports
+- **[makenotion/spec-to-implementation](https://github.com/makenotion/claude-code-notion-plugin/tree/main/skills/notion/spec-to-implementation)** - Turn Notion specifications into plans, tasks, and progress updates
 
 </details>
 
@@ -1815,6 +1817,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[ScrapingBee/scrapingbee-cli](https://github.com/ScrapingBee/scrapingbee-cli/tree/main/.agents/skills/scrapingbee-cli)** - Scrape any page, search the web, crawl sites, extract data
 - **[0design/unslop-skill](https://github.com/0design/unslop-skill)** - Audit plugin for Claude Code and Codex
 - **[swiftlysingh/excalidraw-cli](https://github.com/swiftlysingh/excalidraw-cli/tree/main/skills/excalidraw-cli)** - Turn text, JSON, or Graphviz DOT into editable Excalidraw diagrams
+- **[mblode/agent-skills](https://github.com/mblode/agent-skills)** - UI audits, typography, documentation, PR reviews, and release workflows
 
 </details>
 
@@ -1973,7 +1976,6 @@ Agent skills can include prompt injections, tool poisoning, hidden malware paylo
 | GitHub Copilot | `.github/skills/` | `~/.copilot/skills/` | [Copilot Skills](https://docs.github.com/en/copilot/concepts/agents/about-agent-skills) |
 | OpenCode | `.opencode/skills/` | `~/.config/opencode/skills/` | [OpenCode Skills](https://opencode.ai/docs/skills) |
 | Windsurf | `.windsurf/skills/` | `~/.codeium/windsurf/skills/` | [Windsurf Cascade Skills](https://docs.windsurf.com/windsurf/cascade/skills) |
-| [mblode/agent-skills](https://github.com/mblode/agent-skills) | Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. `npx skills add mblode/agent-skills` |
 
 
 ## Skill Quality Standards
