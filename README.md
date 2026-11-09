@@ -1815,6 +1815,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[ScrapingBee/scrapingbee-cli](https://github.com/ScrapingBee/scrapingbee-cli/tree/main/.agents/skills/scrapingbee-cli)** - Scrape any page, search the web, crawl sites, extract data
 - **[0design/unslop-skill](https://github.com/0design/unslop-skill)** - Audit plugin for Claude Code and Codex
 - **[swiftlysingh/excalidraw-cli](https://github.com/swiftlysingh/excalidraw-cli/tree/main/skills/excalidraw-cli)** - Turn text, JSON, or Graphviz DOT into editable Excalidraw diagrams
+- **[speakeasy-api/sdk-generation-skills](https://github.com/speakeasy-api/sdk-generation-skills)** - Generate SDKs, MCP servers, and Terraform providers from OpenAPI specs
 
 </details>
 
