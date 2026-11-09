@@ -1674,6 +1674,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html/tree/main/skills/answer-me-with-html)** - Answers hard questions as readable, self-contained HTML pages
 - **[Koloyaaa/foreign-academic-translator](https://github.com/Koloyaaa/foreign-academic-translator-skill/tree/main/skills/foreign-academic-translator)** - Translate foreign academic handouts into Chinese with subject glossaries
 - **[duyunzhoudyz/dyz-gongwen-skills](https://github.com/duyunzhoudyz/dyz-gongwen-skills)** - Chinese official document drafting, review and GB/T 9704 formatting
+- **[diaryofamademan/first-principles-thinking](https://github.com/diaryofamademan/skills/tree/main/first-principles-thinking)** - Strip decisions to fundamental truths, then rebuild better options
 
 </details>
 
