@@ -75,6 +75,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 
 
 
+- [Claude to PDF](https://chromewebstore.google.com/detail/ndnjjjppaaiclfjlnopmnimhhiikkppk) - Export Claude.ai chats and artifacts to PDF, Markdown, and JSON with math and syntax formatting.
 ## Table of Contents
 
 ### Official Skills by
