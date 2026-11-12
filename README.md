@@ -1598,6 +1598,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[arcmira/find-quotes](https://github.com/arcmira/mcp/tree/master/plugins/arcmira/skills/find-quotes)** - Find timestamped quotes and clips in YouTube and podcast transcripts
 - **[Aboudjem/humanizer-skill](https://github.com/Aboudjem/humanizer-skill)** - Rewrites AI-sounding text, flagging 55 writing patterns
 - **[zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar)** - Daily radar of new AI names and their search demand
+- **[StumbleBots/lead-hunter](https://github.com/StumbleBots/stumblebots-skills/tree/main/skills/lead-hunter)** - Finds prospects with linked evidence, scores fit, drafts first messages
+- **[StumbleBots/sales-follow-up](https://github.com/StumbleBots/stumblebots-skills/tree/main/skills/sales-follow-up)** - Drafts follow-ups for quiet leads in the owner's voice
 
 </details>
 
@@ -1674,6 +1676,9 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html/tree/main/skills/answer-me-with-html)** - Answers hard questions as readable, self-contained HTML pages
 - **[Koloyaaa/foreign-academic-translator](https://github.com/Koloyaaa/foreign-academic-translator-skill/tree/main/skills/foreign-academic-translator)** - Translate foreign academic handouts into Chinese with subject glossaries
 - **[duyunzhoudyz/dyz-gongwen-skills](https://github.com/duyunzhoudyz/dyz-gongwen-skills)** - Chinese official document drafting, review and GB/T 9704 formatting
+- **[StumbleBots/support-triager](https://github.com/StumbleBots/stumblebots-skills/tree/main/skills/support-triager)** - Sorts support inbox, attaches draft replies from supplied facts
+- **[StumbleBots/meeting-prepper](https://github.com/StumbleBots/stumblebots-skills/tree/main/skills/meeting-prepper)** - Builds a one-page brief before meetings from pasted details
+- **[StumbleBots/inbox-drafter](https://github.com/StumbleBots/stumblebots-skills/tree/main/skills/inbox-drafter)** - Drafts inbox replies in your voice; sends nothing itself
 
 </details>
 
