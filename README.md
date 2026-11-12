@@ -1927,6 +1927,9 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[kinprove/genealogy-research-recipes](https://github.com/Kinprove/genealogy-research-recipes)** - Fact-checked recipes for DNA evidence and genealogy record searches
 - **[ChatCut-Inc/talking-head-guide](https://github.com/ChatCut-Inc/agent-plugin/tree/main/codex/skills/talking-head-guide)** - Edit talking-head videos: remove fillers, pauses, retakes; add captions, B-roll
 - **[ChatCut-Inc/create-motion-graphics](https://github.com/ChatCut-Inc/agent-plugin/tree/main/codex/skills/create-motion-graphics)** - Create editable motion graphics for video: titles, lower thirds, overlays
+- **[klad-app/klad](https://github.com/klad-app/klad/tree/main/docs/skill)** - Make and edit 2D art with the klad CLI
+- **[klad-app/klad-drawing](https://github.com/klad-app/klad/tree/main/docs/skill/drawing)** - Drawing and painting craft: planning, light, values, colour, materials
+- **[klad-app/klad-pixel](https://github.com/klad-app/klad/tree/main/docs/skill/pixel)** - Pixel art craft: palettes, clean lines, shading, tiles, animation
 
 </details>
 
