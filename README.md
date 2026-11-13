@@ -97,7 +97,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 | [Brave](#skills-by-brave) | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) |
 | [Datadog Labs](#skills-by-datadog-labs) | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) |
 | [Red Hat](#skills-by-redhat) | [Community](#community-skills) | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) |
-| [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |  |  |
+| [Google Cloud](#skills-by-google-cloud) | [SKU.io](#skills-by-skuio-team) | [Quality Standards](#skill-quality-standards) |  |
 
 <br/>
 
@@ -1485,6 +1485,16 @@ Official Google Cloud skills covering Firebase, BigQuery, Cloud Run, GKE, AlloyD
 - **[google/cloud/google-cloud-waf-reliability](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-reliability)** - Generates reliability-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Google Cloud Well-Architected Framework.
 - **[google/cloud/google-cloud-waf-security](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-security)** - Generates security-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Google Cloud Well-Architected Framework (WAF).
 - **[google/cloud/google-cloud-waf-sustainability](https://github.com/google/skills/tree/main/skills/cloud/google-cloud-waf-sustainability)** - Generates sustainability-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Google Cloud Well-Architected Framework (WAF).
+
+</details>
+
+<details>
+<summary><h3 style="display:inline">Skills by SKU.io Team</h3></summary>
+
+- **[skuio/find-product](https://github.com/skuio/sku-skills/tree/main/dist/claude/products/find-product)** - Resolve a product by SKU, barcode, or search
+- **[skuio/create-purchase-order](https://github.com/skuio/sku-skills/tree/main/dist/claude/purchase-orders/create-purchase-order)** - Create a supplier purchase order from a description
+- **[skuio/adjust-inventory](https://github.com/skuio/sku-skills/tree/main/dist/claude/inventory/adjust-inventory)** - Increase, decrease, or set on-hand stock
+- **[skuio/build-product-catalog](https://github.com/skuio/sku-skills/tree/main/dist/claude/products/build-product-catalog)** - Import products from a spreadsheet or price list
 
 </details>
 
