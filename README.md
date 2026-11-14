@@ -1598,6 +1598,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[arcmira/find-quotes](https://github.com/arcmira/mcp/tree/master/plugins/arcmira/skills/find-quotes)** - Find timestamped quotes and clips in YouTube and podcast transcripts
 - **[Aboudjem/humanizer-skill](https://github.com/Aboudjem/humanizer-skill)** - Rewrites AI-sounding text, flagging 55 writing patterns
 - **[zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar)** - Daily radar of new AI names and their search demand
+- **[adkit/ads-skills](https://github.com/adkit/ads-skills)** - Create, edit and report on campaigns across eight ad platforms
 
 </details>
 
