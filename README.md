@@ -1674,7 +1674,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html/tree/main/skills/answer-me-with-html)** - Answers hard questions as readable, self-contained HTML pages
 - **[Koloyaaa/foreign-academic-translator](https://github.com/Koloyaaa/foreign-academic-translator-skill/tree/main/skills/foreign-academic-translator)** - Translate foreign academic handouts into Chinese with subject glossaries
 - **[duyunzhoudyz/dyz-gongwen-skills](https://github.com/duyunzhoudyz/dyz-gongwen-skills)** - Chinese official document drafting, review and GB/T 9704 formatting
-- **[bucharitesh/generate-qr](https://github.com/bucharitesh/qrdx/tree/main/skills/generate-qr)** - Generate styled QR codes as SVG, PNG, WebP or EPS
+- **[bucharitesh/generate-qr](https://github.com/qrdxinc/qrdx/tree/main/skills/generate-qr)** - Generate styled QR codes as SVG, PNG, WebP or EPS
 
 </details>
 
