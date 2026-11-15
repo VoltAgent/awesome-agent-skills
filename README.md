@@ -1823,6 +1823,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[laulauraluo/ai-code-review-triage](https://github.com/laulauraluo/ai-code-review-triage)** - Three-pass review workflow for AI-generated pull requests
 - **[thedesignproject/agentic-design-systems](https://github.com/thedesignproject/agent-skills/tree/main/skills/agentic-design-systems)** - Scaffolds AI-readable design systems for agents
 - **[nodemaven/skills](https://github.com/nodemaven/skills)** - Residential proxies, Google search scraping, proxy benchmarking and troubleshooting
+- **[KyungHwanKim-devs/kubegap](https://github.com/KyungHwanKim-devs/kubegap)** - Read-only Kubernetes operations gap audit with Markdown report
 
 </details>
 
