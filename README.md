@@ -1820,6 +1820,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[swiftlysingh/excalidraw-cli](https://github.com/swiftlysingh/excalidraw-cli/tree/main/skills/excalidraw-cli)** - Turn text, JSON, or Graphviz DOT into editable Excalidraw diagrams
 - **[kyy-logs/code-review-gate-skill](https://github.com/kyy-logs/code-review-gate-skill)** - Evidence-backed static code review with a JSON-derived merge gate
 - **[laulauraluo/ai-code-review-triage](https://github.com/laulauraluo/ai-code-review-triage)** - Three-pass review workflow for AI-generated pull requests
+- **[thedesignproject/agentic-design-systems](https://github.com/thedesignproject/agent-skills/tree/main/skills/agentic-design-systems)** - Scaffolds AI-readable design systems for agents
 
 </details>
 
