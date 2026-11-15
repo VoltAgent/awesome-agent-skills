@@ -1946,6 +1946,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[ChatCut-Inc/create-motion-graphics](https://github.com/ChatCut-Inc/agent-plugin/tree/main/codex/skills/create-motion-graphics)** - Create editable motion graphics for video: titles, lower thirds, overlays
 - **[pashov/skills](https://github.com/pashov/skills)** - Solidity AI audit, threat model, fuzz suites.
 - **[makevoid/motion-graphics-music-video-skill-noimage](https://github.com/makevoid/motion-graphics-music-video-skill-noimage)** - Create music videos with native Swift graphics on macOS
+- **[rhiever/evident-charts](https://github.com/rhiever/evident-charts/tree/main/skills/evident-charts)** - Makes and critiques charts and checks the rendered image
 
 </details>
 
