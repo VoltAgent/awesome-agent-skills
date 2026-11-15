@@ -1950,6 +1950,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[pashov/skills](https://github.com/pashov/skills)** - Solidity AI audit, threat model, fuzz suites.
 - **[makevoid/motion-graphics-music-video-skill-noimage](https://github.com/makevoid/motion-graphics-music-video-skill-noimage)** - Create music videos with native Swift graphics on macOS
 - **[rhiever/evident-charts](https://github.com/rhiever/evident-charts/tree/main/skills/evident-charts)** - Makes and critiques charts and checks the rendered image
+- **[mhfed/vn-law-check](https://github.com/mhfed/vn-law-check)** - Audit websites and apps against Vietnamese law
 
 </details>
 
