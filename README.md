@@ -1824,6 +1824,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[thedesignproject/agentic-design-systems](https://github.com/thedesignproject/agent-skills/tree/main/skills/agentic-design-systems)** - Scaffolds AI-readable design systems for agents
 - **[nodemaven/skills](https://github.com/nodemaven/skills)** - Residential proxies, Google search scraping, proxy benchmarking and troubleshooting
 - **[KyungHwanKim-devs/kubegap](https://github.com/KyungHwanKim-devs/kubegap)** - Read-only Kubernetes operations gap audit with Markdown report
+- **[soba-labs/langchain-agent-skills](https://github.com/soba-labs/langchain-agent-skills)** - LangChain, LangGraph, LangSmith and Deep Agents development skills
 
 </details>
 
