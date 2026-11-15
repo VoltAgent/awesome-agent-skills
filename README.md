@@ -1827,6 +1827,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[soba-labs/langchain-agent-skills](https://github.com/soba-labs/langchain-agent-skills)** - LangChain, LangGraph, LangSmith and Deep Agents development skills
 - **[izzzzzi/assh](https://github.com/izzzzzi/agent-assh/tree/main/skills/assh)** - SSH over persistent tmux sessions with paginated remote output
 - **[speakeasy-api/sdk-generation-skills](https://github.com/speakeasy-api/sdk-generation-skills)** - Generate SDKs, MCP servers, and Terraform providers from OpenAPI specs
+- **[buddy/buddy](https://github.com/buddy/buddy-plugin/tree/main/skills/buddy)** - Deploy apps, run pipelines and expose ports with Buddy
 
 </details>
 
