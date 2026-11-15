@@ -1599,6 +1599,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Aboudjem/humanizer-skill](https://github.com/Aboudjem/humanizer-skill)** - Rewrites AI-sounding text, flagging 55 writing patterns
 - **[zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar)** - Daily radar of new AI names and their search demand
 - **[Illyism/seo-skills](https://github.com/Illyism/seo-skills)** - 17 SEO skills for audits, titles, content, and GEO
+- **[adkit/ads-skills](https://github.com/adkit/ads-skills)** - Create, edit and report on campaigns across eight ad platforms
 
 </details>
 
