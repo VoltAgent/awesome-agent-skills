@@ -1677,6 +1677,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Koloyaaa/foreign-academic-translator](https://github.com/Koloyaaa/foreign-academic-translator-skill/tree/main/skills/foreign-academic-translator)** - Translate foreign academic handouts into Chinese with subject glossaries
 - **[duyunzhoudyz/dyz-gongwen-skills](https://github.com/duyunzhoudyz/dyz-gongwen-skills)** - Chinese official document drafting, review and GB/T 9704 formatting
 - **[tw93/mole](https://github.com/tw93/Mole/tree/main/skills/mole)** - Drive the Mole CLI to clean macOS and Windows
+- **[busabase/busabase](https://github.com/busabase/busabase)** - Approval-first database workspace for AI agents
 
 </details>
 
