@@ -1830,6 +1830,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[speakeasy-api/sdk-generation-skills](https://github.com/speakeasy-api/sdk-generation-skills)** - Generate SDKs, MCP servers, and Terraform providers from OpenAPI specs
 - **[buddy/buddy](https://github.com/buddy/buddy-plugin/tree/main/skills/buddy)** - Deploy apps, run pipelines and expose ports with Buddy
 - **[orwa-mahmoud/nightshift](https://github.com/orwa-mahmoud/nightshift)** - Punch list, clock-out gate and receipts for long agent runs
+- **[momentic-ai/skills](https://github.com/momentic-ai/skills)** - Write, run, and repair Momentic browser and mobile E2E tests
 
 </details>
 
