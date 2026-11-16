@@ -1832,6 +1832,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[orwa-mahmoud/nightshift](https://github.com/orwa-mahmoud/nightshift)** - Punch list, clock-out gate and receipts for long agent runs
 - **[momentic-ai/skills](https://github.com/momentic-ai/skills)** - Write, run, and repair Momentic browser and mobile E2E tests
 - **[awss1i/checking-a-page](https://github.com/awss1i/assay/tree/main/plugins/assay/skills/checking-a-page)** - Check a web page by driving every control in Chromium
+- **[hyper-elements/hyper-elements](https://github.com/hyper-elements/hyper-elements/tree/main/skills/hyper-elements)** - Write emails, pages, PDFs and images as React components
+- **[hyper-elements/email-testing](https://github.com/hyper-elements/hyper-elements/tree/main/skills/email-testing)** - Preview and check any HTML email in Outlook and Gmail
 
 </details>
 
