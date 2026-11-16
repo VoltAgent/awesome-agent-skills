@@ -1951,6 +1951,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[makevoid/motion-graphics-music-video-skill-noimage](https://github.com/makevoid/motion-graphics-music-video-skill-noimage)** - Create music videos with native Swift graphics on macOS
 - **[rhiever/evident-charts](https://github.com/rhiever/evident-charts/tree/main/skills/evident-charts)** - Makes and critiques charts and checks the rendered image
 - **[mhfed/vn-law-check](https://github.com/mhfed/vn-law-check)** - Audit websites and apps against Vietnamese law
+- **[goul4rt/lgpd-skills](https://github.com/goul4rt/lgpd-skills)** - Modular Agent Skills toolkit (1 maestro + 18 sub-skills) for LGPD & ECA Digital privacy engineering, automated code audits, consent ledgers, LINDDUN threat modeling, and DSAR endpoints across Claude Code, Codex, Cursor, Gemini CLI, and OpenCode
 - **[Vladimir-Human/ru-marketplace-mcp](https://github.com/Vladimir-Human/ru-marketplace-mcp)** - 15 skills for read-only search, product cards, seller details, reviews, and cross-marketplace price comparison across 12 Russian and Chinese marketplaces without API keys
 - **[everyinfra/everyinfra-agent-plugins](https://github.com/everyinfra/everyinfra-agent-plugins)** - Public data from 100+ platforms, web search, CAPTCHA solving
 
