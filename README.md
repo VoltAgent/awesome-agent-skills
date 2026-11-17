@@ -1878,6 +1878,13 @@ Official skills published by Cypress to help create, maintain, understand, and f
 </details>
 
 <details>
+<summary><h3 style="display:inline">Design and Media</h3></summary>
+
+- **[iifzx/design-garden](https://github.com/iifzx/design-garden)** - Universal self-improving design skill for AI agents covering UI, posters, icons, logos, slides, data-viz, video, and illustration. Deals 2-3 structurally different art directions before building, runs a critique gate before shipping, and records what worked into structured learnings after every task. Community knowledge promotes through eval-gated blind A/B. 9 domains, 18 style recipes, anti-slop canon, EN/中文
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Specialized Domains</h3></summary>
 
 - **[ZeKaiNie/universal-examprep-skill](https://github.com/ZeKaiNie/universal-examprep-skill)** - Multimodal grounded active-learning tutor for college textbooks (PDF/PPTX/DOCX). Features native PDF vector diagram cropping (`pypdfium2`), real homework quiz banks, hard exit-code anti-hallucination, and persistent cross-session state. Tested on 1,000+ pages of real college courseware on small cheap models.
