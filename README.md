@@ -1674,7 +1674,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[MetcalfSolutions/Satori](https://github.com/MetcalfSolutions/Satori)** - Open-source wisdom companion skill (Apache 2.0) for coding agents and web chat, built to be outgrown: one lens per turn, a local SQLite memory vault, and trigger discipline that stays silent during pure coding work.
 - **[pachca/pachca](https://github.com/pachca/openapi/tree/main/plugins/pachca/skills/pachca)** - Connect agents to Pachca and troubleshoot MCP authentication and permissions
 - **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html/tree/main/skills/answer-me-with-html)** - Answers hard questions as readable, self-contained HTML pages
-- **[Koloyaaa/foreign-academic-translator](https://github.com/Koloyaaa/foreign-academic-translator-skill/tree/main/skills/foreign-academic-translator)** - Translate foreign academic handouts into Chinese with subject glossaries
+- **[Koloyaaa/foreign-academic-translator](https://github.com/Koloyaaa/academic-translation-toolkit)** - Translate foreign academic handouts into Chinese with subject glossaries
 - **[duyunzhoudyz/dyz-gongwen-skills](https://github.com/duyunzhoudyz/dyz-gongwen-skills)** - Chinese official document drafting, review and GB/T 9704 formatting
 - **[tw93/mole](https://github.com/tw93/Mole/tree/main/skills/mole)** - Drive the Mole CLI to clean macOS and Windows
 - **[busabase/busabase](https://github.com/busabase/busabase)** - Approval-first database workspace for AI agents
