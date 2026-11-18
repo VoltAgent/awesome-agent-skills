@@ -1953,6 +1953,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[mhfed/vn-law-check](https://github.com/mhfed/vn-law-check)** - Audit websites and apps against Vietnamese law
 - **[Vladimir-Human/ru-marketplace-mcp](https://github.com/Vladimir-Human/ru-marketplace-mcp)** - 15 skills for read-only search, product cards, seller details, reviews, and cross-marketplace price comparison across 12 Russian and Chinese marketplaces without API keys
 - **[everyinfra/everyinfra-agent-plugins](https://github.com/everyinfra/everyinfra-agent-plugins)** - Public data from 100+ platforms, web search, CAPTCHA solving
+- **[inkfilm/pick-video-prompt](https://github.com/inkfilm/inkfilm/tree/main/skills/pick-video-prompt)** - Pick verified AI short-video prompts from a 52-prompt library
+- **[inkfilm/video-prompt-writing](https://github.com/inkfilm/inkfilm/tree/main/skills/video-prompt-writing)** - Teach writing AI video prompts from verified public examples
 
 </details>
 
