@@ -1832,6 +1832,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[orwa-mahmoud/nightshift](https://github.com/orwa-mahmoud/nightshift)** - Punch list, clock-out gate and receipts for long agent runs
 - **[momentic-ai/skills](https://github.com/momentic-ai/skills)** - Write, run, and repair Momentic browser and mobile E2E tests
 - **[awss1i/checking-a-page](https://github.com/awss1i/assay/tree/main/plugins/assay/skills/checking-a-page)** - Check a web page by driving every control in Chromium
+- **[anasfik/FlutterGuard](https://github.com/anasfik/FlutterGuard/tree/main/skill)** - Static security audit of released Flutter APKs on Android
 
 </details>
 
