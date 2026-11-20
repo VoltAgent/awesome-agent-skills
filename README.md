@@ -1600,7 +1600,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[adkit/ads-skills](https://github.com/adkit/ads-skills)** - Create, edit and report on campaigns across eight ad platforms
 - **[everyinfra/seo-skills](https://github.com/everyinfra/seo-skills)** - Open-source SEO and GEO audits, keyword and SERP research
 - **[akii-technologies-ltd/schema-markup](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer/tree/main/skills/schema-markup)** - Write and check JSON-LD markup for a web page
-- **[rnthking/redya-xiaohongshu](https://github.com/rnthking/redya-skills/tree/main/skill/redya-xiaohongshu)** - Create illustrated and product posts, adapt references, make Live Photos, and review copy
+- **[rnthking/redya-xiaohongshu](https://github.com/rnthking/redya-skills/tree/main/skill/redya-xiaohongshu)** - 小红书图文与实况图·红鸦 AI · Create illustrated and product posts, adapt references, make Live Photos, and review copy
 
 </details>
 
