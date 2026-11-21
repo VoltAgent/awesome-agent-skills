@@ -1600,6 +1600,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[adkit/ads-skills](https://github.com/adkit/ads-skills)** - Create, edit and report on campaigns across eight ad platforms
 - **[everyinfra/seo-skills](https://github.com/everyinfra/seo-skills)** - Open-source SEO and GEO audits, keyword and SERP research
 - **[akii-technologies-ltd/schema-markup](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer/tree/main/skills/schema-markup)** - Write and check JSON-LD markup for a web page
+- **[backtrue/thinkwithblack-skill](https://github.com/backtrue/thinkwithblack-skill)** - 365 bilingual marketing workflows for ads, pricing, and customer retention.
 
 </details>
 
