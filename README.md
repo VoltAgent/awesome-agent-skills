@@ -1516,6 +1516,13 @@ Official skills published by Cypress to help create, maintain, understand, and f
 ### Community Skills
 
 <details>
+<summary><h3 style="display:inline">Hardware & PCB Engineering</h3></summary>
+
+- **[calligraphysystems/calligraphy-pcb-foundry-skill](https://github.com/calligraphysystems/calligraphy-pcb-foundry-skill)** - Autonomous 0-DRC PCB routing, $0 pre-flight DRC/stackup audit, 3D DC IR-drop & 50-ohm RF qualification, and surgical ECO rerouting for KiCad, Altium, and Specctra boards (`npx skills add calligraphysystems/calligraphy-pcb-foundry-skill`)
+
+</details>
+
+<details>
 <summary><h3 style="display:inline">Vector Databases</h3></summary>
 
 - **[qdrant/skills](https://github.com/qdrant/skills)** - Agent skills for Qdrant vector search, covering scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, .NET, and Java
