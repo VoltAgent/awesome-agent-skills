@@ -1954,6 +1954,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[Vladimir-Human/ru-marketplace-mcp](https://github.com/Vladimir-Human/ru-marketplace-mcp)** - 15 skills for read-only search, product cards, seller details, reviews, and cross-marketplace price comparison across 12 Russian and Chinese marketplaces without API keys
 - **[everyinfra/everyinfra-agent-plugins](https://github.com/everyinfra/everyinfra-agent-plugins)** - Public data from 100+ platforms, web search, CAPTCHA solving
 
+- **[i2v-ai/i2v-skills](https://github.com/i2v-ai/i2v-skills)** - Image and video generation skills: discover 12 image and 16 video models, quote in USD, submit inside a budget ceiling, and recover interrupted tasks.
+
 </details>
 
 <details>
