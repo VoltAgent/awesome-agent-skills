@@ -1832,6 +1832,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[orwa-mahmoud/nightshift](https://github.com/orwa-mahmoud/nightshift)** - Punch list, clock-out gate and receipts for long agent runs
 - **[momentic-ai/skills](https://github.com/momentic-ai/skills)** - Write, run, and repair Momentic browser and mobile E2E tests
 - **[awss1i/checking-a-page](https://github.com/awss1i/assay/tree/main/plugins/assay/skills/checking-a-page)** - Check a web page by driving every control in Chromium
+- **[shirokun20/kuron-security](https://github.com/shirokun20/kuron-security)** - Multi-harness Claude Security pipeline (codebase scan, scan changes, suggest patches) for AI agents without the Workflow tool — 3-lens adversarial refutation panel, isolated scratch-clone patch verification, visual scorecards, Mermaid attack graphs, and SARIF 2.1.0 output
 
 </details>
 
