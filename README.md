@@ -1833,6 +1833,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[momentic-ai/skills](https://github.com/momentic-ai/skills)** - Write, run, and repair Momentic browser and mobile E2E tests
 - **[awss1i/checking-a-page](https://github.com/awss1i/assay/tree/main/plugins/assay/skills/checking-a-page)** - Check a web page by driving every control in Chromium
 
+- **[flashdatadev/flashdata-skills](https://github.com/flashdatadev/flashdata-skills)** - 17 official agent skills for real-time Google Search, timestamped YouTube transcripts/metadata, and batch cloud video downloads via hosted Remote MCP or REST API
+
 </details>
 
 <details>
