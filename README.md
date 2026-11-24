@@ -1953,6 +1953,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[mhfed/vn-law-check](https://github.com/mhfed/vn-law-check)** - Audit websites and apps against Vietnamese law
 - **[Vladimir-Human/ru-marketplace-mcp](https://github.com/Vladimir-Human/ru-marketplace-mcp)** - 15 skills for read-only search, product cards, seller details, reviews, and cross-marketplace price comparison across 12 Russian and Chinese marketplaces without API keys
 - **[everyinfra/everyinfra-agent-plugins](https://github.com/everyinfra/everyinfra-agent-plugins)** - Public data from 100+ platforms, web search, CAPTCHA solving
+- **[ZhuLinsen/alphasift](https://github.com/ZhuLinsen/alphasift/tree/main/.github/skills/alphasift)** - Multi-market quantitative stock screener (7 exchanges), red-flag filing guardrails, 250-day Walk-Forward pattern audit, and STDIO MCP skill
 
 </details>
 
