@@ -1611,6 +1611,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[op7418/NanoBanana-PPT-Skills](https://github.com/op7418/NanoBanana-PPT-Skills)** - AI-powered PPT generation with document analysis and styled images
 - **[zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)** - Generate animation-rich HTML presentations with visual style previews
 - **[sujunmin/agy-ppt](https://github.com/sujunmin/agy-ppt)** - Generate PowerPoint decks without the AI-slop look, purpose-built for the Antigravity+Kiro+Codex pipeline; GPT image rendering handles dense Traditional Chinese slide text far better than Gemini
+- **[YuanMouJun/yuanmou-ppt-skill](https://github.com/YuanMouJun/yuanmou-ppt-skill)** - Zero-dependency native OOXML PowerPoint (.pptx) engine & skill for Claude Code, Codex, Cursor, and Antigravity: 1:1 visual template cloning, lossless .pptx deck surgery, embedded Excel-backed native charts, proportional tables, and 5-gate visual QA
 - **[gokapso/integrate-whatsapp](https://github.com/gokapso/agent-skills/tree/master/skills/integrate-whatsapp)** - Connect WhatsApp, set up webhooks, and send messages
 - **[gokapso/automate-whatsapp](https://github.com/gokapso/agent-skills/tree/master/skills/automate-whatsapp)** - Build WhatsApp automations with workflows and agents
 - **[gokapso/observe-whatsapp](https://github.com/gokapso/agent-skills/tree/master/skills/observe-whatsapp)** - Debug WhatsApp delivery issues and run health checks
