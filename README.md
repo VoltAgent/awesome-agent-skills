@@ -1679,6 +1679,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[tw93/mole](https://github.com/tw93/Mole/tree/main/skills/mole)** - Drive the Mole CLI to clean macOS and Windows
 - **[busabase/busabase](https://github.com/busabase/busabase)** - Approval-first database workspace for AI agents
 - **[Frihet-io/frihet-mcp](https://github.com/Frihet-io/frihet-mcp/tree/main/skills/frihet-mcp)** - AI-native ERP skills for invoicing, CRM, expenses, and tax compliance
+- **[yangzichao/overleaf-collaboration](https://github.com/yangzichao/mcp-server-overleaf/tree/main/plugins/overleaf/skills/overleaf-collaboration)** - Review Overleaf edits, triage comments, and resolve push conflicts
 
 </details>
 
