@@ -1679,6 +1679,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[tw93/mole](https://github.com/tw93/Mole/tree/main/skills/mole)** - Drive the Mole CLI to clean macOS and Windows
 - **[busabase/busabase](https://github.com/busabase/busabase)** - Approval-first database workspace for AI agents
 - **[Frihet-io/frihet-mcp](https://github.com/Frihet-io/frihet-mcp/tree/main/skills/frihet-mcp)** - AI-native ERP skills for invoicing, CRM, expenses, and tax compliance
+- **[Deploy on MindPal](https://mindpal.space/deploy-on-mindpal)** - Try any public skill in the browser, then share it as an AI tool people open from a link, without Claude or an AI subscription
 
 </details>
 
