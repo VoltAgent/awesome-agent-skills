@@ -1953,6 +1953,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[mhfed/vn-law-check](https://github.com/mhfed/vn-law-check)** - Audit websites and apps against Vietnamese law
 - **[Vladimir-Human/ru-marketplace-mcp](https://github.com/Vladimir-Human/ru-marketplace-mcp)** - 15 skills for read-only search, product cards, seller details, reviews, and cross-marketplace price comparison across 12 Russian and Chinese marketplaces without API keys
 - **[everyinfra/everyinfra-agent-plugins](https://github.com/everyinfra/everyinfra-agent-plugins)** - Public data from 100+ platforms, web search, CAPTCHA solving
+- **[CSS-Electronics/cansub-reverse-engineering](https://github.com/CSS-Electronics/can-bus-reverse-engineering-skills/tree/master/.claude/skills/cansub-reverse-engineering)** - Reverse engineer CAN bus signals into DBC files
 
 </details>
 
