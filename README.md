@@ -1881,6 +1881,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 <summary><h3 style="display:inline">Specialized Domains</h3></summary>
 
 - **[ZeKaiNie/universal-examprep-skill](https://github.com/ZeKaiNie/universal-examprep-skill)** - Multimodal grounded active-learning tutor for college textbooks (PDF/PPTX/DOCX). Features native PDF vector diagram cropping (`pypdfium2`), real homework quiz banks, hard exit-code anti-hallucination, and persistent cross-session state. Tested on 1,000+ pages of real college courseware on small cheap models.
+- **[quantset/skills](https://github.com/quantset/skills)** - 7 financial research & quant valuation skills (DCF, comps, 1-page memo, earnings, forensic audit, ETF portfolio X-ray) across 90,000+ symbols & 67 countries
 - **[shouldnotappearcalm/a-share-skill](https://github.com/shouldnotappearcalm/a-share-skill)** - China A-share (Shanghai/Shenzhen) skills: real-time quotes, K-line history, technical indicators, events, capital flows, sector heatmaps, and paper trading. Works with Claude Code, Cursor, Codex, and Qoder
 - **[transloadit/skills](https://github.com/transloadit/skills/tree/main/skills)** - Transloadit skill collection (6)
 - **[honeydew-ai/honeydew-ai-coding-agents-plugins](https://github.com/honeydew-ai/honeydew-ai-coding-agents-plugins)** - 11 skills for the Honeydew semantic layer over Snowflake, Databricks, and BigQuery: model exploration, entity/relation/attribute/metric/context/domain creation, validation, query, filtering, and workspace branching
