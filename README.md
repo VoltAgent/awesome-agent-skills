@@ -1832,6 +1832,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[orwa-mahmoud/nightshift](https://github.com/orwa-mahmoud/nightshift)** - Punch list, clock-out gate and receipts for long agent runs
 - **[momentic-ai/skills](https://github.com/momentic-ai/skills)** - Write, run, and repair Momentic browser and mobile E2E tests
 - **[awss1i/checking-a-page](https://github.com/awss1i/assay/tree/main/plugins/assay/skills/checking-a-page)** - Check a web page by driving every control in Chromium
+- **[arxhr007/ramp](https://github.com/arxhr007/ramp)** - WCAG 2.2 accessibility enforcement for AI-generated UI: prevention-first patterns, 29-check static analyzer (HTML/JSX/Vue/Svelte), contrast engine, axe-core runtime scanning, fix-autonomy triage
 
 </details>
 
