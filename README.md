@@ -1953,6 +1953,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[mhfed/vn-law-check](https://github.com/mhfed/vn-law-check)** - Audit websites and apps against Vietnamese law
 - **[Vladimir-Human/ru-marketplace-mcp](https://github.com/Vladimir-Human/ru-marketplace-mcp)** - 15 skills for read-only search, product cards, seller details, reviews, and cross-marketplace price comparison across 12 Russian and Chinese marketplaces without API keys
 - **[everyinfra/everyinfra-agent-plugins](https://github.com/everyinfra/everyinfra-agent-plugins)** - Public data from 100+ platforms, web search, CAPTCHA solving
+- **[SamuelAguiar12/taxrail](https://github.com/SamuelAguiar12/taxrail/tree/main/skills/taxrail-crypto-tax)** - Pre-execution US (IRS 1099-DA, Form 8949, HIFO/SpecID, TLH) & Brazil (Lei 14.754, R$35k rule, Lucro Real) crypto & DeFi tax optimization via MCP and x402 Base USDC
 
 </details>
 
