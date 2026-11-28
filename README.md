@@ -1573,6 +1573,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[dreammis/alipay-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/alipay-upload)** - Publish video posts to Alipay Life Services
 - **[dreammis/baijiahao-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/baijiahao-upload)** - Publish videos to Baijiahao
 - **[dreammis/bilibili-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/bilibili-upload)** - Upload videos to Bilibili with category selection
+- **[yihui-dev/skillry-skills](https://github.com/yihui-dev/skillry-skills)** - 87 free creative Agent Skills by Skillry: 24 CreatorMotion B-roll effects, 30 LaunchMotion product launch scenes, editable PPT decks, websites, brand OG images, and launch videos
 - **[dreammis/dayu-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/dayu-upload)** - Publish videos and articles to Dayuhao
 - **[dreammis/douyin-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/douyin-upload)** - Publish videos and image-text posts to Douyin
 - **[dreammis/facebook-upload](https://github.com/dreammis/social-auto-upload/tree/main/skills/facebook-upload)** - Publish video and image posts to Facebook profiles
