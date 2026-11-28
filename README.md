@@ -1981,6 +1981,7 @@ Before installing or using any Agent Skill, review potential security risks and 
 
 Recommended tools:
 
+- [PACT](https://github.com/Balanov/pact) - PACT - verifiable agent payment trail (skill) for agents. Ships SKILL.md, the spec and conformance vectors.
 - [Synk Skill Security Scanner](https://github.com/snyk/agent-scan)
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
 
