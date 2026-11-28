@@ -1981,6 +1981,7 @@ Before installing or using any Agent Skill, review potential security risks and 
 
 Recommended tools:
 
+- [Insomnia Security Plugin & Skill](https://github.com/vulnz/insomnia-mcp) - Claude Code / Cursor / Antigravity security plugin & MCP server delivering 160 SAST/taint, live secret validation, SCA/SBOM, Web DAST, OSINT, and 21,100+ 1-Day CVE verification tools (`https://mcp.insom.ai/mcp`, 50 free credits).
 - [Synk Skill Security Scanner](https://github.com/snyk/agent-scan)
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
 
