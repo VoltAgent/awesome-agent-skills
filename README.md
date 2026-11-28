@@ -1969,6 +1969,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[danoszz/penthera](https://github.com/danoszz/penthera/tree/main/skills/penthera)** - Offline rule-based security checks for repos, dependencies and agent configs
 
 </details>
+- **[EdgePlat/edgepedia](https://github.com/EdgePlat/edgepedia-mcp/tree/main/skills/edgepedia)** - Search and read 519,000+ cited encyclopedia articles across 31 languages via Edgepedia's keyless JSON API and hosted MCP server.
 
 
 
